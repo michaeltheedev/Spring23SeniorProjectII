@@ -1,0 +1,228 @@
+{
+    "project": {
+        "projectId": 4325,
+        "title": "Development of Reconfigurable Ka-Band Antenna Array",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10660,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10654,
+                "level": 3,
+                "code": "TX05.2.6",
+                "title": "Innovative Antennas",
+                "definition": "Flight and ground antennas provide more innovative effective apertures than those currently in operation, with high efficiency but lower mass per unit area and accurate pointing.",
+                "exampleTechnologies": "Deployable antennas; phased array antennas; atmospheric phase compensation for uplink arrays at Ka-Band; small-satellite distributed multiple input multiple output (MIMO); conformal, low-mass antenna systems; antenna array architecture enablers",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Phased arrays offer many advantages over the reflector and lens antennas typically used on satellites.  They provide higher aperture efficiency and power amplification at the element level. Also, they have no spillover loss, no aperture blockage, and better reliability. However, they have not been adapted as much due to their limited bandwidth and technology costs for reconfiguration.  This metamaterial array technology could achieve significant wave slow down and wide bandwidth, addressing limitations associated with phased arrays.",
+        "description": "NASA requires small and lightweight communication and remote sensing systems to accomplish its missions. Often performance drives engineering designs, but for NASA, there is an inherent tradeoff between performance and weight. As would be expected, weight and size limitations impact system functionality and performance. Also, in many recent NASA missions, there is a need for communication system reconfiguration after launch.  These limitations have prompted a desire for multibeam and wideband antennas that can realize reconfigurable functionality. Reflector and lens antennas are typically used for satellites. However, phased arrays offer many advantages over reflectors and lenses. They provide higher aperture efficiency and power amplification at the element level. Also, they have no spillover loss, no aperture blockage, and better reliability. However, they have not been adapted as much due to their limited bandwidth and technology costs for reconfiguration.  Recent developments in wave slow down techniques using metamaterials have now allowed for very thin conformal antenna apertures that are concurrently broadband (as much as 10:1). This overcomes the ensuing conundrum of narrowband printed antenna technologies. Also, low cost multibeam approaches and software reconfigurable feeds are now possible to enable low cost conformal Ka band arrays.   Here, I am proposing a novel wideband metamaterial technology that relies on our group's experience and recent developments on wideband small arrays and multibeam technologies. The proposed metamaterial array technology is based on the novel concept of emulating in-plane anisotropy to introduce many more design degrees of freedom to achieve significant wave slow down and wide bandwidth. As part of this fellowship, I will adapt these new metamaterial concepts to develop wideband (>4:1 bandwidth) Ka-band arrays. The array will also include low cost software-defined RF electronics for beam synthesis and reconfiguration.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 235906,
+                "firstName": "John",
+                "lastName": "Volakis",
+                "fullName": "John Volakis",
+                "fullNameInverted": "Volakis, John",
+                "primaryEmail": "volakis.1@osu.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 354714,
+                "firstName": "Nicholas",
+                "lastName": "Host",
+                "fullName": "Nicholas K Host",
+                "fullNameInverted": "Host, Nicholas K",
+                "middleInitial": "K",
+                "primaryEmail": "nicholas.k.host@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            },
+            {
+                "contactId": 355852,
+                "firstName": "Nick",
+                "lastName": "Host",
+                "fullName": "Nick Host",
+                "fullNameInverted": "Host, Nick",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Development of Reconfigurable Ka-Band Antenna Array",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1757,
+                    "fileName": "4325-1363183126082",
+                    "fileSize": 194342,
+                    "objectId": 553,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1757,
+                        "fileName": "4325-1363183126082",
+                        "fileSize": 194342,
+                        "objectId": 553,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 553,
+                "title": "4325-1363183126082.jpg",
+                "description": "Project Image   Development of Reconfigurable Ka-Band Antenna Array",
+                "libraryItemTypeId": 1095,
+                "projectId": 4325,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1757,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 553,
+            "description": "Project Image   Development of Reconfigurable Ka-Band Antenna Array",
+            "projectId": 4325,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "OH",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Ohio",
+                "stateTerritoryId": 23
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

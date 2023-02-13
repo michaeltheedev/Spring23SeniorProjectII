@@ -1,0 +1,251 @@
+{
+    "project": {
+        "projectId": 4251,
+        "title": "Characterization and Modeling of High-Strain Rate Failure Response of Nanocomposites",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10874,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10870,
+                "level": 3,
+                "code": "TX12.3.4",
+                "title": "Reliability, Life Assessment, and Health Monitoring",
+                "definition": "This area covers technologies for timely anomaly detection, prognosis, and life assessment prediction for vehicles or mechanical systems.",
+                "exampleTechnologies": "Integrated health monitoring systems including embedded sensors, damage and remaining life prediction techniques",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The apparatus was created for the dynamic fracture testing of newly engineered materials which are expensive to produce in traditional specimen sizes. This methodology is also ideal for testing biomaterials such as bone and bone cement, which are difficult to procure in large sizes. This simple device is inexpensive to construct. By scaling down these methods, current camera technology will allow the future testing of significantly smaller samples, thereby decreasing development costs.",
+        "description": "The primary objective of this proposal is to introduce a simple, versatile, cost-effective device for characterizing dynamic fracture of nanocomposite materials. Of particular interest to the proposed research are polymers reinforced with carbon nanotubes and nanofibers. These nanocomposites have shown great potential as structural materials and adhesives under static loading conditions. However, knowing the quasi-static fracture and failure properties of aerospace materials is typically insufficient, as most materials become more brittle at high-strain rate and/or cryogenic temperatures. Additionally, aerospace structures often encounter dynamic transient loading events ranging from tool drop to space debris impact. The destructive capability of seemingly harmless foam traveling at high speeds and cold temperatures was demonstrated tragically in 2003 with the Columbia space shuttle. An understanding of the dynamic failure behavior of aerospace materials is therefore critical for structural safety.  The proposed experimental methods can be utilized to accurately determine dynamic crack initiation toughness (Kcr), as well as dynamic fracture toughness as a function of crack growth parameters such as velocity and acceleration. The current setup is designed for testing relatively small samples (1'x1'), but the methodology can easily be scaled down to characterize even smaller specimens. Optically measured stress intensity factors for isotropic acrylic samples have been verified with a computational model. A linear relationship has also been found between pressure input and stress output from the device, allowing for dynamic material characterization over a broad range of strain rates. By altering the material of the pulse shaper and/or striker, an even wider array of strain rates has been attained. The final objective is to demonstrate the effectiveness of this device for measuring fracture parameters of novel anisotropic materials, including orthotropic nanocomposites and adhesives employed in joining dissimilar materials.  A gas-gun has been constructed that delivers a one-point impact to a relatively small sample in a controlled fashion. The gas gun launches a cylindrical striker into the long incident bar, sending a stress pulse along the incident bar and into the specimen. Ultra-high-speed digital photography of pre-notched acrylic samples tested on the apparatus show that fracture occurs over a few microseconds, whereas the sample's motion is perceived in the millisecond time scale (due to inertial effects). Therefore, no additional supports are necessary to insure that crack initiation and propagation occur within the field-of-view of the camera.  Using Digital Image Correlation (DIC) method, images collected at ~300,000 frames/sec are compared to those recorded in the undeformed state in order to map deformations in the region of interest. These displacement fields are used to extract fracture parameters, including fracture toughness, stress intensity factors, and crack velocity. Strain gages on the incident bar can then be used to independently verify optically measured stress intensity factors using finite element analysis.  The device is designed to cost-effectively test the dynamic fracture properties of materials, both at crack initiation and during crack propagation. Test results will describe not only the initial toughness of the material, but also its ability to resist further crack growth once crack propagation has begun. The apparatus was created for the dynamic fracture testing of newly engineered materials which are expensive to produce in traditional specimen sizes. This methodology is also ideal for testing biomaterials such as bone and bone cement, which are difficult to procure in large sizes. This simple device is inexpensive to construct. By scaling down these methods, current camera technology will allow the future testing of significantly smaller samples, thereby decreasing development costs.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 175210,
+                "firstName": "Hareesh",
+                "lastName": "Tippur",
+                "fullName": "Hareesh Tippur",
+                "fullNameInverted": "Tippur, Hareesh",
+                "primaryEmail": "htippur@eng.auburn.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 397312,
+                "firstName": "Robert",
+                "lastName": "Bedsole",
+                "fullName": "Robert W Bedsole",
+                "fullNameInverted": "Bedsole, Robert W",
+                "middleInitial": "W",
+                "primaryEmail": "robert.w.bedsole@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Characterization and Modeling of High-Strain Rate Failure Response of Nanocomposites",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1725,
+                    "fileName": "4251-1363116479917",
+                    "fileSize": 194342,
+                    "objectId": 898,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1725,
+                        "fileName": "4251-1363116479917",
+                        "fileSize": 194342,
+                        "objectId": 898,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 898,
+                "title": "4251-1363116479917.jpg",
+                "description": "Project Image   Characterization and Modeling of High-Strain Rate Failure Response of Nanocomposites",
+                "libraryItemTypeId": 1095,
+                "projectId": 4251,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1725,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 898,
+            "description": "Project Image   Characterization and Modeling of High-Strain Rate Failure Response of Nanocomposites",
+            "projectId": 4251,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Auburn",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3993,
+                "organizationName": "Auburn University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "AL",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Alabama",
+                    "stateTerritoryId": 18
+                },
+                "stateTerritoryId": 18,
+                "murepUnitId": 100858,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "AL",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Alabama",
+                "stateTerritoryId": 18
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

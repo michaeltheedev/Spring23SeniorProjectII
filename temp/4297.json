@@ -1,0 +1,219 @@
+{
+    "project": {
+        "projectId": 4297,
+        "title": "Multi-Functional Stimuli-Responsive Materials",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10862,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10855,
+                "level": 3,
+                "code": "TX12.1.7",
+                "title": "Special Materials",
+                "definition": "This area covers materials with specialized functions.",
+                "exampleTechnologies": "Adhesive materials concepts, nanofiltering and fluid barrier materials, porous/non-porous materials, optically transparent window materials, materials with negative refractive index, aerogels, metamaterials, topological materials, functionally graded materials, metallic glasses, nanocrystalline metals, materials with controllable CTE, multifunctional laminates, shape memory alloys, high entropy alloys, multi-functional materials",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Supramolecular polymers based on non-covalent interactions can display a wide array of stimuli-responsive attributes. They can be tailored to change shape, actuate or heal in response to an external stimulus such as light or heat. We are aiming to create dynamic covalent polymers which function in a similar manner but replace the non-covalent interactions with reversible covalent bonds. The motivation for this is twofold. First, by replacing the non-covalent interactions with relatively stronger covalent bonds we can create materials which have more robust mechanical properties. Second, by expanding the library of reversible interactions at our disposable, we can create materials with multiple functions through the incorporation of multiple reversible bonds (both covalent and non-covalent). The work will first focus on synthesizing candidate polymers by drawing analogy to several supramolecular polymers where the supramolecular binding units are replaced with disulfide bonds, which have been proven to be reversible under a number of conditions. The next generation of materials will be prepared that use a combination of disulfide bonds, reversible metal-ligand coordination and liquid crystallinity to access stimuli-responsive materials that exhibit a different response depending on the type of stimulus applied. Mechanical testing would then be employed to assess the efficacy of these polymers as healable, shape memory or actuating materials. The work aims to satisfy some of the objectives set forth in NASA Technology Area 10.1 and 12.1 which call for the development of multi-functional materials with shape memory and self-healing properties.  ",
+        "description": "Supramolecular polymers based on non-covalent interactions can display a wide array of stimuli-responsive attributes. They can be tailored to change shape, actuate or heal in response to an external stimulus such as light or heat. We are aiming to create dynamic covalent polymers which function in a similar manner but replace the non-covalent interactions with reversible covalent bonds. The motivation for this is twofold. First, by replacing the non-covalent interactions with relatively stronger covalent bonds we can create materials which have more robust mechanical properties. Second, by expanding the library of reversible interactions at our disposable, we can create materials with multiple functions through the incorporation of multiple reversible bonds (both covalent and non-covalent). The work will first focus on synthesizing candidate polymers by drawing analogy to several supramolecular polymers where the supramolecular binding units are replaced with disulfide bonds, which have been proven to be reversible under a number of conditions. The next generation of materials will be prepared that use a combination of disulfide bonds, reversible metal-ligand coordination and liquid crystallinity to access stimuli-responsive materials that exhibit a different response depending on the type of stimulus applied. Mechanical testing would then be employed to assess the efficacy of these polymers as healable, shape memory or actuating materials. The work aims to satisfy some of the objectives set forth in NASA Technology Area 10.1 and 12.1 which call for the development of multi-functional materials with shape memory and self-healing properties.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 450815,
+                "firstName": "Stuart",
+                "lastName": "Rowan",
+                "fullName": "Stuart Rowan",
+                "fullNameInverted": "Rowan, Stuart",
+                "primaryEmail": "stuart.rowan@case.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 52836,
+                "firstName": "Brian",
+                "lastName": "Michal",
+                "fullName": "Brian T Michal",
+                "fullNameInverted": "Michal, Brian T",
+                "middleInitial": "T",
+                "primaryEmail": "brian.t.michal@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Multi-Functional Stimuli-Responsive Materials",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1801,
+                    "fileName": "4297-1363193695360",
+                    "fileSize": 194342,
+                    "objectId": 799,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1801,
+                        "fileName": "4297-1363193695360",
+                        "fileSize": 194342,
+                        "objectId": 799,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 799,
+                "title": "4297-1363193695360.jpg",
+                "description": "Project Image   Multi-Functional Stimuli-Responsive Materials",
+                "libraryItemTypeId": 1095,
+                "projectId": 4297,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1801,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 799,
+            "description": "Project Image   Multi-Functional Stimuli-Responsive Materials",
+            "projectId": 4297,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "OH",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Ohio",
+                "stateTerritoryId": 23
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

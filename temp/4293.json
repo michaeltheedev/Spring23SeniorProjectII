@@ -1,0 +1,270 @@
+{
+    "project": {
+        "projectId": 4293,
+        "title": "Fundamentals of Gravity and Tube Size Effects on Flow Boiling Heat Transfer",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10931,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10929,
+                "level": 3,
+                "code": "TX14.2.2",
+                "title": "Heat Transport",
+                "definition": "Heat transport enables moving waste energy from a vehicle component and/or system for either rejection to the environment or re-use elsewhere within the vehicle. This area includes technologies for both spacecraft and electrified aircraft propulsion thermal management. The transport of energy is accomplished using active and/or passive capabilities within a thermal control system. Technologies include those items that can more effectively transfer heat, as well as methods to advance robustness, life, efficiency, and temperature range of operability.",
+                "exampleTechnologies": "Heat pipes (e.g. constant conductance, variable conductance, diode), capillary pumped fluid loops, loop heat pipes, mechanically pumped fluid loops (e.g., single phase and two phase), thermal straps, forced air cooling (heating, ventilation, and air conditioning (HVAC)), fans, heat pumps (e.g., thermoelectric coolers, vapor compression systems), vapor cooling, heat switches (e.g. paraffin, coefficient of thermal expansion, shape memory alloys), solid state conduction bars/doublers (e.g. high thermal conductivity composites), loop heat pipe and high heat load transport (500 kW - 1 MW), two phase heat transport and pool boiling",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Advancements in our understanding of boiling is important if it is desired to decrease heat exchanger mass, fluid flow rates, and pumping power required for future space missions. Fluid film thickness measurements are important in the study of flow boiling for several reasons. First, film thickness is important to the prediction of heat transfer in annular and slug flows. In these types of flow, a film of fluid is left along the surface and is the means of heat transfer. Through study of the film thickness, the amount of heat conducted or convected from the surface can be determined. Previous tests have employed capacitance methods using electrodes and probes that measure the admittance of the circuit. Electromagnetic field theory, along with the test geometry, provides a relation for film thickness versus measure capacitance. The main issue associated with capacitance measurements is the necessity of changing electrode configurations for various film thicknesses. They also provide measurements only at a single point. The capacitance of a fluid can be affected by its temperature which must be accounted for in the measurements. To avoid these issues, it is proposed in this research to measure the film thickness for fluids that are partially transparent to infrared radiation by measuring how much energy is absorbed by the films themselves using an infrared camera. Unlike previous techniques, this provides a non-invasive method for measuring this important quantity.",
+        "description": "Increased power requirements and weight restrictions are significant challenges that must be addressed by members of the space community in order for future space flight and exploration to become a reality. The efficiency of heat transport from a spacecraft to an external radiator and then to the cold of space transport is key to many of NASA's Space Technology goals. If heat can be transferred more efficiently, the size and weight of the thermal management system can be decreased, resulting in both an increase in mission capability and a reduction in mission cost. To date, these thermal exchange systems have been mechanically pumped, single-phased loops with their capability linked to the sensible heat of the fluid in use, or its ability to absorb energy due to a change in temperature. Use of a fluid's latent heat (the energy required to change a fluid from liquid to vapor) can be a much more effective way to manage heat. Boiling is a widely used technique to transfer heat and is utilized in many earth gravity situations. Advancements in our understanding of boiling is important if it is desired to decrease heat exchanger mass, fluid flow rates, and pumping power required for future space missions.  It is my goal as a graduate student at the University of Maryland to determine the effects of gravity on flow boiling heat transfer. In doing so, I will help NASA's Space Technology effort create the innovative new space technologies for our nation's science, exploration, and economic future. In order to pursue the detailed line of research, I plan to use an apparatus that consists of an electrically heated silicon tube through which the fluid can pass. Because silicon is transparent to infrared radiation, infrared cameras can be used to measure the temperature distributions on the inner and outer surfaces of the tube from which local measurements of flow boiling heat transfer can be obtained. Inverse heat conduction techniques can be used to calculate transient heat transfer coefficients as the bubbles pass. Pressure drop will also be measured. The system allows for analysis of flow boiling in special aircraft that fly in parabolic arcs, simulating microgravity. The flow velocity threshold for which microgravity affects flow boiling heat transfer will be determined. Also, I plan to study how varying gravity and fluid velocity affect the fluid film thickness so that overheating of the system can be prevented. Experimentation with various tube sizes will help validate their data as well as provide insight into the role tube diameter on flow boiling heat transfer.  Fluid film thickness measurements are important in the study of flow boiling for several reasons. First, film thickness is important to the prediction of heat transfer in annular and slug flows. In these types of flow, a film of fluid is left along the surface and is the means of heat transfer. Through study of the film thickness, the amount of heat conducted or convected from the surface can be determined. Previous tests have employed capacitance methods using electrodes and probes that measure the admittance of the circuit. Electromagnetic field theory, along with the test geometry, provides a relation for film thickness versus measure capacitance. The main issue associated with capacitance measurements is the necessity of changing electrode configurations for various film thicknesses. They also provide measurements only at a single point. The capacitance of a fluid can be affected by its temperature which must be accounted for in the measurements. To avoid these issues, it is proposed in this research to measure the film thickness for fluids that are partially transparent to infrared radiation by measuring how much energy is absorbed by the films themselves using an infrared camera. Unlike previous techniques, this provides a non-invasive method for measuring this important quantity.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 255828,
+                "firstName": "Junghoon",
+                "lastName": "Kim",
+                "fullName": "Junghoon Kim",
+                "fullNameInverted": "Kim, Junghoon",
+                "primaryEmail": "kimjh@umd.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 10795,
+                "firstName": "Alexander",
+                "lastName": "Scammell",
+                "fullName": "Alexander D Scammell",
+                "fullNameInverted": "Scammell, Alexander D",
+                "middleInitial": "D",
+                "primaryEmail": "alexander.d.scammell@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            },
+            {
+                "contactId": 9414,
+                "firstName": "Alex",
+                "lastName": "Scammell",
+                "fullName": "Alex Scammell",
+                "fullNameInverted": "Scammell, Alex",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Fundamentals of Gravity and Tube Size Effects on Flow Boiling Heat Transfer",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1766,
+                    "fileName": "4293-1363184609462",
+                    "fileSize": 194342,
+                    "objectId": 458,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1766,
+                        "fileName": "4293-1363184609462",
+                        "fileSize": 194342,
+                        "objectId": 458,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 458,
+                "title": "4293-1363184609462.jpg",
+                "description": "Project Image   Fundamentals of Gravity and Tube Size Effects on Flow Boiling Heat Transfer",
+                "libraryItemTypeId": 1095,
+                "projectId": 4293,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1766,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 458,
+            "description": "Project Image   Fundamentals of Gravity and Tube Size Effects on Flow Boiling Heat Transfer",
+            "projectId": 4293,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "UMCP",
+                "canUserEdit": false,
+                "city": "College Park",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3111,
+                "organizationName": "University of Maryland-College Park",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MD",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Maryland",
+                    "stateTerritoryId": 3
+                },
+                "stateTerritoryId": 3,
+                "msiData": {
+                    "2017": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2018": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 163286,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "MD",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Maryland",
+                "stateTerritoryId": 3
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

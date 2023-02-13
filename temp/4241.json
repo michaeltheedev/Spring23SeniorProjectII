@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4241,
+        "title": "Tailorable Porous Ceramics via Freeze Casting",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10880,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10879,
+                "level": 3,
+                "code": "TX12.4.1",
+                "title": "Manufacturing Processes",
+                "definition": "This area covers innovative physical manufacturing processes for rapid production, reduced cost, increase accuracy, and defect reduction.",
+                "exampleTechnologies": "Additive manufacturing of metallics and nanofiber/fiber /ceramic matrix based composites, especially for large structures; in-space fabrication, assembly and repair; advanced casting and injection molding of metal components, including amorphous metals, metal matrix composites and high-strength aluminum alloys; advanced subtractive manufacturing processes including wire-Electrical Discharge Machining (EDM), water jetting and surface finishing; advanced laminate or sheet metal fabrication.",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "An important outcome of the research will be a model which relates processing parameters to the characteristics of the resulting pore network. This model will enable the fabrication of porous ceramics with specific pore network properties for desired applications.",
+        "description": "Freeze casting of ceramics is a novel technique used to produce porous materials. The process involves solidifying a solvent in a ceramic slurry to produce a frozen network, subliming the frozen solvent, and sintering the remaining porous powder network. Applications for porous ceramics include filters, catalysts, high temperature insulation, and electrodes for energy devices. Yet the pore network, structure and morphology required for each of these applications vary widely. Although recent studies have explored how processing parameters affect pore fraction, size and shape, less attention has been paid to the internal structure and connectivity of the network, both critical components in porous materials performance. The goal of the proposed research is to develop a fundamental understanding of the freeze-casting process sufficient to establish pore structure-property relationships. Aluminum oxide in slurries made with water and camphene will be used as control materials for the study but other energy-related ceramics of interest to NASA will be included to validate the findings. Characteristics of a pore network include percent porosity, connectivity of pores, pore shape, size and size distribution, specific surface area, and tortuosity. These will be determined using two- and three-dimensional imaging coupled with porosimetry and surface area measurements. An important outcome of the research will be a model which relates processing parameters to the characteristics of the resulting pore network. This model will enable the fabrication of porous ceramics with specific pore network properties for desired applications.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 261799,
+                "firstName": "Katherine",
+                "lastName": "Faber",
+                "fullName": "Katherine Faber",
+                "fullNameInverted": "Faber, Katherine",
+                "primaryEmail": "k-faber@northwestern.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 424641,
+                "firstName": "Sarah",
+                "lastName": "Miller",
+                "fullName": "Sarah M Miller",
+                "fullNameInverted": "Miller, Sarah M",
+                "middleInitial": "M",
+                "primaryEmail": "sarah.m.miller@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Tailorable Porous Ceramics via Freeze Casting",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1832,
+                    "fileName": "4241-1363266677074",
+                    "fileSize": 194342,
+                    "objectId": 946,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1832,
+                        "fileName": "4241-1363266677074",
+                        "fileSize": 194342,
+                        "objectId": 946,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 946,
+                "title": "4241-1363266677074.jpg",
+                "description": "Project Image   Tailorable Porous Ceramics via Freeze Casting",
+                "libraryItemTypeId": 1095,
+                "projectId": 4241,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1832,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 946,
+            "description": "Project Image   Tailorable Porous Ceramics via Freeze Casting",
+            "projectId": 4241,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "NEU",
+                "canUserEdit": false,
+                "city": "Boston",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2890,
+                "organizationName": "Northeastern University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Massachusetts",
+                    "stateTerritoryId": 30
+                },
+                "stateTerritoryId": 30,
+                "murepUnitId": 167358,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "IL",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Illinois",
+                "stateTerritoryId": 39
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

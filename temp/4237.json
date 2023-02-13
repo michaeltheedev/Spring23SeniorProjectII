@@ -1,0 +1,219 @@
+{
+    "project": {
+        "projectId": 4237,
+        "title": "Unsteady Simulation of Dual-Mode Transition Flows Using a Hybrid LES/RANS Approach with Improved Sub-Grid Scale Models",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10775,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10770,
+                "level": 3,
+                "code": "TX09.4.5",
+                "title": "Modeling and Simulation for EDL",
+                "definition": "Modeling and simulation for EDL refers to the computer codes, underlying physical models, and processes that enable configuration definition and design verification and validation for systems that\u2014short of a full scale flight test\u2014cannot be tested exactly in the configuration and environment for which it is intended to operate. The models cover both the environmental response to the presence of the system in operation, and the operational performance of the system in the environment. A key concern is understanding and modeling of interactions between rocket plumes and the ground.",
+                "exampleTechnologies": "Multi-disciplinary coupled analysis tools, aerothermodynamics modeling, ablative material response models, non-ablative material response models, TPS quantification models and processes, numerical methodologies and techniques, autonomous aerobraking, orbital debris entry and breakup modeling, meteor entry and breakup modeling, Fluid Structure Interaction (FSI) tools, SRP modeling tools, aerodynamic modeling tools, plume-surface interaction, multi-scale simulation tools",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Not only will this research benefit development of TSTO concepts, but it will also benefit the NASA flow physics modeling community at large. By developing the LES/FDF/FGM model within an established NASA framework, like VULCAN, the resulting capabilities will be made widely available. This ease of access will lead to applications of this approach in areas outside of its initial region of inception. Lastly, and perhaps most importantly, the proposed research represents a key step in achieving NASA's Space Technology goal and one of the most important Space Technology Grand Challenge: Economical Space Access. Understanding and modeling dual-mode transition flow physics is a pressing hurdle that must be overcome before TSTO hypersonic air-breathing technologies can be used to revolutionize the nation's means of affordable and sustainable space access.",
+        "description": "Space access today is via rocket-launched vehicles like the Space Shuttle. Unfortunately, due to the nature of the propulsion systems, and the need to carry on-board oxidizer, these launch vehicles have small payload fractions. This limitation indicates a real need for the development of revolutionary launch technologies for space access. Leading candidates for next generation launch vehicles include two-stage-to-orbit (TSTO) concepts utilizing advanced hypersonic air-breathing propulsion for the first stage. However, the successful design and operation of such vehicles is hindered by a fundamental lack of predictive capability of the high-speed turbulent combustion processes occurring through the ramjet-to-scramjet flight regime. Only after researchers successfully address this fundamental inadequacy can advanced hypersonic air-breathing technologies be used to revolutionize means of space access.  This research plan aims to develop advanced computational models for predicting flow conditions within a scramjet engine as it transitions through the ramjet-to-scramjet dual-mode regime. Development of these models will be achieved by answering two primary research questions of interest: (1) how can the wide range of flow scales occurring during dual-mode transition be modeled with sufficient accuracy to capture the relevant turbulent flow and combustion physics, and (2) how can the advanced models be implemented within existing computational frameworks for minimal runtimes? This proposal leverages existing developmental frameworks, in addition to developing novel models and methods, to answer these questions. Answering the first question relies on expanding state-of-the-art models like Large Eddy Simulation (LES) and the flamelet generated manifold (FGM) approach. The primary deficiency of LES is insufficient sub-grid scale (SGS) models for the flow regime of interest, and the FGM approach is currently incapable of predicting pressure-dependent combustion physics. This research aims to develop joint probability density function (PDF) SGS models to achieve the necessary accuracy of the flow physics and to develop an FGM approach incorporating pressure effects. This LES/PDF/FGM approach will be used to model flow away from the wall, whereas a hybrid LES/Reynolds-Averaged Navier Stokes (RANS) approach will be used near the flowpath wall. The answer to the second question relies on leveraging the VULCAN computational fluid dynamics framework to implement the LES/PDF/FGM and hybrid LES/RANS approaches in a cost-effective and timely manner. Long runtimes plague advanced simulations of dual-mode transition and other high-speed turbulent reacting flows; however, this research aims to incorporate these models into VULCAN in an extensible manner using novel algorithms that will accommodate later generation models. The research proposed herein aims to develop a complete understanding of the dual-mode transition flow process and upon doing so, advance the development of revolutionary means of space access. Not only will this research benefit development of TSTO concepts, but it will also benefit the NASA flow physics modeling community at large. By developing the LES/FDF/FGM model within an established NASA framework, like VULCAN, the resulting capabilities will be made widely available. This ease of access will lead to applications of this approach in areas outside of its initial region of inception. Lastly, and perhaps most importantly, the proposed research represents a key step in achieving NASA's Space Technology goal and one of the most important Space Technology Grand Challenge: Economical Space Access. Understanding and modeling dual-mode transition flow physics is a pressing hurdle that must be overcome before TSTO hypersonic air-breathing technologies can be used to revolutionize the nation's means of affordable and sustainable space access.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 197602,
+                "firstName": "James",
+                "lastName": "McDaniel",
+                "fullName": "James Mcdaniel",
+                "fullNameInverted": "McDaniel, James",
+                "primaryEmail": "jcm@virginia.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 220106,
+                "firstName": "Jesse",
+                "lastName": "Quinlan",
+                "fullName": "Jesse R Quinlan",
+                "fullNameInverted": "Quinlan, Jesse R",
+                "middleInitial": "R",
+                "primaryEmail": "jesse.r.quinlan@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Unsteady Simulation of Dual-Mode Transition Flows Using a Hybrid LES/RANS Approach with Improved Sub-Grid Scale Models",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1840,
+                    "fileName": "4237-1363268119057",
+                    "fileSize": 194342,
+                    "objectId": 865,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1840,
+                        "fileName": "4237-1363268119057",
+                        "fileSize": 194342,
+                        "objectId": 865,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 865,
+                "title": "4237-1363268119057.jpg",
+                "description": "Project Image   Unsteady Simulation of Dual-Mode Transition Flows Using a Hybrid LES/RANS Approach with Improved Sub-Grid Scale Models",
+                "libraryItemTypeId": 1095,
+                "projectId": 4237,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1840,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 865,
+            "description": "Project Image   Unsteady Simulation of Dual-Mode Transition Flows Using a Hybrid LES/RANS Approach with Improved Sub-Grid Scale Models",
+            "projectId": 4237,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "VA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Virginia",
+                "stateTerritoryId": 7
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

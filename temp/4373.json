@@ -1,0 +1,320 @@
+{
+    "project": {
+        "projectId": 4373,
+        "title": "Aneutronic Fusion Spacecraft Architecture",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10564,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10560,
+                "level": 3,
+                "code": "TX01.4.4",
+                "title": "Other Advanced Propulsion Approaches",
+                "definition": "Other advanced propulsion technologies include technologies and physics concepts that could result in breakthroughs that enable missions not previously possible.",
+                "exampleTechnologies": "Beamed energy, fusion propulsion, high energy-density materials, antimatter propulsion, advanced fission, breakthrough propulsion",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "The object of this proposal is to conduct a feasibility study for a novel, fusion-powered, space propulsion architecture that can ultimately change drastically the potential for human and robotic space exploration",
+        "description": "Description: provide framework to realize fusion propulsion for long-range space travel; analyze \"hybrid\" schemes with a solar or fission primary energy source along with a sub-critical fusion reactor used as a plasma space propulsion system Objective: conduct a feasibility study for a novel, fusion-powered, space propulsion architecture that can ultimately change drastically the potential for human and robotic space exploration. The object of this proposal is to conduct a feasibility study for a novel, fusion-powered, space propulsion architecture that can ultimately change drastically the potential for human and robotic space exploration. The proposed design is based on neutron-free nuclear fusion as the primary energy source. An innovative beam conditioning/nozzle concept enables useful propulsive thrust directly from the fusion products, while some fraction of the energy is extracted via direct conversion into electricity for use in the reactor and spacecraft systems. This study focuses on providing the framework required to make fusion propulsion an appealing proposition for long-range space travel (by integrating the power generation and propulsion systems) rather than on the development of a specific fusion reactor concept. However, the scope of this study is not constrained by the immediate availability of fusion energy since it also analyzes \"hybrid\" schemes with a solar or fission primary energy source along with a sub-critical fusion reactor used as a plasma space propulsion system.",
+        "destinations": [
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 12030,
+                "firstName": "Alfonso",
+                "lastName": "Tarditi",
+                "fullName": "Alfonso Tarditi",
+                "fullNameInverted": "Tarditi, Alfonso",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Aneutronic Fusion Spacecraft Architecture",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102313,
+                    "fileName": "5116",
+                    "fileSize": 143242,
+                    "objectId": 126884,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "143.2 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102313,
+                        "fileName": "5116",
+                        "fileSize": 143242,
+                        "objectId": 126884,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "143.2 KB"
+                    }
+                ],
+                "id": 126884,
+                "title": "5116.jpg",
+                "description": "Project Image   Aneutronic Fusion Spacecraft Architecture",
+                "libraryItemTypeId": 1095,
+                "projectId": 4373,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6578,
+                "projectId": 4373,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "This NIAC Phase I study provided led to several findings that provide the foundation for further research leading to a higher TRL: first a quantitative analysis of the intrinsic limitations of a propulsion system that utilizes aneutronic fusion products directly as the exhaust jet for achieving propulsion was carried on. Then, as a natural continuation, a new beam conditioning process for the fusion products was devised to produce an exhaust jet with the required characteristics (both thrust and specific impulse) for the optimal propulsion performances (in essence, an energy-to-thrust direct conversion). The beam conditioning process was analyzed in details through modeling and simulation. Another important development was the analysis of the characteristics of the direct energy conversion system (Travelling Wave Direct Energy Conversion, beam energy to electrical energy) was carried on. This system is required for both for electrical power supply of vehicle systems (including power that maybe re-circulated into the fusion core, likely a non-ignited fusion based concept) and for the first stage of the beam conditioning process.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102313,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126884,
+            "description": "Project Image   Aneutronic Fusion Spacecraft Architecture",
+            "projectId": 4373,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "Houston",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 4731,
+            "organizationName": "University of Houston-Clear Lake",
+            "organizationType": "Academia",
+            "stateTerritory": {
+                "abbreviation": "TX",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Texas",
+                "stateTerritoryId": 29
+            },
+            "stateTerritoryId": 29,
+            "msiData": {
+                "2017": [
+                    "Hispanic Serving Institutions (HSI)"
+                ],
+                "2019": [
+                    "Hispanic Serving Institutions (HSI)"
+                ],
+                "2020": [
+                    "Hispanic Serving Institutions (HSI)"
+                ],
+                "2021": [
+                    "Hispanic Serving Institutions (HSI)"
+                ],
+                "2022": [
+                    "Hispanic Serving Institutions (HSI)"
+                ]
+            },
+            "setAsideData": [],
+            "murepUnitId": 225414,
+            "naorganization": false,
+            "organizationTypePretty": "Academia"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "JSC",
+                "canUserEdit": false,
+                "city": "Houston",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4853,
+                "organizationName": "Johnson Space Center",
+                "organizationType": "NASA_Center",
+                "stateTerritory": {
+                    "abbreviation": "TX",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Texas",
+                    "stateTerritoryId": 29
+                },
+                "stateTerritoryId": 29,
+                "naorganization": false,
+                "organizationTypePretty": "NASA Center"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "TX",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Texas",
+                "stateTerritoryId": 29
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

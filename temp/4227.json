@@ -1,0 +1,250 @@
+{
+    "project": {
+        "projectId": 4227,
+        "title": "Homogenization and Optimization of Electrodes and Photovoltaic Cells with Periodic Nanoscopic Geometry",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10562,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10560,
+                "level": 3,
+                "code": "TX01.4.2",
+                "title": "Electromagnetic Tethers",
+                "definition": "Electromagnetic tethers are long, lightweight cables that produce thrust through the Lorentz force by carrying electrical current and interacting with a planetary magnetosphere.",
+                "exampleTechnologies": "Electromagnetic Tethers",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This project can benefit many mission types, especially small satellites that launch as secondary payloads. The ability to change orbit and perform any required attitude maneuvers without the use of propellant will be beneficial to any mission. <p> \t&nbsp;</p> <p> \t&nbsp;</p> ",
+        "description": "The purpose of this proposal is to design a completely propellantless spacecraft control system using magnetic actuators. The operational life and cost of a spacecraft is heavily influenced by its mass which makes propellantless spacecraft control systems an attractive alternative. An electrodynamic tether is a long conducting wire on a spacecraft that interacts with the Earth's magnetic field thereby exchanging orbital angular momentum with the Earth's rotational angular momentum. Electrodynamic tethers can either convert orbital energy into electricity or vice versa. Magnetic torque coils are coils placed on a spacecraft such that when current is passed through the coils in the presence of Earth's magnetic field, a torque is generated which causes an exchange of momentum. Magnetic torque coils provide a propellantless torque which can be used to rotate a spacecraft. However, they cannot generate a torque about the axis parallel to the magnetic field meaning that this axis will be uncontrollable. The goal of this proposal is to compensate for the lack of control by investigating a system consisting of both magnetic torque coils and electrodynamic tethers in order to generate a torque about the uncontrolled axis. My work will focus on the dynamics of the combined system as well as control laws to produce desired attitude or orbit changes. This project can benefit many mission types, especially small satellites that launch as secondary payloads. The ability to change orbit and perform any required attitude maneuvers without the use of propellant will be beneficial to any mission.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 228578,
+                "firstName": "John",
+                "lastName": "Cushman",
+                "fullName": "John Cushman",
+                "fullNameInverted": "Cushman, John",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 336981,
+                "firstName": "Michael",
+                "lastName": "Mueterthies",
+                "fullName": "Michael J Mueterthies",
+                "fullNameInverted": "Mueterthies, Michael J",
+                "middleInitial": "J",
+                "primaryEmail": "michael.j.mueterthies@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Magnetically Actuated Six Degree of Freedom Spacecraft Control Using Magnetic Torque Coils and Short Electrodynamic Tethers",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1789,
+                    "fileName": "4227-1363188101473",
+                    "fileSize": 194342,
+                    "objectId": 565,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1789,
+                        "fileName": "4227-1363188101473",
+                        "fileSize": 194342,
+                        "objectId": 565,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 565,
+                "title": "4227-1363188101473.jpg",
+                "description": "Project Image   Magnetically Actuated Six Degree of Freedom Spacecraft Control Using Magnetic Torque Coils and Short Electrodynamic Tethers",
+                "libraryItemTypeId": 1095,
+                "projectId": 4227,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1789,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 565,
+            "description": "Project Image   Magnetically Actuated Six Degree of Freedom Spacecraft Control Using Magnetic Torque Coils and Short Electrodynamic Tethers",
+            "projectId": 4227,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "West Lafayette",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2582,
+                "organizationName": "Purdue University-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "IN",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Indiana",
+                    "stateTerritoryId": 37
+                },
+                "stateTerritoryId": 37,
+                "murepUnitId": 243780,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "IN",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Indiana",
+                "stateTerritoryId": 37
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

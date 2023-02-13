@@ -1,0 +1,333 @@
+{
+    "project": {
+        "acronym": "V2Suit",
+        "projectId": 4341,
+        "title": "Variable Vector Countermeasure Suit for Space Habitation and Exploration",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10692,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10688,
+                "level": 3,
+                "code": "TX06.2.4",
+                "title": "Decompression Sickness Mitigation",
+                "definition": "Decompression sickness mitigation includes tools to quantitatively measure astronaut risk due to decompression sickness (DCS) and tools to improve operations, planning, and system design for planetary surface missions for which existing microgravity DCS countermeasures are not applicable. This area also includes integrated countermeasures that reduce decompression sickness risk, operational overhead, vehicle design impacts (e.g. materials flammability, consumables manifesting, etc.), and human performance impacts (e.g. fatigue, injury risk, reduced performance at higher suit pressures).",
+                "exampleTechnologies": "Probabilistic DCS risk models, reduced ppN2 vehicle atmospheres, venous gas emboli monitoring, adjunctive (e.g. pharmaceutical) DCS treatments, variable pressure space suits",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The successful development and integration of the V2Suit will be a be an enabler for several proposed space exploration mission technologies, including human health and adaptation countermeasures, autonomous health monitoring, human robotic interfaces, and adaptation and operations during artificial gravity. It will initially fill a void in the spaceflight health and performance countermeasures program, by enabling a training curriculum and countermeasures for sensorimotor adaptation. This type of countermeasure suit also has hearth benefits, particularly in gait or movement stabilization for the elderly, or rehabilitating individuals. In addition, with knowledge of the environment and the planned task, the system could be commanded to enforce \"keep out zones\" -- spatial regions that if penetrated with a body limb could cause harm to either the person or the equipment.",
+        "description": "The Variable Vector Countermeasure Suit (V2Suit) is a specialized spacesuit designed to keep astronauts healthy during long-duration space exploration missions and help stabilize them while they work in microgravity. The initial V2Suit prototype will integrate gyroscopes and accelerometers to track the position and orientation of body segments and use flywheels to provide a \"viscous resistance\" during movements to replicate the sensation of gravity during movements in 0-G.",
+        "destinations": [
+            {
+                "lkuCodeId": 1543,
+                "code": "EARTH",
+                "description": "Earth",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1544,
+                "code": "THE_MOON",
+                "description": "The Moon",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1518,
+                "code": "MARS",
+                "description": "Mars",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 272422,
+                "firstName": "Kevin",
+                "lastName": "Duda",
+                "fullName": "Kevin W Duda",
+                "fullNameInverted": "Duda, Kevin W",
+                "middleInitial": "W",
+                "primaryEmail": "iworkout4269@gmail.com",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "files": [],
+                "id": 126755,
+                "title": " Patent Link 1",
+                "libraryItemTypeId": 762,
+                "projectId": 4341,
+                "primary": false,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 762,
+                    "code": "LINK",
+                    "description": "Link",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            },
+            {
+                "caption": "Project Image   Variable Vector Countermeasure Suit (V2Suit) for Space Habitation and Exploration",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102236,
+                    "fileName": "15145",
+                    "fileSize": 224356,
+                    "objectId": 126783,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "224.4 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102236,
+                        "fileName": "15145",
+                        "fileSize": 224356,
+                        "objectId": 126783,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "224.4 KB"
+                    }
+                ],
+                "id": 126783,
+                "title": "15145.jpg",
+                "description": "Project Image   Variable Vector Countermeasure Suit (V2Suit) for Space Habitation and Exploration",
+                "libraryItemTypeId": 1095,
+                "projectId": 4341,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 7055,
+                "projectId": 4341,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "The Variable Vector Countermeasure Suit (V2Suit) for Space Habitation and Exploration is a visionary system concept that will revolutionize space missions by providing a platform for integrating sensors and actuators with daily astronaut intravehicular activities to improve human health and performance. The V2Suit uses control moment gyroscopes (CMGs) within a miniaturized module placed on body segments to provide a viscous resistance during movements - a countermeasure to the sensorimotor and musculoskeletal adaptation performance decrements that manifest themselves while living and working in microgravity and during gravitational transitions during long-duration spaceflight, including post-flight recovery and rehabilitation. Through an integrated design, system initialization, and control systems approach the V2Suit is capable of generating this viscous resistance along an arbitrarily specified direction of down. When movements are made, for example, parallel to that down direction a resistance is applied, and when the movement is perpendicular to that direction no resistance is applied. The V2Suit proposes to be a countermeasure to this spaceflight-related adaptation and de-conditioning and the unique sensorimotor characteristics associated with living and working in 0-G, which are critical for future long-duration space missions. This NIAC Phase I project focused on detailing several aspects of the V2Suit concept, including human-system integration, system architecture, computer aided design (CAD) modeling, and closed-loop simulation and analysis. In addition, early-stage breadboard prototyping of several aspects of the V2Suit system modules enabled characterization of expected performance and identified areas for further research and development to enable operational implementation of the V2Suit. In particular, potential challenges with integration of commercial-off-the-shelf components were identified. The key enabler for operational use and adoption of the V2Suit is a low-profile body worn form factor that does not interfere with normal, everyday movements and interfaces adequately with the body as to provide the generated gyroscopic torque for the perceptions of movement with a viscous resistance. These aspects were investigated through mockups using a life-size mannequin, and through body attachment mechanisms on the breadboard prototype. Through the evaluation and investigation of commercially-available components, as well as an identification of desirable form factors, CAD models of the V2Suit modules were developed. These models included all of the required elements - spin motors, flywheel masses, gimbal motors, slip rings, inertial measurement units, motor controllers, and the required mounting brackets/hardware and cabling. The configuration and orientation of the control moment gyroscopes (CMGs) was specified according to results from the modeling, simulation and analysis. Two revisions of the CAD model were investigated through closed-loop simulation of the CMGs, and their ability to generate a resultant reaction force during movement and null undesirable torques due to changes in the direction of the angular momentum vector as a result of the normal body movements. The simulation architecture was based on the V2Suit system architecture, including the ability to initialize the system, track the position, orientation, and movement of the modules, and command the CMGs to provide the required direction and magnitude of the gyroscopic torque. These simulations demonstrated that the feasibility of the concept, and validated aspects of the design, including the CMG orientation and that the spin and gimbal rates required can be provided using commercially available components. Finally, a breadboard prototype was developed, which included several aspects of the V2Suit system. Custom flywheels were integrated with commercially available motors, a three axis accelerometer, and motor controllers - all packaged into a body-worn form factor. Data from the accelerometer could be read, and motor speed commands sent to the unit through a computer interface. This enabled and identification of the perceptual magnitudes of the gyroscopic torque and detailed the tangible aspects of the V2Suit. The integrated approach, and multiple design cycles provided an opportunity to investigate, in detail many aspects of the V2Suit system, assess their performance, and identify key technology areas to investigate for future development. The successful development, integration and operation of the V2Suit will be a be an enabler for space exploration mission technologies, including human health and adaptation countermeasures, autonomous health monitoring, human robotic interfaces, and adaptation and operations during artificial gravity. An integrated and comprehensive countermeasure system has a measurable impact in human performance following a space mission, and mass and volume savings in the spacecraft itself. This type of countermeasure suit also has earth benefits, particularly in gait or movement stabilization for the elderly, or rehabilitating individuals - the gyroscopes could be programmed to provide a kinematic envelope of least resistance during walking. Therefore, providing tactile feedback to the appropriate biomechanical coordination either to assist in gait correction or facilitate recovery following spaceflight.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102236,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126783,
+            "description": "Project Image   Variable Vector Countermeasure Suit (V2Suit) for Space Habitation and Exploration",
+            "projectId": 4341,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "Cambridge",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 4985,
+            "organizationName": "The Charles Stark Draper Laboratory, Inc.",
+            "organizationType": "R_26D_Center",
+            "stateTerritory": {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            },
+            "stateTerritoryId": 30,
+            "naorganization": false,
+            "organizationTypePretty": "R&D Center"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "JSC",
+                "canUserEdit": false,
+                "city": "Houston",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4853,
+                "organizationName": "Johnson Space Center",
+                "organizationType": "NASA_Center",
+                "stateTerritory": {
+                    "abbreviation": "TX",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Texas",
+                    "stateTerritoryId": 29
+                },
+                "stateTerritoryId": 29,
+                "naorganization": false,
+                "organizationTypePretty": "NASA Center"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

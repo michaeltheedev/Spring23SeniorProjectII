@@ -1,0 +1,251 @@
+{
+    "project": {
+        "projectId": 4255,
+        "title": "Room-Temperature Single-Photon Source for Secure Quantum Communication",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10672,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10670,
+                "level": 3,
+                "code": "TX05.5.2",
+                "title": "Quantum Communications",
+                "definition": "Quantum communications use entangled photons for transmissions, enabling highly secure communication systems.",
+                "exampleTechnologies": "High efficiency photon entangled sources, quantum repeaters, high efficiency quantum detectors, quantum cryptography",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Such a device is a pivotal element in a quantum communication system. Quantum cryptography allows for the absolutely secure distribution of cryptographic keys between two parties, ensuring the security of encrypted communication.",
+        "description": "We are asking for four years of support for PhD student Justin Winkler's work on a research project entitled \"Room temperature single photon source for secure quantum communication\". This project will be carried out at the Institute of Optics of the University of Rochester, one of the world's best schools in quantum optics. To prepare for this project, J. Winkler has taken several advanced quantum optics courses at this University, including a quantum optics and quantum information laboratory course. J. Winkler is planning to work in the laboratory of Dr. Lukishova, who will be his PhD thesis advisor (http://www.optics.rochester.edu/users/lukishov/single-photon-source.shtml).  This proposal is for the creation of a room temperature single photon source device with photons exhibiting antibunching (all photons are separated in time). Such a device is a pivotal element in a quantum communication system. Quantum cryptography allows for the absolutely secure distribution of cryptographic keys between two parties, ensuring the security of encrypted communication. The practical realization of quantum cryptographic schemes has been held back in part due to the difficulty in the creation of a robust source capable of producing antibunched photons on demand and at room temperature. In many quantum cryptography systems currently used, highly attenuated laser sources are used instead of single photon sources. Attenuated laser light is contaminated with bunches of multiple photons, and is therefore not secure against photon number splitting attacks.  Antibunched photons are created by focusing a laser beam to excite a single photon emitter. A single emitter will emit one photon at a time due to its finite fluorescence lifetime. To create such a device, it is necessary to study and evaluate a variety of single photon emitters in different hosts, including colloidal quantum dots, color centers in nanodiamonds, and rare-earth doped nanocrystals. We will also study how to enhance the fluorescence of these single emitters using microcavities, photonic crystals, and metamaterials as hosts. The geometry of microcavities will be used to give the emitted photons a definite polarization, which is necessary to increase the efficiency of quantum cryptography systems. This project's long term goal is the creation of a compact and efficient room-temperature single photon source device.  Study of these materials will be accomplished using confocal fluorescence microscopy along with a Hanbury Brown and Twiss setup. J. Winkler has already begun research on this project, where he has observed antibunched photons emitted from single colloidal quantum dots in a chiral liquid crystal photonic bandgap microcavity. J. Winkler has also carried out spectral measurements of single colloidal quantum dots in these microcavities.  This research is of unique interest to NASA because of the potential of extending quantum communication to a space environment and allowing for absolutely secure communication on the global scale. A relevant project on quantum communication in space is being performed by Zeilinger's group at the University of Vienna, Austria, and is supported by the European Space Agency. Researchers from this group have sent photons to an orbiting satellite and subsequently observed photons that are reflected from the satellite in a manner meant to mimic a single photon source. This experiment serves to demonstrate the feasibility of establishing a single photon quantum link between Earth and Space.   We believe that this research is of interest of Dr. Sean Spillane, the NASA Ames Quantum Laboratory Experimental Lead (http://www.nasa.gov/centers/Ames/research/qpl/spillane-index.html). Quantum communications technology area is included in NASA Communication and Navigation Systems Roadmap, November 2010, page TAO5-21.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 453645,
+                "firstName": "Svetlana",
+                "lastName": "Lukishova",
+                "fullName": "Svetlana Lukishova",
+                "fullNameInverted": "Lukishova, Svetlana",
+                "primaryEmail": "sluk@lle.rochester.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 257698,
+                "firstName": "Justin",
+                "lastName": "Winkler",
+                "fullName": "Justin M Winkler",
+                "fullNameInverted": "Winkler, Justin M",
+                "middleInitial": "M",
+                "primaryEmail": "justin.m.winkler@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Room-Temperature Single-Photon Source for Secure Quantum Communication",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1818,
+                    "fileName": "4255-1363264237633",
+                    "fileSize": 194342,
+                    "objectId": 858,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1818,
+                        "fileName": "4255-1363264237633",
+                        "fileSize": 194342,
+                        "objectId": 858,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 858,
+                "title": "4255-1363264237633.jpg",
+                "description": "Project Image   Room-Temperature Single-Photon Source for Secure Quantum Communication",
+                "libraryItemTypeId": 1095,
+                "projectId": 4255,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1818,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 858,
+            "description": "Project Image   Room-Temperature Single-Photon Source for Secure Quantum Communication",
+            "projectId": 4255,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Rochester",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4002,
+                "organizationName": "University of Rochester",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "NY",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "New York",
+                    "stateTerritoryId": 55
+                },
+                "stateTerritoryId": 55,
+                "murepUnitId": 195030,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "NY",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "New York",
+                "stateTerritoryId": 55
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

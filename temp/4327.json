@@ -1,0 +1,219 @@
+{
+    "project": {
+        "projectId": 4327,
+        "title": "Sensory Integration and Decision Making Based on Insect Brain Model",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10821,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10818,
+                "level": 3,
+                "code": "TX11.2.3",
+                "title": "Human-System Performance Modeling",
+                "definition": "Human-system performance modeling ensures that new and relevant human-related technologies are infused into all vehicle and habitat designs and associated operational concepts. Digital human models have their greatest impact on mission design if the validated models can be seamlessly integrated within mission models.",
+                "exampleTechnologies": "Integrated human-systems models, human digital twin, toolset for automated task generation for human-system modeling, augmented reality and virtual reality (AR/VR)",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Like cockroaches, robots with this brain model could easily adapt to different environments. In addition to providing benefits to robotics in exploration and search and rescue, this work will provide hypotheses for biologists to test, increasing the performance and accuracy of the model. These robots would reduce the need for human input to in their activity, by requiring intervention in navigation decisions far less often and thus could be employed for efficient exploration of a large area, since little human intervention would be required.",
+        "description": "Often, robots are designed for an environment where most of the constraints are known by the programmer, therefore allowing for task-specific algorithms to be used. However in a new environment, randomly moving robots are prone to getting lost, while more deterministic robots can get stuck in an unexpected situation. Animals, unlike robots, are capable of quickly adapting to many different environments. Given their adaptive abilities one would expect animals to employ some method of navigation towards their goals that is simple and robust, if not efficient. Comparing cockroaches to robots, cockroaches have already found a successful balance between sensory input, mapping, and randomness through evolution. Their methods, once determined, could provide inspiration for more robust robotic navigation for applications such as search and rescue or planetary exploration.  I propose to mimic cockroach sensory integration and decision making using a software model of the cockroaches' central complex. Using data from current studies in the Ritzmann biology lab, I can generate a model of the brain to synthesize tactile and visual inputs into navigation decisions. My approach to developing this controller will take place in three phases. First, I will implement an algorithm based on cockroach goal seeking behavior in a robot for proof of concept. Then I will look into the neural bases of these behavioral decisions, and generate a neural network that makes these decisions in simulation. This brain model could provide outputs as motor speeds and then be implemented on the robot from task one. My third and final task will be to work with a gait controller being developed a CWRU to determine descending commands for behaviors such as turning and obstacle avoidance, and integrating these commands with the brain model.  Like cockroaches, robots with this brain model could easily adapt to different environments. In addition to providing benefits to robotics in exploration and search and rescue, this work will provide hypotheses for biologists to test, increasing the performance and accuracy of the model. These robots would reduce the need for human input to in their activity, by requiring intervention in navigation decisions far less often and thus could be employed for efficient exploration of a large area, since little human intervention would be required.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 409405,
+                "firstName": "Roger",
+                "lastName": "Quinn",
+                "fullName": "Roger Quinn",
+                "fullNameInverted": "Quinn, Roger",
+                "primaryEmail": "rdq@case.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 53899,
+                "firstName": "Brian",
+                "lastName": "Tietz",
+                "fullName": "Brian R Tietz",
+                "fullNameInverted": "Tietz, Brian R",
+                "middleInitial": "R",
+                "primaryEmail": "brian.r.tietz@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Sensory Integration and Decision Making Based on Insect Brain Model",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1822,
+                    "fileName": "4327-1363264966606",
+                    "fileSize": 194342,
+                    "objectId": 941,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1822,
+                        "fileName": "4327-1363264966606",
+                        "fileSize": 194342,
+                        "objectId": 941,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 941,
+                "title": "4327-1363264966606.jpg",
+                "description": "Project Image   Sensory Integration and Decision Making Based on Insect Brain Model",
+                "libraryItemTypeId": 1095,
+                "projectId": 4327,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1822,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 941,
+            "description": "Project Image   Sensory Integration and Decision Making Based on Insect Brain Model",
+            "projectId": 4327,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "OH",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Ohio",
+                "stateTerritoryId": 23
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

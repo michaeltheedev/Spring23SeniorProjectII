@@ -1,0 +1,256 @@
+{
+    "project": {
+        "projectId": 4381,
+        "title": "Robust Optimal Fragmentation and Dispersion of Near-Earth Objects",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10599,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10593,
+                "level": 3,
+                "code": "TX03.1.6",
+                "title": "Other Advanced Concepts for Generating/Converting Power",
+                "definition": "This area covers advanced concepts for generating and converting power.",
+                "exampleTechnologies": "Electrodynamic tether energy harvesting, nuclear fusion heat sources, nuclear thermionic avalanche cells, alpha/beta voltaics, thermophotovoltaics",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "Expanding upon the current research activities of the Iowa State Asteroid Deflection Research Center, funded by the NASA Iowa Space Grant Consortium, the ADRC will develop an innovative, advanced space system architecture that provides the planetary defense capabilities needed to enable a future real space mission more efficient, affordable, and reliable.   ",
+        "description": "During the past 2 decades, various concepts for mitigating the impact threats from NEOs have been proposed, but many of these concepts were impractical and not technically credible. In particular, all non-nuclear techniques require mission lead times larger than 10 years. However, for the most probable impact threat with a warning time less than 10 years, the use of high-energy nuclear explosives in space becomes inevitable for proper fragmentation and dispersion of an NEO in a collision course with Earth. However, the existing nuclear subsurface penetrator technology limits the impact velocity to less than 300m/s because higher impact velocities destroy prematurely the detonation electronic equipment. Thus, an innovative space system architecture utilizing high-energy nuclear explosives must be developed for a worst-case intercept mission resulting in relative closing velocities as high as 5-30km/s. An advanced system concept is proposed for nuclear subsurface explosion missions. The concept blends a hypervelocity kinetic-energy impactor with nuclear subsurface explosion, and exploits a 2-body space vehicle consisting of a fore body and an aft body. These 2 spacecraft bodies may be connected by a deployable boom. The fore body provides proper kinetic impact crater conditions for an aft body carrying nuclear explosives to make a deeper penetration into an asteroid body. For such a complex mission architecture design study, non-traditional, multidisciplinary research efforts in the areas of hypervelocity impact dynamics, nuclear explosion modeling, high-temperature thermal shielding, shock-resistant electronic systems, and advanced space system technologies are required. Expanding upon the current research activities, the Iowa State Asteroid Deflection Research Center will develop an innovative, advanced space system architecture that provides the planetary defense capabilities needed to enable a future real space mission more efficient, affordable, and reliable.",
+        "destinations": [
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 45625,
+                "firstName": "Bong",
+                "lastName": "Wie",
+                "fullName": "Bong Wie",
+                "fullNameInverted": "Wie, Bong",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Robust Optimal Fragmentation and Dispersion of Near-Earth Objects",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102065,
+                    "fileName": "5137",
+                    "fileSize": 225795,
+                    "objectId": 126570,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "225.8 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102065,
+                        "fileName": "5137",
+                        "fileSize": 225795,
+                        "objectId": 126570,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "225.8 KB"
+                    }
+                ],
+                "id": 126570,
+                "title": "5137.jpg",
+                "description": "Project Image   Robust Optimal Fragmentation and Dispersion of Near-Earth Objects",
+                "libraryItemTypeId": 1095,
+                "projectId": 4381,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102065,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126570,
+            "description": "Project Image   Robust Optimal Fragmentation and Dispersion of Near-Earth Objects",
+            "projectId": 4381,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "Ames",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 3995,
+            "organizationName": "Iowa State University",
+            "organizationType": "Academia",
+            "stateTerritory": {
+                "abbreviation": "IA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Iowa",
+                "stateTerritoryId": 57
+            },
+            "stateTerritoryId": 57,
+            "murepUnitId": 153603,
+            "naorganization": false,
+            "organizationTypePretty": "Academia"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "IA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Iowa",
+                "stateTerritoryId": 57
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

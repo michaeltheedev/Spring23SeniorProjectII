@@ -1,0 +1,351 @@
+{
+    "project": {
+        "projectId": 4357,
+        "title": "Spacecraft/Rover Hybrids for the Exploration of Small Solar System Bodies",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10619,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10616,
+                "level": 3,
+                "code": "TX04.2.3",
+                "title": "Small-Body and Microgravity Mobility",
+                "definition": "Small-body and microgravity mobility provides surface coverage and in-situ access to designated targets on small bodies with low gravity, as well as in-space mobility inside and around the International Space Station (ISS) or other space assets. Major challenges include fine control of mobility platforms, power, communication, thermal cycling, and mobility in shadowed regions.",
+                "exampleTechnologies": "Free-floating robots, hopping/tumbling surface robots, anchoring robots, wheeled/tracked/hybrid robots",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "<p>Collectively, our study aims to demonstrate that exploration via controlled mobility in low-gravity environments is technically possible, economically feasible, and would enable a focused, yet compelling set of science objectives aligned with NASA's interests in science and human exploration. Indeed, while controlled mobility in low-gravity environments was identified by the National Research Council in 2012 as one of NASA's high priorities for technology development, it has never been demonstrated in a high-fidelity low-gravity test bed. Hence, this proposal, if successful, would provide a sought-after and currently unavailable capability for small bodies exploration. This project would allow the systematic and affordable in situ exploration of small Solar System bodies. The exploration of these objects would allow for the evaluation of small bodies' potential for in situ resource utilization in view of future manned missions. The minimalism and motion capabilities of such spacecraft/rover hybrids would allow multi-asset missions where not only specific targets on small bodies' surface could be closely observed, sampled, and cached, but also high-risk, high-payoff measurements could be taken.</p>",
+        "description": "<p>The goal of this effort is to develop a mission architecture that allows the systematic and affordable in-situ exploration of small Solar System bodies, such as asteroids, comets, and Martian moons. Our architecture relies on the novel concept of spacecraft/rover hybrids, which are surface mobility platforms capable of achieving large surface coverage (by attitude-controlled hops, akin to spacecraft flight), fine mobility (by tumbling), and coarse instrument pointing (by changing orientation relative to the ground) in the low-gravity environments (micro-g to milli-g) of small bodies.</p>",
+        "destinations": [
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2014,
+        "startMonth": 9,
+        "endYear": 2016,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 305660,
+                "firstName": "Marco",
+                "lastName": "Pavone",
+                "fullName": "Marco Pavone",
+                "fullNameInverted": "Pavone, Marco",
+                "primaryEmail": "pavone@stanford.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 254686,
+                "firstName": "Julie",
+                "lastName": "Castillo",
+                "fullName": "Julie C Castillo",
+                "fullNameInverted": "Castillo, Julie C",
+                "middleInitial": "C",
+                "primaryEmail": "julie.c.castillo@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            },
+            {
+                "contactId": 187151,
+                "firstName": "Issa",
+                "lastName": "Nesnas",
+                "fullName": "Issa A Nesnas",
+                "fullNameInverted": "Nesnas, Issa A",
+                "middleInitial": "A",
+                "primaryEmail": "issa.a.nesnas@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            },
+            {
+                "contactId": 212426,
+                "firstName": "Jeffrey",
+                "lastName": "Hoffman",
+                "fullName": "Jeffrey A Hoffman",
+                "fullNameInverted": "Hoffman, Jeffrey A",
+                "middleInitial": "A",
+                "primaryEmail": "jhoffma1@mit.edu",
+                "publicEmail": false,
+                "nacontact": false
+            },
+            {
+                "contactId": 19768,
+                "firstName": "Andreas",
+                "lastName": "Frick",
+                "fullName": "Andreas Frick",
+                "fullNameInverted": "Frick, Andreas",
+                "primaryEmail": "andreas.frick@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Spacecraft/Rover Hybrids for the Exploration of Small Solar System Bodies",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102211,
+                    "fileName": "15139",
+                    "fileSize": 272518,
+                    "objectId": 126744,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "272.5 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102211,
+                        "fileName": "15139",
+                        "fileSize": 272518,
+                        "objectId": 126744,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "272.5 KB"
+                    }
+                ],
+                "id": 126744,
+                "title": "15139.jpg",
+                "description": "Project Image   Spacecraft/Rover Hybrids for the Exploration of Small Solar System Bodies",
+                "libraryItemTypeId": 1095,
+                "projectId": 4357,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 7072,
+                "projectId": 4357,
+                "partner": "Other",
+                "transitionDate": "2016-08-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "Due to NIAC he founded the Stanford Space Student Initiative - now has over 100 undergrads (and they have since broken the world record endurance high altitude balloons). Just finished Phase II but is ready to apply for GCD and ROSES Cubes Sat solicitation for Planetary Science of Deep Space Bodies and a small JPL grant Has been trying to interact with JAxA Japanese mission to Phobos and MMx (Mars Moon exploration)",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "August 2016"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102211,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126744,
+            "description": "Project Image   Spacecraft/Rover Hybrids for the Exploration of Small Solar System Bodies",
+            "projectId": 4357,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "JPL",
+            "canUserEdit": false,
+            "city": "Pasadena",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4946,
+            "organizationName": "Jet Propulsion Laboratory",
+            "organizationType": "NASA_Center",
+            "stateTerritory": {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            },
+            "stateTerritoryId": 59,
+            "naorganization": false,
+            "organizationTypePretty": "NASA Center"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "Stanford",
+                "canUserEdit": false,
+                "city": "Stanford",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2856,
+                "organizationName": "Stanford University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "CA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "California",
+                    "stateTerritoryId": 59
+                },
+                "stateTerritoryId": 59,
+                "murepUnitId": 243744,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            },
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2016",
+        "startDateString": "Sep 2014"
+    }
+}

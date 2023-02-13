@@ -1,0 +1,275 @@
+{
+    "project": {
+        "projectId": 4351,
+        "title": "Atmospheric Breathing Electric Thruster for Planetary Exploration",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10545,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10542,
+                "level": 3,
+                "code": "TX01.2.3",
+                "title": "Electromagnetic",
+                "definition": "This area covers electric propulsion that interacts with a reaction mass using electromagnetic fields.",
+                "exampleTechnologies": "Pulsed inductive thruster, magnetoplasmadynamic (MPD) thruster, electromagnetic launch, e.g. double-sided linear induction motor (DSLIM)",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Low altitude Mars orbiting spacecraft is of scientific interest to NASA and the space community. Some atmospheric measurements can only be made in-situ. On Earth, these measurements are typically performed by sounding rockets or very high altitude balloons. A spacecraft orbiting Mars at these low orbits will require significant drag makeup and carrying that much propellant from Earth is prohibitive. Developing a Mars atmosphere fed thruster can open up a new set of missions that are of extreme scientific interest. In addition to the atmospheric measurements, surface observation and polar orbits will be of interest.#An Earth based ABHET can be utilized for many atmospheric monitoring and measurement applications of interest to NASA. Real time and continuous monitoring of Earths atmosphere is beneficial to understanding the complex atmospheric weather. The high drag of LEO orbits in the 150km range is difficult to manage with typical spacecraft and much too light on oxygen for typical air combustion engines.",
+        "description": "This study will investigate the development of an atmosphere-breathing electric propulsion solar-powered vehicle to explore planets such as Mars. The vehicle would use atmospheric gas for propellant, eliminating the need to launch and carry the propellant from Earth. The propulsion thruster would be electric where the gas is ionized in a plasma and accelerated by electromagnetic fields. The combination of high efficiency and high specific impulse of the electric propulsion thruster and free propellant in-situ will result in an exciting and enabling technology. At the completion of this development, NASA will be able to perform missions of extended lifetime and capabilities beyond those available by typical chemical rockets. Phase I will formulate feasibility of the concept through modeling, calculations and preliminary laboratory experiments and push validity into Phase II research.",
+        "destinations": [
+            {
+                "lkuCodeId": 1518,
+                "code": "MARS",
+                "description": "Mars",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 280454,
+                "firstName": "Kurt",
+                "lastName": "Hohman",
+                "fullName": "Kurt Hohman",
+                "fullNameInverted": "Hohman, Kurt",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Atmospheric Breathing Electric Thruster for Planetary Exploration",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102287,
+                    "fileName": "15117",
+                    "fileSize": 62115,
+                    "objectId": 126849,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "62.1 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102287,
+                        "fileName": "15117",
+                        "fileSize": 62115,
+                        "objectId": 126849,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "62.1 KB"
+                    }
+                ],
+                "id": 126849,
+                "title": "15117.jpg",
+                "description": "Project Image   Atmospheric Breathing Electric Thruster for Planetary Exploration",
+                "libraryItemTypeId": 1095,
+                "projectId": 4351,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6406,
+                "projectId": 4351,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "The objective of this phase of the program was to show feasibility of a Martian atmosphere breathing Hall effect thruster (MABHET). To accomplish this objective, we set out to demonstrate that: 1) a Busek Hall effect thruster could operate on the Mars atmospheric gases, 2) the atmospheric conditions and orbital parameters required for the MABHET were indeed achievable, 3) further advancement of the inlet concept held credible, and 4) continued investigation into the remaining vehicle components including the cathode, power generation, size/mass and science remained feasible. We achieved all of these goals during the first phase of this program. One major achievement during this phase was the operation of a Busek HET with simulated Mars atmosphere. Two goals included an overall efficiency of at least 20% and a maximum thrust to power ratio since the vehicle would likely be power limited. The HET was operated over a wide range of mass flow, applied anode voltage and overall power, simulating various potential altitudes and size of the thruster. Definitive thrust measurements prove that 20% efficiency is indeed possible and likely on the low end of expected performance. The thrust to power ratio peaked around 30mN/kW with an efficiency around 22-25%, depending on the operating conditions. This measured performance with be discussed in more detail below. Sizing of the vehicle, propulsion system and Mars atmosphere conditions also need to be confirmed that such a concept is feasible. The major drivers of this analysis are the vehicle drag and solar flux/collection. Utilizing current technology for spacecraft drag and solar arrays, the MABHET concept is right on the edge of feasibility. However, solar arrays are becoming more efficient on a study pace and drag in rarefied atmospheres is also becoming better understood. Minor improvements, in either or both of these areas, will confirm credibility to MABHET feasibility for future missions. The atmospheric inlet or propellant collector is a critical component for the MABHET concept to work. We chose to further our investigation of the inlet numerically utilizing DSMC and we found that shrinking the inlet proportionally for a smaller thruster/vehicle design also held performance, thus the focus on a lower power, smaller vehicle was also feasible. The inlet is the lead critical path component and needs to be investigated early in future programs. Finally, analysis and some experiments on the remaining propulsion system components and spacecraft design were initialized during phase I. This included some radio frequency cathode tests performed by Colorado State University. Though these tests were unsuccessful, rational for the failure and a path to success has been determined. We also began looking at the science made possible by this concept and who in the science community might be interested. Solar array advances and possible low drag surfaces are discussed.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102287,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126849,
+            "description": "Project Image   Atmospheric Breathing Electric Thruster for Planetary Exploration",
+            "projectId": 4351,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "Natick",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 2726,
+            "organizationName": "Busek Company, Inc.",
+            "organizationType": "Industry",
+            "stateTerritory": {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            },
+            "stateTerritoryId": 30,
+            "msiData": {},
+            "setAsideData": [
+                "Women-Owned Small Business (WOSB)"
+            ],
+            "ein": "273052791 ",
+            "dunsNumber": "184629491",
+            "naorganization": false,
+            "organizationTypePretty": "Industry"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

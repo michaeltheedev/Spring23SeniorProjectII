@@ -1,0 +1,261 @@
+{
+    "project": {
+        "projectId": 4259,
+        "title": "Optimal Aerodynamic Forms for High-Lift, Low-Drag Planetary Entry",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10548,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10547,
+                "level": 3,
+                "code": "TX01.3.1",
+                "title": "Integrated Systems and Ancillary Technologies",
+                "definition": "This area covers integrated systems and ancillary technologies relevant to enabling propulsion systems for atmospheric flight.",
+                "exampleTechnologies": "Engine health monitoring, materials and manufacturing, emissions control, noise management",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The potential benefits of such high lift-vehicles include a wide range of planetary applications, including atmospheric survey missions and trajectories to the outer solar system in which aerodynamic forces augment planetary gravity for increased delta-v.",
+        "description": "This proposed effort will examine high-lift forms that can use aerodynamics to maneuver in planetary atmospheres, decelerate gradually from space, or to enter from orbital trajectories in ways not available to blunt forms. The potential benefits of such high lift-vehicles include a wide range of planetary applications, including atmospheric survey missions and trajectories to the outer solar system in which aerodynamic forces augment planetary gravity for increased delta-v. This proposed effort will take a multidisciplinary approach to the optimization of high lift-to-drag ratio interplanetary vehicle designs, tailored to the specific requirements of the atmospheres of the other planets in our solar system. Primary effort will focus on the class of shapes known as 'waveriders', designed inversely from known shock flowfields. Optimization routines will be adopted which value not only high-lift, low-drag forms coupled on an optimized trajectory, but also the design's stability performance.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 267638,
+                "firstName": "Ken",
+                "lastName": "Yu",
+                "fullName": "Ken Yu",
+                "fullNameInverted": "Yu, Ken",
+                "primaryEmail": "yu@umd.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 217440,
+                "firstName": "Jeremy",
+                "lastName": "Knittel",
+                "fullName": "Jeremy M Knittel",
+                "fullNameInverted": "Knittel, Jeremy M",
+                "middleInitial": "M",
+                "primaryEmail": "jeremy.knittel@kinetx.com",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Optimal Aerodynamic Forms for High-Lift, Low-Drag Planetary Entry",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1809,
+                    "fileName": "4259-1363263030616",
+                    "fileSize": 194342,
+                    "objectId": 855,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1809,
+                        "fileName": "4259-1363263030616",
+                        "fileSize": 194342,
+                        "objectId": 855,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 855,
+                "title": "4259-1363263030616.jpg",
+                "description": "Project Image   Optimal Aerodynamic Forms for High-Lift, Low-Drag Planetary Entry",
+                "libraryItemTypeId": 1095,
+                "projectId": 4259,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1809,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 855,
+            "description": "Project Image   Optimal Aerodynamic Forms for High-Lift, Low-Drag Planetary Entry",
+            "projectId": 4259,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "UMCP",
+                "canUserEdit": false,
+                "city": "College Park",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3111,
+                "organizationName": "University of Maryland-College Park",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MD",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Maryland",
+                    "stateTerritoryId": 3
+                },
+                "stateTerritoryId": 3,
+                "msiData": {
+                    "2017": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2018": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 163286,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "MD",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Maryland",
+                "stateTerritoryId": 3
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

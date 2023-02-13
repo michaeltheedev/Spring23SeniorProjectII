@@ -1,0 +1,317 @@
+{
+    "project": {
+        "projectId": 4359,
+        "title": "Ultra-Light \"Photonic Muscle\" Space Structures",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10748,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10747,
+                "level": 3,
+                "code": "TX08.2.1",
+                "title": "Mirror Systems",
+                "definition": "Mirror systems development aims to provide increased sensitivity and resolution, such as improved resolution of X-ray grazing incidence optics and reduced areal costs for aperture systems > 10 m in diameter.",
+                "exampleTechnologies": "Ground metrology and systems; integrated electronic, integrated photonic, sensor readouts that enable significant data compression; low-noise, low-power, high-performance analog and mixed signal electronic components, and electronics packaging technology capable of operating in and surviving extreme temperatures. Sensor electronics designs to accommodate reduced size, weight, and power (SWaP), including wireless networking techniques. Analog and Mixed-Signal Instrument front end electronics ASICs, FPGAs and discrete components, space cube, onboard SAR processor, MUSTANG, supporting nanoelectronic elements, and supporting high-voltage power supplies.",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "The research goal is to develop new tools support NASA's mission of understanding of the Cosmos by developing cost effective solutions that yield a leap in performance and science data. Here we report on a neoteric meta-material telescope mirror technology designed to enable a factor of 100 or more reduction in areal density, a factor of 100 reduction in telescope production and launch costs as well as other advantages; a leap to enable missions to image the cosmos in unprecedented detail, with the associated gain in knowledge.",
+        "description": "Fabrication of large space optics that are accurately shaped to better than a 1,000th of the width of a human hair is an enormous challenge. Traditional space telescope fabrication methods require rigid and therefore heavy mirrors, expensive spacecraft and massive rocket launch vehicles. This breakthrough technology allows every molecule of a polymer substrate to also serve as a laser powered nano-actuator. These molecules are used to control the shape of a super thin inexpensive large curved mirror, reducing cost and mass by a factor of 100. The NIAC telescope OCCAM mirror will be less dense than a feather.",
+        "destinations": [
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 225136,
+                "firstName": "Joe",
+                "lastName": "Ritter",
+                "fullName": "Joe Ritter",
+                "fullNameInverted": "Ritter, Joe",
+                "primaryEmail": "joe.ritter@yahoo.com",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Ultra-Light \u201cPhotonic Muscle\u201d Space Structures",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102153,
+                    "fileName": "15144",
+                    "fileSize": 253459,
+                    "objectId": 126665,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "253.5 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102153,
+                        "fileName": "15144",
+                        "fileSize": 253459,
+                        "objectId": 126665,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "253.5 KB"
+                    }
+                ],
+                "id": 126665,
+                "title": "15144.jpg",
+                "description": "Project Image   Ultra-Light \u201cPhotonic Muscle\u201d Space Structures",
+                "libraryItemTypeId": 1095,
+                "projectId": 4359,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6440,
+                "projectId": 4359,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "Phase I Overall Status: Deliverables are complete. Written status reports to the NIAC Director by the 15th day of the third months following the beginning of the contract all sent. In addition, all requested web presentations, 2 detailed posters as well as email updates were transmitted. The NIAC Fellow (PI Ritter) was in attendance at both NIAC meetings (D.C. and Pasadena) as required, including presentation at both meetings, delivery of viewgraphs and poster. This final report fully fulfills all PI contractual obligations. The University of Hawaii is required to submit any other required reports e.g. financial. In summary, All tasks promised were performed. A Testbed was built. Materials were fabricated and tested. Testbed software was proven. Most importantly our concept was demonstrated and we achieved more than promised. Our team has learned what not to do and what we must do. We have learned how to scale our process. We have developed new tools for metrology and control like our Phase I PMTVDT (Photonic Mirror Versatile Development Testbed) . Our plan to move forward in Phase II is both ambitious and practical. Our team will continue to overdeliver on developing previously unknown cutting edge techology. We have accomplished far more than expected in this phase I, and the novel technology is well within Mankind's grasp.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102153,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126665,
+            "description": "Project Image   Ultra-Light \u201cPhotonic Muscle\u201d Space Structures",
+            "projectId": 4359,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "Kahului",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 3201,
+            "organizationName": "University of Hawaii Maui College",
+            "organizationType": "Academia",
+            "stateTerritory": {
+                "abbreviation": "HI",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Hawaii",
+                "stateTerritoryId": 36
+            },
+            "stateTerritoryId": 36,
+            "msiData": {
+                "2017": [
+                    "Asian American Native American Pacific Islander (AANAPISI)"
+                ],
+                "2018": [
+                    "Alaska Native and Native Hawaiian Serving Institutions (ANNH)"
+                ],
+                "2019": [
+                    "Alaska Native and Native Hawaiian Serving Institutions (ANNH)"
+                ],
+                "2020": [
+                    "Asian American Native American Pacific Islander (AANAPISI)",
+                    "Alaska Native and Native Hawaiian Serving Institutions (ANNH)"
+                ],
+                "2021": [
+                    "Asian American Native American Pacific Islander (AANAPISI)",
+                    "Alaska Native and Native Hawaiian Serving Institutions (ANNH)"
+                ],
+                "2022": [
+                    "Asian American Native American Pacific Islander (AANAPISI)",
+                    "Alaska Native and Native Hawaiian Serving Institutions (ANNH)"
+                ]
+            },
+            "setAsideData": [],
+            "murepUnitId": 141839,
+            "naorganization": false,
+            "organizationTypePretty": "Academia"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Petersham",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3860,
+                "organizationName": "Harvard University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Massachusetts",
+                    "stateTerritoryId": 30
+                },
+                "stateTerritoryId": 30,
+                "murepUnitId": 166027,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "HI",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Hawaii",
+                "stateTerritoryId": 36
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

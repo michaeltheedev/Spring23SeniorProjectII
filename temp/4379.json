@@ -1,0 +1,271 @@
+{
+    "project": {
+        "projectId": 4379,
+        "title": "Technologies Enabling Exploration of Skylights, Lava Tubes and Caves",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10617,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10616,
+                "level": 3,
+                "code": "TX04.2.1",
+                "title": "Below-Surface Mobility",
+                "definition": "Below-surface mobility offers access to traverse across and in extreme terrain topographies, through natural and human-made cavities and holes including deep craters, gullies, canyons, lava tubes, and soft, friable terrains for finding the best samples for scientific analysis.",
+                "exampleTechnologies": "Subsurface access through natural cavities, subsurface access through human-made holes, burrowing mobility, long-endurance submerged mobility",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": " This investigation proposes to develop technology for venturing underground and conceiving mission architectures for robotic expeditions that explore skylights, lava tubes and caves. The investigation will identify effective designs for mobile robot architecture to explore sub-planetary features. By creating and implementing robotic technology to explore skylights, lava tubes, caves and canyons, this investigation will pioneer sub-planetary exploration.",
+        "description": "Missions to date have orbited and roved, but sub-planetary worlds elude exploration. This investigation proposes to develop technology for venturing underground and conceiving mission architectures for robotic expeditions that explore skylights, lava tubes and caves. The investigation will identify effective designs for mobile robot architecture to explore sub-planetary features. By creating and implementing robotic technology to explore skylights, lava tubes, caves and canyons, this investigation will pioneer sub-planetary exploration.",
+        "destinations": [
+            {
+                "lkuCodeId": 1544,
+                "code": "THE_MOON",
+                "description": "The Moon",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1518,
+                "code": "MARS",
+                "description": "Mars",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 497358,
+                "firstName": "William",
+                "lastName": "Whittaker",
+                "fullName": "William Whittaker",
+                "fullNameInverted": "Whittaker, William",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Technologies Enabling Exploration of Skylights, Lava Tubes and Caves",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102332,
+                    "fileName": "15142",
+                    "fileSize": 49970,
+                    "objectId": 126906,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "50.0 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102332,
+                        "fileName": "15142",
+                        "fileSize": 49970,
+                        "objectId": 126906,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "50.0 KB"
+                    }
+                ],
+                "id": 126906,
+                "title": "15142.jpg",
+                "description": "Project Image   Technologies Enabling Exploration of Skylights, Lava Tubes and Caves",
+                "libraryItemTypeId": 1095,
+                "projectId": 4379,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6629,
+                "projectId": 4379,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "Robotic exploration of skylights and caves can seek out life, investigate geology and origins, and open the subsurface of other worlds to humankind. However, exploration of these features is a daunting venture. Planetary voids present perilous terrain that requires innovative technologies for access, exploration, and modeling. This research developed technologies for venturing underground and conceived mission architectures for robotic expeditions that explore skylights, lava tubes and caves. The investigation identified effective designs for mobile robot architecture to explore sub-planetary features. Results provide insight into mission architectures, skylight reconnaissance and modeling, robot configuration and operations, and subsurface sensing and modeling. These are developed as key enablers for robotic missions to explore planetary caves. These results are compiled to generate Spelunker, a prototype mission concept to explore a lunar skylight and cave. The Spelunker mission specifies safe landing on the rim of a skylight, tethered descent of a power and communications hub, and autonomous cave exploration by hybrid driving/hopping robots. A technology roadmap was generated identifying the maturation path for enabling technologies for this and similar missions.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102332,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126906,
+            "description": "Project Image   Technologies Enabling Exploration of Skylights, Lava Tubes and Caves",
+            "projectId": 4379,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "Pittsburgh",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 440,
+            "organizationName": "Astrobotic Technology, Inc.",
+            "organizationType": "Industry",
+            "stateTerritory": {
+                "abbreviation": "PA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Pennsylvania",
+                "stateTerritoryId": 47
+            },
+            "stateTerritoryId": 47,
+            "ein": "364341547 ",
+            "dunsNumber": "019738852",
+            "naorganization": false,
+            "organizationTypePretty": "Industry"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "PA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Pennsylvania",
+                "stateTerritoryId": 47
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

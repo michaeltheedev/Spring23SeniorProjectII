@@ -1,0 +1,249 @@
+{
+    "project": {
+        "projectId": 4301,
+        "title": "Detector Development for Polarization Studies of the Cosmic Microwave Background",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10741,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10740,
+                "level": 3,
+                "code": "TX08.1.1",
+                "title": "Detectors and Focal Planes",
+                "definition": "Detectors, focal planes and readout integrated circuits provide large-format array technologies that require high quantum efficiency (QE); low noise, high resolution, uniform, and stable response; low power and cost; and high reliability. These technologies include low-noise, high-speed, low-power and radiation hardened readout integrated circuit (ROIC) electronics; superconducting sensors; spectral detectors; polarization-sensitive detectors; radiation-hardened detectors; and micro-Kelvin and sub-Kelvin high sensitivity detectors that cover the spectrum from submillimeter wave (Far-IR) to X-ray.",
+                "exampleTechnologies": "Backshort Undergrid bolometer arrays, Mercury Cadmium Telluride and Strained Superlattice Arrays, charge coupled devices, sidecar readout integrated circuits, radiometric calibration and abnormality correction algorithms (e.g. non-uniformity)",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This project is for work on detector and focal plane technology development for the new polarization sensitive receiver for the Atacama Cosmology Telescope (ACTPol). ACTPol aims to directly explore both the issues of the true nature of dark energy and the mechanism of inflation, by characterizing the polarization and temperature anisotropies of the CMB at small angular scales. ACTPol will also serve as an important ground-based test of the developing polarimeter technology that will be needed for a future space-based mission to probe the energy scale of inflation. Through the assistance of this NASA fellowship my work on this project will provide key technology development and testing that will increase NASA's ability to fulfill its scientific objectives.",
+        "description": "Among the most pressing questions remaining in cosmology today are the issues of the true nature of dark energy and the mechanism of inflation. Studies of the polarization anisotropies of the Cosmic Microwave Background provide one of the most promising methods of obtaining insight into these key gaps in our understanding of the origins and evolution of the universe. This proposal is for work on detector and focal plane technology development for the new polarization sensitive receiver for the Atacama Cosmology Telescope (ACTPol). ACTPol aims to directly explore both of these unanswered questions by characterizing the polarization and temperature anisotropies of the CMB at small angular scales. ACTPol will also serve as an important ground-based test of the developing polarimeter technology that will be needed for a future space-based mission to probe the energy scale of inflation. Through the assistance of this NASA fellowship my work on this project will provide key technology development and testing that will increase NASA's ability to fulfill its scientific objectives.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 453453,
+                "firstName": "Suzanne",
+                "lastName": "Staggs",
+                "fullName": "Suzanne Staggs",
+                "fullNameInverted": "Staggs, Suzanne",
+                "primaryEmail": "staggs@princeton.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 140354,
+                "firstName": "Emily",
+                "lastName": "Grace",
+                "fullName": "Emily Grace",
+                "fullNameInverted": "Grace, Emily",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Detector Development for Polarization Studies of the Cosmic Microwave Background",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1740,
+                    "fileName": "4301-1363176792932",
+                    "fileSize": 194342,
+                    "objectId": 445,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1740,
+                        "fileName": "4301-1363176792932",
+                        "fileSize": 194342,
+                        "objectId": 445,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 445,
+                "title": "4301-1363176792932.jpg",
+                "description": "Project Image   Detector Development for Polarization Studies of the Cosmic Microwave Background",
+                "libraryItemTypeId": 1095,
+                "projectId": 4301,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1740,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 445,
+            "description": "Project Image   Detector Development for Polarization Studies of the Cosmic Microwave Background",
+            "projectId": 4301,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Princeton",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3997,
+                "organizationName": "Princeton University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "NJ",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "New Jersey",
+                    "stateTerritoryId": 28
+                },
+                "stateTerritoryId": 28,
+                "murepUnitId": 186131,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "NJ",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "New Jersey",
+                "stateTerritoryId": 28
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

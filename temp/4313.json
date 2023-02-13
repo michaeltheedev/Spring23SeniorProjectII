@@ -1,0 +1,261 @@
+{
+    "project": {
+        "projectId": 4313,
+        "title": "Burning Rate Emulator Experiments for Spacecraft Fire Safety",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10703,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10701,
+                "level": 3,
+                "code": "TX06.4.2",
+                "title": "Fire: Detection, Suppression, and Recovery",
+                "definition": "Spacecraft fire safety technologies ensure crew health and safety by reducing the likelihood of a fire, or, if one does occur, minimizing the risk to the crew, mission, and/or system.",
+                "exampleTechnologies": "Combustion model in low and partial gravity, cabin fire: detection system, cabin fire extinguisher",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The results of this device and its analysis have the potential to enable the effective fire safety design and hazard analysis assessments for space missions, especially to the Moon and Mars. It can provide fundamental results for steady burning over a wide range of parameters.",
+        "description": "Experimental Investigation of Emulated Burning Rate at Various Gravity Levels  Support for the initial development stages of a novel experimental apparatus, the Burning Rate Emulator (BRE), is proposed. This apparatus is capable of assessing ignitability, steady burning rate, and extinction characteristics of \"virtual\" solid and liquid fuels as a function of gravity level, flow characteristics, and orientation. The BRE consists of a porous burner whose temperature is controlled by a heat exchanger. A total heat flux sensor is mounted in the surface of the burner to create a feedback loop where the gaseous fuel flow rate supplied to the burner is proportional to the measured heat flux. By changing the fuel gas, it is possible to emulate steady combustion for a range of liquid and solid fuels having B-numbers (mass transfer numbers) and radiation characteristics that fall anywhere within physically realistic bounds. Measurements of the critical mass flux at ignition can also be made. These 2 measurements will be conducted as a function of scale and orientation to assess turbulent and laminar burning in natural convection. To assess gravity effects, an experiment insert will be developed for NASA parabolic trajectory aircraft that can, in principle, efficiently report the results for a range of gravity conditions, including microgravity combustion, in a single trajectory. The experiment is well suited to subsequent testing in the Combustion Integrated Rack aboard the International Space Station.  This proposal is a cost effective way to obtain the burning rate characteristics of real solid fuels at various gravity levels. The results of this device and its analysis have the potential to enable the effective fire safety design and hazard analysis assessments for space missions, especially to the Moon and Mars. It can provide fundamental results for steady burning over a wide range of parameters. The burning of real fuels is problematic, as transient issues are unavoidable due to the duration of burning, thickness and other aspects. As steady burning is the limit of this transient, it is desirable to know this level for a wide range of fuels. The BRE can effectively simulate such burning, and can focus on issues involving radiation, extinction, suppression and ignition. It has the potential to serve as a quick experiment in g-variation trajectory flight tests to elucidate the effects of gravity on burning. Such a steady experiment can serve to more easily quantify mechanisms, develop general correlations, and serve to establish a basis for models. The proposed research program provides the following specific benefits:  Full mapping of burning rate for a range of realistic fuel properties.  Potential efficient capture of g-effects by designing an experiment for NASA parabolic aircraft tests (and later the ISS/CIR).  Generalized correlation of all results as a function of orientation and gravity.  Laminar and turbulent flow effects.  Potential evaluation of critical conditions for ignition and extinction for a range of realistic fuel properties.  This research is particularly significant and applicable to NASA's Space Technology Roadmaps 6th Technology Area (TA) - Human Health, Life Support and Habitation Systems. This TA includes the sub-TA: Environmental Monitoring, Safety and Emergency Response. This sub-TA is characterized via sub-elements including Fire prevention, detection, and suppression, described as \"addressing the area of materials flammability in low- and partial-gravity\". This proposal accomplishes this by having the potential to efficiently and completely measure burning rate over a wide range of fuel properties.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 374510,
+                "firstName": "Peter",
+                "lastName": "Sunderland",
+                "fullName": "Peter Sunderland",
+                "fullNameInverted": "Sunderland, Peter",
+                "primaryEmail": "pbs@umd.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 330472,
+                "firstName": "Michael",
+                "lastName": "Bustamante",
+                "fullName": "Michael S Bustamante",
+                "fullNameInverted": "Bustamante, Michael S",
+                "middleInitial": "S",
+                "primaryEmail": "michael.s.bustamante@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Burning Rate Emulator Experiments for Spacecraft Fire Safety",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1843,
+                    "fileName": "4313-1363268727479",
+                    "fileSize": 194342,
+                    "objectId": 868,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1843,
+                        "fileName": "4313-1363268727479",
+                        "fileSize": 194342,
+                        "objectId": 868,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 868,
+                "title": "4313-1363268727479.jpg",
+                "description": "Project Image   Burning Rate Emulator Experiments for Spacecraft Fire Safety",
+                "libraryItemTypeId": 1095,
+                "projectId": 4313,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1843,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 868,
+            "description": "Project Image   Burning Rate Emulator Experiments for Spacecraft Fire Safety",
+            "projectId": 4313,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "UMCP",
+                "canUserEdit": false,
+                "city": "College Park",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3111,
+                "organizationName": "University of Maryland-College Park",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MD",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Maryland",
+                    "stateTerritoryId": 3
+                },
+                "stateTerritoryId": 3,
+                "msiData": {
+                    "2017": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2018": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 163286,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "MD",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Maryland",
+                "stateTerritoryId": 3
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

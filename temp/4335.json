@@ -1,0 +1,218 @@
+{
+    "project": {
+        "projectId": 4335,
+        "title": "3D Constitutive Relations for An Aligned Carbon Nanotube Polymer Nanocomposite as a Function of Morphology",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10856,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10855,
+                "level": 3,
+                "code": "TX12.1.1",
+                "title": "Lightweight Structural Materials",
+                "definition": "Lightweight structural materials reduce the mass and increase the efficiency of structures and structure components including advanced metallics, nanomaterials, polymers, matrix composites, multifunctional materials, damage detecting/damage tolerant materials, and self-repairing/self-healing materials.",
+                "exampleTechnologies": "Nanofibers, fibers, resins and adhesives that enable the tailoring of large monolithic structures; materials that perform multiple functions, materials that include mechanisms for fast, in-situ repairs; topology optimized structures; architectured foams; novel low density metal; composite alloys",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Mastery of the use of such material will allow for the engineering of highly specialized aerospace structures with precisely specified properties and desirable properties (e.g. strength-to-weight ratio) far in advance of those presently available for use in aerospace systems. The ability to produce structures with anisotropic material characteristics will also lead to significant weight savings for use in load-bearing components, which are of course vital in any aerospace applications.",
+        "description": "Nanostructured polymeric materials are of significant interest for advanced aerospace structures due to their novel mechanical and transport (electrical, thermal, ionic, etc.) properties. The system we intend to study comprises an aligned carbon nanotube (A-CNT) forest embedded in an aerospace-grade unmodified thermoset epoxy resin, forming an aligned-fiber polymer nanocomposite, an A-CNT PNC. As previously demonstrated in our group, by controlling the composite's morphology its properties can be tailored to exhibit significant differences along different material axes (e.g., thermal and electrical transport along conductive CNT axes vs. transverse to them). The A-CNT polymer nanocomposite is of interest in order to develop nano-engineered hierarchical materials comprised of aligned-CNTs in polymer matrices acting in concert with micron-dia. advanced fibers (such as carbon fibers, in a \"nanostitch\" architecture). Mastery of the use of such material will allow for the engineering of highly specialized aerospace structures with precisely specified properties and desirable properties (e.g. strength-to-weight ratio) far in advance of those presently available for use in aerospace systems. The ability to produce structures with anisotropic material characteristics will also lead to significant weight savings for use in load-bearing components, which are of course vital in any aerospace applications.  A novel mechanical densification process developed by our group allows volume fraction to be varied between 1 and 20+%. The work we propose will provide measurements of the linear elasticity tensor for this class of materials, providing a basis for further constitutive model development. The stiffness relation for the A-CNT PNCs as a function of CNT volume fraction will be assessed using standard configurations and optical strain mapping. Significant stiffness biases have previously noted along the different material directions associated with the CNTs, with relative stiffness increases exceeding 100%. Furthermore, strain ranges of linearity are identified and different behaviors are noted in compression vs. tension. Prior work in this epoxy system has shown no discernible effects of the CNTs in the cross-link density or other characteristics (Tg etc.) of the polymer matrix. These findings will allow interpretation of the measured response of the A-CNT PNCs via a number of different avenues, including a computational microstructural investigation of structure-property relations focusing on the morphology of the fiber reinforcements (the CNTs). A finite element model (FEM) will be implemented that captures the effect of CNT 'waviness' (non-collimation) on the resulting homogenized composite properties. Future work to be pursued in the upcoming academic year include expanding this testing technique to explore visco-elasticity effects and large-strain behavior, and modeling work to focus on CNT-CNT interactions. The goal of the research is to use this new data to allow an improved characterization of A-CNT PNCs in order to support their use in actual aerospace applications in the near-term.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 54044,
+                "firstName": "Brian",
+                "lastName": "Wardle",
+                "fullName": "Brian Wardle",
+                "fullNameInverted": "Wardle, Brian",
+                "primaryEmail": "wardle@fixme",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 96830,
+                "firstName": "Daniel",
+                "lastName": "Handlin",
+                "fullName": "Daniel Handlin",
+                "fullNameInverted": "Handlin, Daniel",
+                "primaryEmail": "daniel.handlin@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   3D Constitutive Relations for An Aligned Carbon Nanotube Polymer Nanocomposite as a Function of Morphology",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1709,
+                    "fileName": "4335-1363111638171",
+                    "fileSize": 194342,
+                    "objectId": 288,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1709,
+                        "fileName": "4335-1363111638171",
+                        "fileSize": 194342,
+                        "objectId": 288,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 288,
+                "title": "4335-1363111638171.jpg",
+                "description": "Project Image   3D Constitutive Relations for An Aligned Carbon Nanotube Polymer Nanocomposite as a Function of Morphology",
+                "libraryItemTypeId": 1095,
+                "projectId": 4335,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1709,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 288,
+            "description": "Project Image   3D Constitutive Relations for An Aligned Carbon Nanotube Polymer Nanocomposite as a Function of Morphology",
+            "projectId": 4335,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

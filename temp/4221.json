@@ -1,0 +1,219 @@
+{
+    "project": {
+        "projectId": 4221,
+        "title": "Disruptive Tolerant Networking for Distributed Small Satellite Systems",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10663,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10662,
+                "level": 3,
+                "code": "TX05.3.1",
+                "title": "Disruption Tolerant Networking",
+                "definition": "Disruption tolerant networking (DTN) techniques and technologies provide data delivery across multiple data links that may be disrupted and/or have long delays.",
+                "exampleTechnologies": "DTN basic services",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This work will produce a new disruptive tolerant network designed for earth-observing small satellites. A distributed small satellite system, whether in a cluster of the same orbit or a constellation in different orbits, would encourage NASA missions that are impossible to realize on a single satellite or could be deployed to support/upgrade the operation of a large satellite. NASA has an interest in disruptive and delay tolerant networks. The internship component allows for collaboration with NASA centers that are participating in NASA's disruptive tolerant test-bed. From an earth imaging perspective, the new space-based networking protocols would provide more frequent images at higher resolutions in more regions. This is especially important when it comes to disaster monitoring. The realization of a high-speed communication network for small satellites would lead to many other low cost missions as well, sustaining our nation's excellence in science, and exploration for decades to come.",
+        "description": "As NASA moves towards its objective to make missions more affordable and more capable, researchers are proposing to meet some space observation and communication needs via groups of small satellites, rather than by a single large satellite. Small satellites have low manufacturing and launch costs. However, functionality is limited by their distributed topology, low data-rate and single point-to-point, communication system. We propose a new space-based communication networking protocol for distributed small satellites, to allow a grouping of small satellites to behave as nodes in a network. We expect this approach will result in a higher data-rate downlink with longer transmission windows to a ground station. The key objective is to apply ad-hoc networking protocols to the topology of a distributed small satellite system used for earth imaging. The system would include small satellites in different orbits with inter-satellite links allowing data to be routed to ground stations. The space-based networking protocol would use disruptive tolerant networking concepts to manage the intermittent connectivity between satellites and the ground stations.  Methods proposed to accomplish this project include designing hardware to comply with small satellite constraints of power, mass and volume. The space-based networking protocol would be developed using the disruptive tolerant networking (DTN) concept of store and forward, incrementally moving and storing data throughout the network to eventually reach its destination. This concept is often applied to networks that lack continuous connectivity. Replicating many copies of the message maximizes the probability of a message being successfully transferred. However, the replication causes more overhead data, increasing the bandwidth requirements. This tradeoff must be examined to find an optimal approach.  The goal of the solicitation is to create innovative new space technologies for our nation's science, exploration and economic future. The proposed work will produce a new disruptive tolerant network designed for earth-observing small satellites. A distributed small satellite system, whether in a cluster of the same orbit or a constellation in different orbits, would encourage NASA missions that are impossible to realize on a single satellite or could be deployed to support/upgrade the operation of a large satellite. NASA has an interest in disruptive and delay tolerant networks. The internship component allows for collaboration with NASA centers that are participating in NASA's disruptive tolerant test-bed. From an earth imaging perspective, the new space-based networking protocols would provide more frequent images at higher resolutions in more regions. This is especially important when it comes to disaster monitoring. The realization of a high-speed communication network for small satellites would lead to many other low cost missions as well, sustaining our nation's excellence in science, and exploration for decades to come.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 203851,
+                "firstName": "Janise",
+                "lastName": "Mcnair",
+                "fullName": "Janise Mcnair",
+                "fullNameInverted": "Mcnair, Janise",
+                "primaryEmail": "mcnair@ece.ufl.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 369702,
+                "firstName": "Paul",
+                "lastName": "Muri",
+                "fullName": "Paul D Muri",
+                "fullNameInverted": "Muri, Paul D",
+                "middleInitial": "D",
+                "primaryEmail": "paul.muri@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Disruptive Tolerant Networking for Distributed Small Satellite Systems",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1759,
+                    "fileName": "4221-1363183450418",
+                    "fileSize": 194342,
+                    "objectId": 455,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1759,
+                        "fileName": "4221-1363183450418",
+                        "fileSize": 194342,
+                        "objectId": 455,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 455,
+                "title": "4221-1363183450418.jpg",
+                "description": "Project Image   Disruptive Tolerant Networking for Distributed Small Satellite Systems",
+                "libraryItemTypeId": 1095,
+                "projectId": 4221,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1759,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 455,
+            "description": "Project Image   Disruptive Tolerant Networking for Distributed Small Satellite Systems",
+            "projectId": 4221,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "FL",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Florida",
+                "stateTerritoryId": 46
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

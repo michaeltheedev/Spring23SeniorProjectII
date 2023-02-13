@@ -1,0 +1,219 @@
+{
+    "project": {
+        "projectId": 4267,
+        "title": "Robust Electrical Contacts for Sensors and Electronics in Space Flight",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10697,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10693,
+                "level": 3,
+                "code": "TX06.3.4",
+                "title": "Contact-less / Wearable Human Health and Performance Monitoring",
+                "definition": "Wearable and flexible sensors and electronics are technologies for human health and performance monitoring that are either a) contact-less and vehicle-integrated or b) sufficiently lightweight, flexible, and unrestrictive to be wearable by the astronaut.",
+                "exampleTechnologies": "Biometric wireless sensors; soft, stretchable sensors; metal-rubber, textile sensors",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Using robust pseudoamphoteric contacts in high-temperature silicon carbide devices and sensors could help expand the human and robotic presence in space by expanding the lifetime of electronics for missions.  ",
+        "description": "Space flight electronics and sensors require electrical contacts that possess long operational lifetimes at high temperatures. High temperature sensors and their associated electronics are needed for monitoring chamber pressures during spacecraft engine burns. Similarly, spacecraft traveling to Venus, Mars, and other harsh terrains require durable sensors and electronics for entry, descent, and landing. For these applications, the semiconductor silicon carbide has attracted great attention because of its superior operation at high temperatures and in harsh environments compared to other semiconductors. Recently at NASA, thermally-stable pseudoamphoteric ohmic contacts to both n- and p-type silicon carbide have been developed. These composite contacts are not yet fully characterized or understood, and they could be further engineered to create even more robust, longer lasting silicon carbide devices with great reduction in processing time and costs. Simulations of current transport in these composite contacts as well as imaging using transmission electron microscopy will allow for a better understanding of how they work and how to further improve them. Long-term electrical testing at high temperatures will then demonstrate the performance of this next generation of electrical contacts. This research would benefit greatly from resources at both The Pennsylvania State University and the NASA Glenn Research Center. Penn State has excellent microscopy and materials characterization equipment, while the NASA site has expertise in silicon carbide electronics and sensors as well as dedicated electrical testing equipment. Using robust pseudoamphoteric contacts in high-temperature silicon carbide devices and sensors could help expand the human and robotic presence in space by expanding the lifetime of electronics for missions.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 453390,
+                "firstName": "Suzanne",
+                "lastName": "Mohney",
+                "fullName": "Suzanne Mohney",
+                "fullNameInverted": "Mohney, Suzanne",
+                "primaryEmail": "mohney@ems.psu.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 261937,
+                "firstName": "Katherine",
+                "lastName": "Kragh-Buetow",
+                "fullName": "Katherine C Kragh-buetow",
+                "fullNameInverted": "Kragh-Buetow, Katherine C",
+                "middleInitial": "C",
+                "primaryEmail": "katherine.c.kragh-buetow@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Robust Electrical Contacts for Sensors and Electronics in Space Flight",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1816,
+                    "fileName": "4267-1363263969645",
+                    "fileSize": 194342,
+                    "objectId": 939,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1816,
+                        "fileName": "4267-1363263969645",
+                        "fileSize": 194342,
+                        "objectId": 939,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 939,
+                "title": "4267-1363263969645.jpg",
+                "description": "Project Image   Robust Electrical Contacts for Sensors and Electronics in Space Flight",
+                "libraryItemTypeId": 1095,
+                "projectId": 4267,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1816,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 939,
+            "description": "Project Image   Robust Electrical Contacts for Sensors and Electronics in Space Flight",
+            "projectId": 4267,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "PA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Pennsylvania",
+                "stateTerritoryId": 47
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

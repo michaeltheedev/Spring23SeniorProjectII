@@ -1,0 +1,259 @@
+{
+    "project": {
+        "projectId": 4219,
+        "title": "A Novel Highly Efficient Scheme for the Boltzmann Equation",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10775,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10770,
+                "level": 3,
+                "code": "TX09.4.5",
+                "title": "Modeling and Simulation for EDL",
+                "definition": "Modeling and simulation for EDL refers to the computer codes, underlying physical models, and processes that enable configuration definition and design verification and validation for systems that\u2014short of a full scale flight test\u2014cannot be tested exactly in the configuration and environment for which it is intended to operate. The models cover both the environmental response to the presence of the system in operation, and the operational performance of the system in the environment. A key concern is understanding and modeling of interactions between rocket plumes and the ground.",
+                "exampleTechnologies": "Multi-disciplinary coupled analysis tools, aerothermodynamics modeling, ablative material response models, non-ablative material response models, TPS quantification models and processes, numerical methodologies and techniques, autonomous aerobraking, orbital debris entry and breakup modeling, meteor entry and breakup modeling, Fluid Structure Interaction (FSI) tools, SRP modeling tools, aerodynamic modeling tools, plume-surface interaction, multi-scale simulation tools",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The discrete velocity method I develop will be a large step towards a fully capable flow solver that can be coupled with continuum solvers to correctly model flow with rarefied gas effects. The increased accuracy without exorbitant cost addresses NASA's strategic goals by allowing easy access to computational solutions.",
+        "description": "In fluid dynamics, the limits of continuum mechanics are surpassed when the mean free path of molecules becomes equivalent to the characteristic length scale. This can occur in hypersonic transition when molecular scales are equivalent to roughness height, during atmospheric entry, in spacecraft attitude control plumes, and in the small dimensions of micro- and nano-scale devices. Within these regimes, the Boltzmann equation must be solved to accurately model the physics. Methods such as DSMC have been developed to provide solutions to the equation. However, DSMC has difficulty simulating complex gas models with unsteadiness, intricate geometry, or chemistry. It also tends to produce noisy solutions that are difficult to couple with continuum solvers. New discrete velocity methods which require less computational cost and produce less statistical noise are being developed as an alternative to DSMC.  The problems with DSMC can be addressed by a discrete velocity method if the Boltzmann equation is solved using several key innovations recently developed at the University of Texas. The results provide the exciting prospect of efficient, cost effective, quiet, and accurate solutions to the Boltzmann equation. The current innovations utilize a statistical method called variance reduction where properties of equilibrium distributions are used to greatly reduce statistical noise and reduce computational time. A second key innovation is a method for allowing arbitrary post-collision velocities to be mapped back onto a discrete grid in velocity space. Both innovations opened the door to my development of a solver utilizing non-uniform velocity grids and schemes for moving a distribution function between different velocity grids.   I propose to advance the current discrete velocity model to a version that handles adaptivity in the velocity grid and includes rotational and vibrational internal energy. Velocity grid adaptation will greatly enhance the ability of a discrete velocity code to produce more accurate results for any quantity of interest. The inclusion of internal energy better represents physical reality, and with internal energy included, multiple species can be used in simulations. Accurate representation of the distribution function allows for more accurate and efficient simulations. The discrete velocity method I develop will be a large step towards a fully capable flow solver that can be coupled with continuum solvers to correctly model flow with rarefied gas effects. The increased accuracy without exorbitant cost addresses NASA's strategic goals by allowing easy access to computational solutions.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 377019,
+                "firstName": "Phillip",
+                "lastName": "Varghese",
+                "fullName": "Phillip Varghese",
+                "fullNameInverted": "Varghese, Phillip",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 373002,
+                "firstName": "Peter",
+                "lastName": "Clarke",
+                "fullName": "Peter P Clarke",
+                "fullNameInverted": "Clarke, Peter P",
+                "middleInitial": "P",
+                "primaryEmail": "peter.p.clarke@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   A Novel Highly Efficient Scheme for the Boltzmann Equation",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1713,
+                    "fileName": "4219-1363113423783",
+                    "fileSize": 194342,
+                    "objectId": 929,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1713,
+                        "fileName": "4219-1363113423783",
+                        "fileSize": 194342,
+                        "objectId": 929,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 929,
+                "title": "4219-1363113423783.jpg",
+                "description": "Project Image   A Novel Highly Efficient Scheme for the Boltzmann Equation",
+                "libraryItemTypeId": 1095,
+                "projectId": 4219,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1713,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 929,
+            "description": "Project Image   A Novel Highly Efficient Scheme for the Boltzmann Equation",
+            "projectId": 4219,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Austin",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3991,
+                "organizationName": "The University of Texas at Austin",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "TX",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Texas",
+                    "stateTerritoryId": 29
+                },
+                "stateTerritoryId": 29,
+                "msiData": {
+                    "2021": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2022": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 228778,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "TX",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Texas",
+                "stateTerritoryId": 29
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

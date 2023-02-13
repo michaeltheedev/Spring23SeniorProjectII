@@ -1,0 +1,258 @@
+{
+    "project": {
+        "projectId": 4193,
+        "title": "Modeling Cable-Harness Effects on Spacecraft Structures",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10871,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10870,
+                "level": 3,
+                "code": "TX12.3.1",
+                "title": "Deployables, Docking, and Interfaces",
+                "definition": "Deployables, docking, and interfaces combine and/or separate aerospace vehicles and aerospace vehicle systems either remotely or with humans in the loop.",
+                "exampleTechnologies": "Interfaces that streamline connectivity; precision hinges, latches, grappling mechanisms, low-shock releasing and deploying mechanisms; reliable packaging techniques for deployables; applications to all ranges of structure sizes; provisions for operation in harsh environment; Integrated Docking and Automated Rendezvous Systems Design, Docking Systems for Exploration; deployables such as solar arrays, antennae, booms, reflectors, and solar sails",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The vibration of space structures is certainly significant in the study of aeronautics and exploration structures, as any structure being propelled into space will experience vibration and is highly likely to have wiring and cables attached. By understanding the vibration modes and effects of these cabled space structures, we will be able to create precise models to predict spacecraft motion and reduce unwanted vibration. In addition, most spacecraft and satellite control systems are dependent on knowing the motion of the object; by further refining our knowledge of spacecraft vibration, we should be able to more accurately model spacecraft and satellite movement, and thus improve the accuracy of space control systems and operations. This research will contribute to the understanding of the dynamics of these systems, and will allow a greater degree of confidence in models for the systems used in exploration systems and space operations. It could be used to make space structures more robust and stable, control systems more accurate, and eventually improve NASA's space and aeronautic technologies.",
+        "description": "The proposed research involves modeling the effects of cable-harnesses and wiring on the dynamics of spacecraft structures. As space structure mass decreases due to the use of lightweight materials, the complex cabling systems used on these structures are becoming a greater percentage of the spacecraft mass, and are changing the dynamic responses of the structures. The goal of this proposal is to develop a scientific basis for describing the effect of power and signal cables attached to lightweight, flexible spacecraft structures in order to determine precise analytical models of such systems to gain understanding of the important physical characteristics that affect their dynamic response.  In order to characterize the effects of cable harnesses on spacecraft structures, multiple modeling methods will be developed. The analytical methods proposed include homogenization, the theory of combined dynamical systems, and model updating. Homogenization utilizes the repeating nature of the cable attachment points to simplify the equations used to compare the energy of each section to a fundamental beam model. The theory of combined dynamical systems combines the lumped parameters (attachment points) with the distributed parameters (the structure and cables) and then requires singularity and Green's functions to develop equations. Model updating compares experimental results to existing finite element approximations and adjusts the approximations to more accurately describe the experimentally determined response.  In addition to analytical methods, experimental methods will be used to observe and study the effect of cables on structures, and to validate the models developed. An increasingly complex wiring system will be attached to a beam. The dynamic response of the cabled beam will be observed and measured.  Specific goals for the first year of research include a method of describing structural cable effects using beam homogenization, culminating in validated homogenization models of cable-harnessed structures; a database of experimental results characterizing the dynamic response of cable-harnessed structures to vibration input; a thorough understanding of experimental requirements and the ability to design and execute a sound and repeatable set of experiments to validate models; and significant progress on methods of describing structural cable effects using the theory of combined dynamical systems and model updating for finite element analysis.  This research aligns with Space Technology Area 12.2 (Structures), as well as 11.2 (Modeling). The vibration of space structures is certainly significant in the study of aeronautics and exploration structures, as any structure being propelled into space will experience vibration and is highly likely to have wiring and cables attached. By understanding the vibration modes and effects of these cabled space structures, we will be able to create precise models to predict spacecraft motion and reduce unwanted vibration. In addition, most spacecraft and satellite control systems are dependent on knowing the motion of the object; by further refining our knowledge of spacecraft vibration, we should be able to more accurately model spacecraft and satellite movement, and thus improve the accuracy of space control systems and operations. This research will contribute to the understanding of the dynamics of these systems, and will allow a greater degree of confidence in models for the systems used in exploration systems and space operations. It could be used to make space structures more robust and stable, control systems more accurate, and eventually improve NASA's space and aeronautic technologies.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 97115,
+                "firstName": "Daniel",
+                "lastName": "Inman",
+                "fullName": "Daniel Inman",
+                "fullNameInverted": "Inman, Daniel",
+                "primaryEmail": "dinman@vt.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 258257,
+                "firstName": "Kaitlin",
+                "lastName": "Spak",
+                "fullName": "Kaitlin S Spak",
+                "fullNameInverted": "Spak, Kaitlin S",
+                "middleInitial": "S",
+                "primaryEmail": "kaitlin.s.spak@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Modeling Cable-Harness Effects on Spacecraft Structures",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1795,
+                    "fileName": "4193-1363192676697",
+                    "fileSize": 194342,
+                    "objectId": 568,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1795,
+                        "fileName": "4193-1363192676697",
+                        "fileSize": 194342,
+                        "objectId": 568,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 568,
+                "title": "4193-1363192676697.jpg",
+                "description": "Project Image   Modeling Cable-Harness Effects on Spacecraft Structures",
+                "libraryItemTypeId": 1095,
+                "projectId": 4193,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1795,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 568,
+            "description": "Project Image   Modeling Cable-Harness Effects on Spacecraft Structures",
+            "projectId": 4193,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "VA Tech",
+                "canUserEdit": false,
+                "city": "Blacksburg",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2985,
+                "organizationName": "Virginia Polytechnic Institute and State University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "VA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Virginia",
+                    "stateTerritoryId": 7
+                },
+                "stateTerritoryId": 7,
+                "msiData": {
+                    "2020": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 233921,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "VA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Virginia",
+                "stateTerritoryId": 7
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

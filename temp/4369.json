@@ -1,0 +1,332 @@
+{
+    "project": {
+        "projectId": 4369,
+        "title": "Laser-Based Optical Trap for Remote Sampling of Interplanetary and Atmospheric Particulate Matter",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10810,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10808,
+                "level": 3,
+                "code": "TX11.1.2",
+                "title": "Verification and Validation of Software systems",
+                "definition": "The procedures and testing used to determine that a software system meets the requirements (verification) and fulfills its intended purpose (validation).",
+                "exampleTechnologies": "Model-based testing, Payloads and Components Real-Time Automated Test System (PACRATS), Code coverage testing techniques, continuous automated software analysis and testing techniques, SysML Model Based Systems Engineering (MBSE)",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "<p>Phase 1 of this study intends to leverage advances in laser optical trapping technology in order to study the feasibility of a system that could remotely capture a quantity of particulates over a period of time. These particulates would be delivered to instruments on a spacecraft or lander for continual analysis. Therefore, instead of recording data from one pass of an orbiter or being at the mercy of a solid sample inlet, scientists could choose their targets over a wider range, bringing significantly more value to planetary missions.</p>",
+        "description": "<p>Phase 1 of this study intends to leverage advances in laser optical trapping technology in order to study the feasibility of a system that could remotely capture a quantity of particulates over a period of time. These particulates would be delivered to instruments on a spacecraft or lander for continual analysis. Therefore, instead of recording data from one pass of an orbiter or being at the mercy of a solid sample inlet, scientists could choose their targets over a wider range, bringing significantly more value to planetary missions.</p>",
+        "destinations": [
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 370478,
+                "firstName": "Paul",
+                "lastName": "Stysley",
+                "fullName": "Paul Stysley",
+                "fullNameInverted": "Stysley, Paul",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Laser-Based Optical Trap for Remote Sampling of Interplanetary and Atmospheric Particulate Matter",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102196,
+                    "fileName": "15126",
+                    "fileSize": 120349,
+                    "objectId": 126723,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "120.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102196,
+                        "fileName": "15126",
+                        "fileSize": 120349,
+                        "objectId": 126723,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "120.3 KB"
+                    }
+                ],
+                "id": 126723,
+                "title": "15126.jpg",
+                "description": "Project Image   Laser-Based Optical Trap for Remote Sampling of Interplanetary and Atmospheric Particulate Matter",
+                "libraryItemTypeId": 1095,
+                "projectId": 4369,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6414,
+                "projectId": 4369,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "The study of interstellar and planetary particles is a primary goal of NASA's high profile space and Earth science programs. Planetary and interstellar missions such as Pioneer, the Viking Lander, and Cassini have relied heavily on in situ particle collection and analysis [1]. These and more recent instruments like Sample Analysis on Mars (SAM) on the Mars Science Laboratory (MSL), OSIRIS-REx, and Stardust have deployed several different in situ techniques such as Faraday traps, ablation and collection, or trapped matter in aerogel, yielding samples that are then returned to Earth [2,3]. Although these techniques have been successful, the type of particles that can be captured, how often the particles can be captured, the operational range of a lander, or the flight path of a spacecraft have severely limited available data sets. This coupled with instrument complexity and safety concerns can drive up costs and delay schedules. Innovative technologies are required to control costs and increase the viability and capabilities of critical particle collection and analysis missions. This proposal focused studying state-of-the-art laser-based tractor beams to determine their suitability for use on future Decadal Survey missions that require sample collection. Through the Phase I study we demonstrated that, though the technology is in its infancy, tractor beams do exist but can only move a limited number of targets over micron-level distances. Available technologies are not sufficiently developed such that they would be practical for future NASA missions. In the future, we hope to apply the most promising optical trapping technology, and develop a system that could remotely optically capture a quantity of particulates and transport them back towards the direction of laser propagation over a range of millimeters, while working towards achieving meter-scale operation. The captured samples will also need to be studied to understand the effect the trapping beam has on the particulates. For flight missions these particulates would be delivered to instruments on a spacecraft or lander for continued analysis. Therefore, instead of recording data from one pass of an orbiter or being at the mercy of a solid sample inlet, scientists could choose higher quality targets over a wider range and time period while simultaneously reducing risk and complexity, bringing significantly more value to planetary missions. If properly designed and implemented, a laser-based optical trapping system can fundamentally change the way scientist's design and implement NASA missions that require spectroscopy and particle collection.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102196,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126723,
+            "description": "Project Image   Laser-Based Optical Trap for Remote Sampling of Interplanetary and Atmospheric Particulate Matter",
+            "projectId": 4369,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "GSFC",
+            "canUserEdit": false,
+            "city": "Greenbelt",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4947,
+            "organizationName": "Goddard Space Flight Center",
+            "organizationType": "NASA_Center",
+            "stateTerritory": {
+                "abbreviation": "MD",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Maryland",
+                "stateTerritoryId": 3
+            },
+            "stateTerritoryId": 3,
+            "naorganization": false,
+            "organizationTypePretty": "NASA Center"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Washington",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 531,
+                "organizationName": "American University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "DC",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "District of Columbia",
+                    "stateTerritoryId": 26
+                },
+                "stateTerritoryId": 26,
+                "murepUnitId": 131159,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            },
+            {
+                "canUserEdit": false,
+                "city": "Menlo Park",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3195,
+                "organizationName": "SRI International",
+                "organizationType": "Industry",
+                "stateTerritory": {
+                    "abbreviation": "CA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "California",
+                    "stateTerritoryId": 59
+                },
+                "stateTerritoryId": 59,
+                "dunsNumber": "081248001",
+                "naorganization": false,
+                "organizationTypePretty": "Industry"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "MD",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Maryland",
+                "stateTerritoryId": 3
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

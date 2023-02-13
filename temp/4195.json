@@ -1,0 +1,220 @@
+{
+    "project": {
+        "projectId": 4195,
+        "title": "Development and Testing of Compression Technologies Using Advanced Materials for Mechanical Counter-Pressure Planetary Exploration Suits",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10689,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10688,
+                "level": 3,
+                "code": "TX06.2.1",
+                "title": "Pressure Garment",
+                "definition": "The suit, or pressure garment, is the set of components a crewmember wears and uses, including the torso, arms, legs, gloves, joint bearings, helmet, and boots. The suit employs a complex system of soft-goods and mobility elements to optimize performance while pressurized without inhibiting unpressurized operations. The Launch, Entry, and Abort (LEA) suit also contains provisions to protect the crewmember from both nominal and off-nominal environments (e.g. acceleration, noise, chemical) encountered during launch, entry, and landing, as well as potential descent/ascent to planetary surfaces.",
+                "exampleTechnologies": "LEA arm mobility via soft constant volume joints and enhanced patterning; LEA in-suit waste containment; pressurized and non-pressurized rear-entry suit ingress systems; dust protectant mobility bearings and mechanisms; Pressure Garment System (PGS) Materials Layup \u2013 Vacuum; Mars PGS Layup; PGS for 1st to 99th Percentile American; advanced helmet and extravehicular visor systems; lightweight structures; high-performance EVA gloves; higher-performance intravehicular activity (IVA) gloves; reusable drink/nutrition bag; LEA occupant protection materials, analytical tools, and technologies; human waste containment and removal",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Mechanical counterpressure (MCP) space suits have the potential to greatly improve the mobility of astronauts as they conduct planetary exploration activities.  While MCP suits were first proposed over 30 years ago, challenges still exist to realize flight implementation. The underlying technologies required to provide uniform compression at sufficient pressures for space exploration have not yet been perfected, and donning and doffing of such a suit remains a significant challenge. The most promising solution to both of these problems lies in advanced materials technology: the development of a hybrid material combining passive elastics with integrated active elements could lead to smart fabrics capable of altering their compression characteristics upon activation. Such a technology would bring MCP suits much closer to operational viability (and could be leveraged for other purposes, especially in the medical and sports technology industries).",
+        "description": "Mechanical counterpressure (MCP) space suits have the potential to greatly improve the mobility of astronauts as they conduct planetary exploration activities. MCP suits, which differ from traditional gas-pressurized space suits by applying surface pressure to the wearer using tight-fitting materials rather than pressurized gas, represent a fundamental change in space suit design. Traditional gas-pressurized suits are highly resistive to astronaut motion because they require the user to work against the pressurized gas while performing EVA tasks. By altering the pressurization mechanism, MCP suits avoid the pitfall of working against the suit, and offer an added benefit of acting like a second-skin to the wearer, vastly reducing the mass of the suit while simultaneously mitigating the risk of catastrophic failures due to puncture or depressurization. As a result, MCP suits represent a promising breakthrough technology for future exploration missions.  While MCP suits were first proposed over 30 years ago, challenges still exist to realize flight implementation. The underlying technologies required to provide uniform compression at sufficient pressures for space exploration have not yet been perfected, and donning and doffing of such a suit remains a significant challenge. The most promising solution to both of these problems lies in advanced materials technology: the development of a hybrid material combining passive elastics with integrated active elements could lead to smart fabrics capable of altering their compression characteristics upon activation. Such a technology would bring MCP suits much closer to operational viability (and could be leveraged for other purposes, especially in the medical and sports technology industries).  The research objectives of this proposed effort are to:  Assess the state of the art of passive compression elastics to determine baseline capabilities  Investigate active material technologies that demonstrate potential to achieve 30 kPa (4.3 PSI) compression throughout the garment  Design, fabricate, and test hybrid materials combining passive and active compression components, and assess both their performance at providing uniform pressure of sufficient magnitude and ease of donning/doffing  Quantify the mobility characteristics of MCP concepts relative to their gas-pressurized counterparts  Provide recommendations for future hybrid designs based on quantitative measurements  Active material candidates will be assessed based on their stress/strain characteristics, activation mechanisms, as well as their potential for integration into a wearable garment. MCP suit garments will be tested to assess their capability both at providing uniform compression at sufficient magnitudes as well as their mobility characteristics relative to traditional space suits.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 103188,
+                "firstName": "Dava",
+                "lastName": "Newman",
+                "fullName": "Dava J Newman",
+                "fullNameInverted": "Newman, Dava J",
+                "middleInitial": "J",
+                "primaryEmail": "dnewman@mit.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 46789,
+                "firstName": "Bradley",
+                "lastName": "Holschuh",
+                "fullName": "Bradley T Holschuh",
+                "fullNameInverted": "Holschuh, Bradley T",
+                "middleInitial": "T",
+                "primaryEmail": "bradley.t.holschuh@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Development and Testing of Compression Technologies Using Advanced Materials for Mechanical Counter-Pressure Planetary Exploration Suits",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1745,
+                    "fileName": "4195-1363177662279",
+                    "fileSize": 194342,
+                    "objectId": 511,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1745,
+                        "fileName": "4195-1363177662279",
+                        "fileSize": 194342,
+                        "objectId": 511,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 511,
+                "title": "4195-1363177662279.jpg",
+                "description": "Project Image   Development and Testing of Compression Technologies Using Advanced Materials for Mechanical Counter-Pressure Planetary Exploration Suits",
+                "libraryItemTypeId": 1095,
+                "projectId": 4195,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1745,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 511,
+            "description": "Project Image   Development and Testing of Compression Technologies Using Advanced Materials for Mechanical Counter-Pressure Planetary Exploration Suits",
+            "projectId": 4195,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

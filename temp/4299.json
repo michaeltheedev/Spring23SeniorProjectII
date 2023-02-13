@@ -1,0 +1,219 @@
+{
+    "project": {
+        "projectId": 4299,
+        "title": "Ku Band Phased Array Feed Development for Surface Water Ocean Topography Mission",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10741,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10740,
+                "level": 3,
+                "code": "TX08.1.1",
+                "title": "Detectors and Focal Planes",
+                "definition": "Detectors, focal planes and readout integrated circuits provide large-format array technologies that require high quantum efficiency (QE); low noise, high resolution, uniform, and stable response; low power and cost; and high reliability. These technologies include low-noise, high-speed, low-power and radiation hardened readout integrated circuit (ROIC) electronics; superconducting sensors; spectral detectors; polarization-sensitive detectors; radiation-hardened detectors; and micro-Kelvin and sub-Kelvin high sensitivity detectors that cover the spectrum from submillimeter wave (Far-IR) to X-ray.",
+                "exampleTechnologies": "Backshort Undergrid bolometer arrays, Mercury Cadmium Telluride and Strained Superlattice Arrays, charge coupled devices, sidecar readout integrated circuits, radiometric calibration and abnormality correction algorithms (e.g. non-uniformity)",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Besides providing technology crucial to the success of NASA's SWOT mission, this project will make advances in phased array feed technology. The project will make advances in real-time beamforming technology and phased array feed design as well as advances in the calibration of dual-polarized phased array feeds. It will begin addressing the problem of using phased arrays together with SAR and provide a prototype that forms a few spatial beams and processes them with SAR. A significant contribution will be research into the next steps for hybridization of SAR and phased array feed spatial beams. Combining the process of spatial beamforming with SAR processing offers several major advances. Phased array spatial beamforming allows for a significant increase in both spatial resolution and field of view by forming multiple overlapping beams. If this process can be hybridized with SAR processing the spatial resolution and field of view of the satellite can be significantly increased without loss of the regional information provided by SAR. These gains could be applied to any remote sensing mission in which SAR is used. <p> \t&nbsp;</p> <p> \t&nbsp;</p> ",
+        "description": "The purpose of this project is to design components essential to the development of phased arrays and phased array feeds for use in remote sensing. Specifically the project will benefit the National Research Council's (NRC) decadal study recommendation to study the world's oceans and other surface waters. NASA created the Surface Water and Ocean Topography (SWOT) mission in order to meet these recommendations.  Current objectives in the SWOT mission are to achieve a better understanding of oceanic messoscale processes as well as terrestrial water volume. SWOT proposes to achieve this by achieving a spatial resolution of at least a sample every two kilometers.  This project will focus on designing a phased array feed with minimum noise, maximum sensitivity, and an optimized beam shape. This will be combined with Synthetic Aperture Radar (SAR) adaptive beamforming in order to achieve the necessary spatial resolution. This project will look at combining the spatial beamforming capability of phased arrays with SAR processing by forming a few spatial beams and performing SAR processing on each beam. This will improve spatial resolution as well as the field of view.  Besides providing technology crucial to the success of NASA's SWOT mission, this project will make advances in phased array feed technology. The project will make advances in real-time beamforming technology and phased array feed design as well as advances in the calibration of dual-polarized phased array feeds. It will begin addressing the problem of using phased arrays together with SAR and provide a prototype that forms a few spatial beams and processes them with SAR.  A significant contribution will be research into the next steps for hybridization of SAR and phased array feed spatial beams. Combining the process of spatial beamforming with SAR processing offers several major advances. Phased array spatial beamforming allows for a significant increase in both spatial resolution and field of view by forming multiple overlapping beams. If this process can be hybridized with SAR processing the spatial resolution and field of view of the satellite can be significantly increased without loss of the regional information provided by SAR. These gains could be applied to any remote sensing mission in which SAR is used.  The array will be designed using computer modeling and optimization techniques. Some work has already been done on phased array feed design and BYU and existing expertise will be utilized to create a model and optimization scheme for this project. After a cost benefit analysis considering the pros and cons of analog vs digital beamforming, a real-time beamforming backend will be designed. A cost benefit analysis will also be performed on various methods of calibration and an algorithm will be developed to implement the most beneficial method.  The final project deliverables will be 1) A prototype array verified for agreement with predictive models, 2) A design for a real-time beamformer signal processing backend, 3) A method and algorithm for calibration, and 4) Models and research into hybridization of SAR and phased array feed spatial beamforming.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 182742,
+                "firstName": "Howard",
+                "lastName": "Zebker",
+                "fullName": "Howard A Zebker",
+                "fullNameInverted": "Zebker, Howard A",
+                "middleInitial": "A",
+                "primaryEmail": "zebker@stanford.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 457492,
+                "firstName": "Taylor",
+                "lastName": "Webb",
+                "fullName": "Taylor Webb",
+                "fullNameInverted": "Webb, Taylor",
+                "primaryEmail": "taylorwebb85@yahoo.com",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Ku Band Phased Array Feed Development for Surface Water Ocean Topography Mission",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1786,
+                    "fileName": "4299-1363187627428",
+                    "fileSize": 194342,
+                    "objectId": 563,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1786,
+                        "fileName": "4299-1363187627428",
+                        "fileSize": 194342,
+                        "objectId": 563,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 563,
+                "title": "4299-1363187627428.jpg",
+                "description": "Project Image   Ku Band Phased Array Feed Development for Surface Water Ocean Topography Mission",
+                "libraryItemTypeId": 1095,
+                "projectId": 4299,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1786,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 563,
+            "description": "Project Image   Ku Band Phased Array Feed Development for Surface Water Ocean Topography Mission",
+            "projectId": 4299,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            }
+        ],
+        "lastUpdated": "2019-9-3",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

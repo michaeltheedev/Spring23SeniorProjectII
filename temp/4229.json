@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4229,
+        "title": "Measurement of Combustion Response to Transverse Modes at High Pressure",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10551,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10547,
+                "level": 3,
+                "code": "TX01.3.4",
+                "title": "Pressure Gain Combustion",
+                "definition": "Pressure gain combustion (PGC) describes a family of physical processes and configurations that provide an increase in total pressure during the combustion process within a fixed volume combustor.",
+                "exampleTechnologies": "Pulse detonation engine, pulsejets, wave rotors, pulse detonation engines (PDEs), and rotating detonation engines (RDEs); each of these combustors uses gas dynamic waves to confine the combustion process (all but the pulsejet also pre-compress the fuel/air mixture) to achieve an approximation to constant volume combustion",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "When fully developed this diagnostic method could be deployed on operational rocket engines to actively control against unstable behavior or implemented on research combustors for more standardized, complete experimental results.",
+        "description": "The coupling between acoustics and unstable combustion has been a prime concern and unsolved problem over the entire modern history of chemical propulsion. These instabilities are extremely complicated due to the myriad potential coupling mechanisms and multiple length and time scales of the combustor and combustion processes. With frequencies greater than 1000 Hz, high-frequency combustion instabilities can impact combustor performance and lead to catastrophic failure due to overheating. Experimental work at Purdue is part of a larger effort to integrate experimentation, high order models, and engineering level models to better predict combustion instability and to better serve future engine design and performance. An absolutely unique experiment is being used to provide a representative unstable flowfield to which the response of propellant combustion can be measured. Imaging processing techniques are used to identify combusting structures in injector flowfields and their response to pressure and velocity instabilities. Combustion light intensity as measured by a filtered high speed camera is used as an indicator of local unsteady heat release. Combining heat release and high frequency pressure measurements, the damping and driving effects of an injector shall be identified based on Rayleigh\u00eds criterion of instability. These data are compared to high fidelity computer models to distill combustion response functions that can be used in engineering-level models. When fully developed this diagnostic method could be deployed on operational rocket engines to actively control against unstable behavior or implemented on research combustors for more standardized, complete experimental results.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 490354,
+                "firstName": "William",
+                "lastName": "Anderson",
+                "fullName": "William R Anderson",
+                "fullNameInverted": "Anderson, William R",
+                "middleInitial": "R",
+                "primaryEmail": "william.r.anderson@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 324156,
+                "firstName": "Matthew",
+                "lastName": "Wierman",
+                "fullName": "Matthew K Wierman",
+                "fullNameInverted": "Wierman, Matthew K",
+                "middleInitial": "K",
+                "primaryEmail": "matthew.k.wierman-1@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Measurement of Combustion Response to Transverse Modes at High Pressure",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1791,
+                    "fileName": "4229-1363192114653",
+                    "fileSize": 194342,
+                    "objectId": 472,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1791,
+                        "fileName": "4229-1363192114653",
+                        "fileSize": 194342,
+                        "objectId": 472,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 472,
+                "title": "4229-1363192114653.jpg",
+                "description": "Project Image   Measurement of Combustion Response to Transverse Modes at High Pressure",
+                "libraryItemTypeId": 1095,
+                "projectId": 4229,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1791,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 472,
+            "description": "Project Image   Measurement of Combustion Response to Transverse Modes at High Pressure",
+            "projectId": 4229,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "West Lafayette",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2582,
+                "organizationName": "Purdue University-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "IN",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Indiana",
+                    "stateTerritoryId": 37
+                },
+                "stateTerritoryId": 37,
+                "murepUnitId": 243780,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "IN",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Indiana",
+                "stateTerritoryId": 37
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

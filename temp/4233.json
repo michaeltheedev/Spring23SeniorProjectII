@@ -1,0 +1,251 @@
+{
+    "project": {
+        "projectId": 4233,
+        "title": "Dynamics and Controls of Swarms of Femtosatellites",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10722,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10721,
+                "level": 3,
+                "code": "TX07.1.1",
+                "title": "Destination Reconnaissance and Resource Assessment",
+                "definition": "Destination reconnaissance and resource assessment technologies characterize, sample, and map the surface environment to quantify the locations and abundances of material and energy resources accessible from the surface. Orbital remote sensing or deployed surface devices and instruments are used to probe, sample, and analyze possible dynamic atmospheric and surface/subsurface material composition and physical/chemical properties. This mapping includes the combination of environmental, terrain, geological, and resource information to estimate accessibility and plan extraction operations.",
+                "exampleTechnologies": "Instruments and devices to: detect, locate, and quantify specific surface and subsurface chemical species (such as water or other high-value elements or minerals); determine properties of the destination atmosphere including composition, dynamic behavior, and other environmental factors related to utilization of atmospheric resources; measure geotechnical (mechanical) properties of the destination surface and subsurface for assessments of resource accessibility; assess or measure interactions between the surface environment and exploration capabilities (e.g. rocket plumes) that may affect resource accessibility; and models and simulate to extend discrete-site resource sampling into a broader mapping of accessible resources",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Spacecraft swarms have many potential uses in interferometry and communications but they cannot perform any functions until more efficient guidance and control algorithms. Swarms will greatly outperform monolithic spacecraft in many areas due to their versatility and durability. For this reason it is critical that fuel efficient and computationally practical guidance and control approaches be developed and tested. Additionally, these algorithms can be modified for use in other fields such as robotics and multivehicle control.  ",
+        "description": "The proposed research activity is focused on the development of fuel and computationally efficient guidance and control algorithms for spacecraft swarms. The guidance and control methods developed in this research will address swarms with the following characteristics: swarms will have hundreds to thousands of agents, each agent will have limited control, sensing, and communication capabilities, and the swarms will be under the influence of highly coupled, nonlinear dynamics. The proposed research will also deliver an implementation of the guidance and control algorithms using both a testbed of tens to hundreds of autonomous helicopters and a realistic simulator that captures the exact orbital dynamics.  One challenge unique to the spacecraft swarm is to meet the optimal and robust performance requirement of the desired swarm behaviors governed by the highly nonlinear orbital dynamics as well as the attitude dynamics. The relatively limited control, sensing, communication, and computation capabilities of the spacecraft will further complicate the complexity of the guidance and control problems.  In the field of robotics and multivehicle control, graphs have been used to solve flocking and consensus control problems with similar objectives to those of spacecraft swarms. However, this work cannot be directly applied to the guidance and control problem of spacecraft swarms. One key difference is the complexity of the dynamic models of spacecraft swarm dynamics. The algorithms developed for simple planar motions of mobile robots or aerial vehicles cannot automatically ensure either fuel-efficient or collision-free maneuvers for the swarm dynamics in the presence of various orbital perturbations. In other words, when we derive the guidance and control algorithms and conduct verification and validation (V&V), we should consider the highly nonlinear coupled time-varying dynamics with various environmental, sensor, actuator, and communication uncertainties.  The field of formation flying has been very popular for the past decade and many guidance and control algorithms have been developed. Unfortunately, the size of a swarm is several orders of magnitude larger than most spacecraft formations. For this reason, the fully centralized approaches typically used in formation flying are computationally expensive because they require that the location and path of each spacecraft be known at all times. Therefore, a decentralized approach is much more computationally feasible. In this case, each spacecraft only needs to know the locations and paths of its neighboring spacecraft.  Spacecraft swarms have many potential uses in interferometry and communications but they cannot perform any functions until more efficient guidance and control algorithms. Swarms will greatly outperform monolithic spacecraft in many areas due to their versatility and durability. For this reason it is critical that fuel efficient and computationally practical guidance and control approaches be developed and tested. Additionally, these algorithms can be modified for use in other fields such as robotics and multivehicle control.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 439860,
+                "firstName": "Soon-Jo",
+                "lastName": "Chung",
+                "fullName": "Soon-jo Chung",
+                "fullNameInverted": "Chung, Soon-jo",
+                "primaryEmail": "sjchung@illinois.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 98117,
+                "firstName": "Daniel",
+                "lastName": "Morgan",
+                "fullName": "Daniel C Morgan",
+                "fullNameInverted": "Morgan, Daniel C",
+                "middleInitial": "C",
+                "primaryEmail": "d.c.morgan@larc.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Dynamics and Controls of Swarms of Femtosatellites",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1761,
+                    "fileName": "4233-1363183802458",
+                    "fileSize": 194342,
+                    "objectId": 555,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1761,
+                        "fileName": "4233-1363183802458",
+                        "fileSize": 194342,
+                        "objectId": 555,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 555,
+                "title": "4233-1363183802458.jpg",
+                "description": "Project Image   Dynamics and Controls of Swarms of Femtosatellites",
+                "libraryItemTypeId": 1095,
+                "projectId": 4233,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1761,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 555,
+            "description": "Project Image   Dynamics and Controls of Swarms of Femtosatellites",
+            "projectId": 4233,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Urbana",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3999,
+                "organizationName": "University of Illinois at Urbana-Champaign",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "IL",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Illinois",
+                    "stateTerritoryId": 39
+                },
+                "stateTerritoryId": 39,
+                "murepUnitId": 145637,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "IL",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Illinois",
+                "stateTerritoryId": 39
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

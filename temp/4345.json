@@ -1,0 +1,272 @@
+{
+    "project": {
+        "projectId": 4345,
+        "title": "The Potential for Ambient Plasma Wave Propulsion",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10564,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10560,
+                "level": 3,
+                "code": "TX01.4.4",
+                "title": "Other Advanced Propulsion Approaches",
+                "definition": "Other advanced propulsion technologies include technologies and physics concepts that could result in breakthroughs that enable missions not previously possible.",
+                "exampleTechnologies": "Beamed energy, fusion propulsion, high energy-density materials, antimatter propulsion, advanced fission, breakthrough propulsion",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "<p>A propellantless propulsion system has the potential to revolutionize space exploration as well as near-Earth orbital transfers by enabling large V maneuvers and unique station keeping capabilities with significant flexibility and adjustability not possible with projected advances in conventional nuclear electric propulsion.</p> ",
+        "description": "This concept addresses the fact that space exploration is costly, primarily due to our current need to bring everything with us from the Earth's surface. Truly robust and affordable space exploration will require that we use all the available resources we can find in space. The plasma wave concept deals with two facts: 1. Many planets, and the Sun, possess an ambient environment of magnetic fields and plasmas 2. Plasmas with magnetic fields can support a variety of waves, which transmit energy and or pressure, like light or sound waves. Many of these waves are at radio frequencies (kHz to MHz), and can be generated using the appropriate antenna. \"Appropriate\" means the right size and shape. Plasma waves are considered in fusion power systems, semiconductor manufacturing, and in some very theoretical electric propulsion thrusters, such as VASIMR, which still must carry its own propellant. In contrast, this concept simply uses an on-board power supply and antenna on a vehicle that operates in the existing plasma. The spacecraft beams plasma waves in one direction with the antenna, which would generate momentum that could propel the vehicle in the other direction without using any propellant on the space ship. Such a system could maneuver in the plasma environment for as long as its power supply lasted, without needing to be refueled. One particular wave to consider is the Alfven wave, which propagates in magnetized plasmas and has been observed occurring naturally in space.",
+        "destinations": [
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 194987,
+                "firstName": "James",
+                "lastName": "Gilland",
+                "fullName": "James H Gilland",
+                "fullNameInverted": "Gilland, James H",
+                "middleInitial": "H",
+                "primaryEmail": "james.h.gilland@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   The Potential for Ambient Plasma Wave Propulsion",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102164,
+                    "fileName": "15143",
+                    "fileSize": 134001,
+                    "objectId": 126678,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "134.0 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102164,
+                        "fileName": "15143",
+                        "fileSize": 134001,
+                        "objectId": 126678,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "134.0 KB"
+                    }
+                ],
+                "id": 126678,
+                "title": "15143.jpg",
+                "description": "Project Image   The Potential for Ambient Plasma Wave Propulsion",
+                "libraryItemTypeId": 1095,
+                "projectId": 4345,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6614,
+                "projectId": 4345,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "A truly robust space exploration program will need to make use of in-situ resources as much as possible to make the endeavor affordable. Most space propulsion concepts are saddled with one fundamental burden; the propellant needed to produce momentum. The most advanced propulsion systems currently in use utilize electric and/or magnetic fields to accelerate ionized propellant. However, significant planetary exploration missions in the coming decades, such as the now canceled Jupiter Icy Moons Orbiter 1, are restricted by propellant mass and propulsion system lifetimes, using even the most optimistic projections of performance. These electric propulsion vehicles are inherently limited in flexibility at their final destination, due to propulsion system wear, propellant requirements, and the relatively low acceleration of the vehicle. A few concepts are able to utilize the environment around them to produce thrust: Solar or magnetic sails , and, with certain restrictions, electrodynamic tethers. These concepts focus primarily on using the solar wind or ambient magnetic fields to generate thrust. Technically immature, quasi-propellantless alternatives lack either the sensitivity or the power to provide significant maneuvering. An additional resource to be considered is the ambient plasma and magnetic fields in solar and planetary magnetospheres. These environments, such as those around the Sun or Jupiter, have been shown to host a variety of plasma waves. Plasma wave propulsion takes advantage of an observed astrophysical and terrestrial phenomenon: Alfven waves. These are waves that propagate in the plasma and magnetic fields around and between planets and stars. The generation of Alfven waves in ambient magnetic and plasma fields to generate thrust is proposed as a truly propellantless propulsion system which may enable an entirely new matrix of exploration missions. Alfven waves are well known, transverse electromagnetic waves that propagate in magnetized plasmas at frequencies below the ion cyclotron frequency. They have been observed in both laboratory and astrophysical settings. On Earth, they are being investigated as a possible means for plasma heating, current drive, and momentum addition in magnetic confinement fusion systems. In addition, Alfven waves have been proposed as a mechanism for acceleration of the solar wind away from the sun.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102164,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126678,
+            "description": "Project Image   The Potential for Ambient Plasma Wave Propulsion",
+            "projectId": 4345,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "OAI",
+            "canUserEdit": false,
+            "city": "Cleveland",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 4969,
+            "organizationName": "Ohio Aerospace Institute",
+            "organizationType": "Academia",
+            "stateTerritory": {
+                "abbreviation": "OH",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Ohio",
+                "stateTerritoryId": 23
+            },
+            "stateTerritoryId": 23,
+            "naorganization": false,
+            "organizationTypePretty": "Academia"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "OH",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Ohio",
+                "stateTerritoryId": 23
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

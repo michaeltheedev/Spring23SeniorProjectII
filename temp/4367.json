@@ -1,0 +1,303 @@
+{
+    "project": {
+        "projectId": 4367,
+        "title": "Ghost Imaging of Space Objects",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10651,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10646,
+                "level": 3,
+                "code": "TX05.1.5",
+                "title": "Atmospheric Mitigation",
+                "definition": "Atmospheric mitigation measures and models the atmospheric channel and its effects on optical propagation, as well as mitigating atmospheric effects on both uplink and downlink.",
+                "exampleTechnologies": "Solar differential image motion monitor (DIMM), daytime adaptive optics for uplink and downlink, weather forecasting for handover",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "Potential benefits of the application of ghost imaging in astronomy and astrophysics include the enhanced resolution and broader range imaging of extra-terrestrial objects, such as Earth-like planets (including those near bright stars), black holes, and dust or gas clouds. Optical imaging in astronomy will remain an active area of NASA's deep space exploration efforts for many years to come, and developing a novel architecture geared to provide new or enhanced data will definitely have a high impact. Practical applications of conventional and computational ghost imaging is an active area of research in the engineering community, including JPL (stand-off sensing instruments for DARPA). This interest is justified the reduced optical and photodetector complexities inherent in ghost imaging. However, a thorough feasibility study is required prior to launching a large-scale effort focused on astronomy and astrophysics applications. We propose to carry out such a study and present our recommendations by the Phase II start, as to whether such an effort would be practical at the present level of technology.",
+        "description": "Ghost imaging is an optical imaging technique that utilizes the correlations between optical fields in two channels. One of the channels contains the object, however lacks any spatial resolution. In the other, empty channel a space-resolving optical detection is allowed. The image is reconstructed by correlating the signals from two channels. In the original implementation, the channels had to be coupled to quantum-correlated (entangled) optical fields. Later it was shown that this approach could also work with ordinary thermal light (e.g., star light), which also possesses correlation properties. However the ghost imaging geometry remains poorly compatible with the imaging of astronomical objects. Specifically, creating the correlated optical channels requires a beam splitter to be placed between the source and the object. The study team recently re-examined this requirement and found a possibility to avoid it, therefore potentially opening the doors to the ghost-imaging of distant objects using natural light. The key to the proposed approach is the understanding that an optical mode can be coupled in two channels not only by splitting its amplitude with a beam splitter, but also by sub-mode detection, which occurs naturally when the object is smaller than the transverse coherence length. In Phase-I the team will discuss the requirements arising for this type of ghost imaging and theoretically validate the novel approach.",
+        "destinations": [
+            {
+                "lkuCodeId": 1543,
+                "code": "EARTH",
+                "description": "Earth",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 123032,
+                "firstName": "Dmitry",
+                "lastName": "Strekalov",
+                "fullName": "Dmitry V Strekalov",
+                "fullNameInverted": "Strekalov, Dmitry V",
+                "middleInitial": "V",
+                "primaryEmail": "dmitry.v.strekalov@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Ghost Imaging of Space Objects",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102267,
+                    "fileName": "15122",
+                    "fileSize": 157400,
+                    "objectId": 126824,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "157.4 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102267,
+                        "fileName": "15122",
+                        "fileSize": 157400,
+                        "objectId": 126824,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "157.4 KB"
+                    }
+                ],
+                "id": 126824,
+                "title": "15122.jpg",
+                "description": "Project Image   Ghost Imaging of Space Objects",
+                "libraryItemTypeId": 1095,
+                "projectId": 4367,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6623,
+                "projectId": 4367,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "During our Phase I NIAC research eort we have investigated the possibility of performing intensity correlation\\\\ghost imaging\" of dark amplitude and phase objects in space illuminated by thermal light sources (stars). Our approach hinges on replacing the beam splitter, indispensable for thermal light ghost imaging but infeasible for space imaging, with the object itself. The absorptive and refractive properties of the object are predicted to imprint themselves on the intensity correlation properties of the transmitted and scattered light and could be extracted from the correlation measurements. To test this concept we limited our discussion to fully analytical model relying on a two-dimensional source and an object with Gaussian distribution of luminosity, absorption or phase delay (the latter representing a thin lens) in paraxial approximation. We demonstrated the variation of the far-field speckle size due to the presence of the object. We have shown that the speckle size variation is a non-trivial function of the object's properties and position. In some cases it allows us to distinguish dierent phase and amplitude objects even when they produce very similar shadows and can hardly be distinguished by a direct intensity measurement. Thus the correlation measurement provides a complimentary information to a direct observation. This understanding has encouraged us to apply our analytical model to a realistic space object imaging scenario, such as the Kepler mission. Our prediction for the flux variation very close to the actual observation. It also predicted a similar (about 10\\xa14) fractional variation of the speckle size. We have carried out a preliminary SNR analysis for a correlation measurement, comparing it to a direct \u00b0ux measurement. The analysis has shown that, for parameters typical of the Kepler mission, the correlation measurement SNR would be signi\\xafcantly worse than the intensity measurement SNR. This analysis however does not include certain instrumental types of noise, that may be detrimental for the intensity measurement more than for the correlation measurement and could potentially balance or even reverse the SNRs inequality. These are the dark noise and variation of detector's responsivity (quantum effciency) due to environmental \u00b0uctuations and aging. The ambient background light is another important factor that needs to be considered. We plan to include these factors in the advanced noise model which will be developed in the follow-on research.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102267,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126824,
+            "description": "Project Image   Ghost Imaging of Space Objects",
+            "projectId": 4367,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "JPL",
+            "canUserEdit": false,
+            "city": "Pasadena",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4946,
+            "organizationName": "Jet Propulsion Laboratory",
+            "organizationType": "NASA_Center",
+            "stateTerritory": {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            },
+            "stateTerritoryId": 59,
+            "naorganization": false,
+            "organizationTypePretty": "NASA Center"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Erlangen",
+                "country": {
+                    "abbreviation": "DE",
+                    "countryId": 83,
+                    "name": "Germany"
+                },
+                "countryId": 83,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2461,
+                "organizationName": "Max Planck Institute for the Science of Light",
+                "organizationType": "Industry",
+                "stateTerritory": {
+                    "abbreviation": "",
+                    "country": {
+                        "abbreviation": "DE",
+                        "countryId": 83,
+                        "name": "Germany"
+                    },
+                    "countryId": 83,
+                    "name": "Outside the United States",
+                    "stateTerritoryId": 60
+                },
+                "stateTerritoryId": 60,
+                "naorganization": false,
+                "organizationTypePretty": "Industry"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

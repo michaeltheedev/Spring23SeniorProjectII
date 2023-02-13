@@ -1,0 +1,280 @@
+{
+    "project": {
+        "projectId": 4343,
+        "title": "Enabling All-Access Mobility for Planetary Exploration Vehicles via Transformative Reconfiguration",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10952,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10946,
+                "level": 3,
+                "code": "TX15.1.6",
+                "title": "Advanced Atmospheric Flight Vehicles",
+                "definition": "This area covers unconventional vehicle concept designs enabled by advancements in understanding of flow and fluid phenomena.",
+                "exampleTechnologies": "Concept flow-related technologies supporting development of subsonic transports, supersonic transports, hybrid electric concepts, advanced spacecraft, launch vehicle and abort vehicles, planetary EDL and ascent vehicles, and urban air vehicles",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "The significant uncertainties about terrain conditions make it highly desirable for spacecraft to have robust mobility capabilities. Advancements in system architecture that are gained from the incorporation of reconfigurability will transform our perceptions on the constraints that dictate the terrain on which these systems can perform and the range they are capable of achieving. Further, the evolution of this system architecture over the course of multiple missions can lead to increased cost savings and the ability to rapidly explore new, harsh environments",
+        "description": "Investigation of real-time repeatable, reversible changes in physical configuration will yield solutions capable of significant changes to system form. Outcomes from this work will include identifying technologies that facilitate reconfigurability, assessing their strengths and limitations, and developing proof-of-concept prototypes. Similar to the concept seen in recent 'Transformers' movies, this work explores how reconfigurability can enable mobility across diverse, uncertain terrains. Beyond sensing and controls challenges, there has been little work done exploring the application of transformative reconfigurations that deviate from traditional wheeled-rover design. Investigation of real-time repeatable, reversible changes in physical configuration will yield solutions capable of significant changes to system form. Outcomes from this work will include identifying technologies that facilitate reconfigurability, assessing their strengths and limitations, and developing proof-of-concept prototypes. (This is a project within the NASA Innovative Advanced, NIAC, program.)",
+        "destinations": [
+            {
+                "lkuCodeId": 1544,
+                "code": "THE_MOON",
+                "description": "The Moon",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1518,
+                "code": "MARS",
+                "description": "Mars",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 426499,
+                "firstName": "Scott",
+                "lastName": "Ferguson",
+                "fullName": "Scott Ferguson",
+                "fullNameInverted": "Ferguson, Scott",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Enabling All-Access Mobility for Planetary Exploration Vehicles via Transformative Reconfiguration",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102079,
+                    "fileName": "15120",
+                    "fileSize": 83438,
+                    "objectId": 126583,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "83.4 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102079,
+                        "fileName": "15120",
+                        "fileSize": 83438,
+                        "objectId": 126583,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "83.4 KB"
+                    }
+                ],
+                "id": 126583,
+                "title": "15120.jpg",
+                "description": "Project Image   Enabling All-Access Mobility for Planetary Exploration Vehicles via Transformative Reconfiguration",
+                "libraryItemTypeId": 1095,
+                "projectId": 4343,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6411,
+                "projectId": 4343,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "Effective large-scale exploration of planetary surfaces requires robotic vehicles capable of mobility across chaotic terrain. To date, rovers sent to Mars have been based on the standard rocker-bogie style architecture, and hence have been limited to exploring relatively flat, even terrain. In search of game-changing technologies that can enable robotic exploration of much more challenging terrains, we have examined the role that transformation principles can play in facilitating the development of such technologies. As part of this effort we made use of three senior design teams to generate new ideas, and also employed three graduate students who worked in this area as part of their thesis and class work. The basic strategy we employed was to: -generate configuration changes using transformation principles (e.g. using brainstorming); -identify promising concepts that use transformation to explore different types of terrain; -create virtual and physical prototypes; -develop analytical models describing system motion and function over randomly generated random terrain profiles; -and, conduct a quantitative evaluation of system performance. After analyzing 31 concepts, a pattern emerged; namely that the most fruitful transformation principles for planetary rover exploration are expand / collapse and expose / cover. Fuse / divide was also found to be useful, but this is not new, as NASA has been using this principle for over 40 years. Additionally, while reorientation can enable game-changing architecture changes when combined with other transformation principles, it does so from a secondary support role. In addition to identifying the most promising transformation principles, we also chose to develop three system architectures: a glider/base system for exploring Mars' Melas Chasma, an Air Cannon system for exploring Mars' Valles Marineris, and a transforming Roving-Rolling Explorer (TRREx) for exploring Mars' Hellas Basin. While this development mostly occurs to validate initial concept feasibility, we also present a strategy for assessing the system-level effectiveness of architecture transformations in the presence of chaotic terrain. A hi-fidelity simulation environment is used to quickly run a myriad of test scenarios on the TRREx concept and the traditional rocker-bogie architecture. Four rovers - two architectures using two size scales - are tested across various levels of ground traction, slope, and rock field density. Utility theory is combined with identified performance measures to explore rational architecture selection across potential missions generated as a combination of terrain challenges. From this study, we conclude that architecture decisions for a given mission must be based on mission profile, terrain encountered, and the size of the rover to be deployed. In summary, we have used this Phase I effort to engage in a very broad exploration of concepts enabled by system transformation, identified the concepts of expand/collapse and expose/cover as being particularly promising with respect to developing game changing architectures for planetary exploration, have performed detailed development and analysis of three particularly promising technologies, and have developed techniques for evaluating the performance of these new concepts with respect to how well they can achieve desired exploration goals over rough and chaotic terrains. While this study has explored the design space enabled by transformation principles, future efforts must characterize and explore the tradespace for specific architectures. Fundamentally, this requires the aggregation of information from the engineering and mission science disciplines. This will require appropriate measures of risk, complexity, and performance to be explored within existing decision-making frameworks developed by the engineering design community. Additional efforts must be undertaken to identify the key technologies that need to be created, improved, or adopted if the proposed architectures are to be further matured.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102079,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126583,
+            "description": "Project Image   Enabling All-Access Mobility for Planetary Exploration Vehicles via Transformative Reconfiguration",
+            "projectId": 4343,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "Raleigh",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 3223,
+            "organizationName": "North Carolina State University at Raleigh",
+            "organizationType": "Academia",
+            "stateTerritory": {
+                "abbreviation": "NC",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "North Carolina",
+                "stateTerritoryId": 12
+            },
+            "stateTerritoryId": 12,
+            "murepUnitId": 199193,
+            "naorganization": false,
+            "organizationTypePretty": "Academia"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "NC",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "North Carolina",
+                "stateTerritoryId": 12
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

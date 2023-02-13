@@ -1,0 +1,249 @@
+{
+    "project": {
+        "projectId": 4321,
+        "title": "Valveless Detonation Concepts for Space Exploration",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10551,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10547,
+                "level": 3,
+                "code": "TX01.3.4",
+                "title": "Pressure Gain Combustion",
+                "definition": "Pressure gain combustion (PGC) describes a family of physical processes and configurations that provide an increase in total pressure during the combustion process within a fixed volume combustor.",
+                "exampleTechnologies": "Pulse detonation engine, pulsejets, wave rotors, pulse detonation engines (PDEs), and rotating detonation engines (RDEs); each of these combustors uses gas dynamic waves to confine the combustion process (all but the pulsejet also pre-compress the fuel/air mixture) to achieve an approximation to constant volume combustion",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Valveless PDE technology has the potential to provide cost savings in inert weight, simplicity in manufacturing, and increases to efficiency for rocket propulsion systems. These benefits aim to provide greater mission capability.  ",
+        "description": "The objective of the proposal is to develop a valveless pulse detonation engine (PDE) and provide performance metrics for comparison to traditional propulsion systems.  The proposed research program will have the following elements:  Development of a lumped-parameter transient hydraulic model to aid in the design of manifold/injector combinations with a tuned resistance to support valveless detonation behavior  Experimental investigation into the performance of a lab-scale combustor under valveless detonation mode operation. This investigation will include high-rate pressure measurements to facilitate performance calculations for comparison against conventional options.  A systems study to ascertain the overall benefit of the pulse detonation cycle relative to a conventional pressure or pump fed rocket.  Valveless PDE technology has the potential to provide costs savings in inert weight, simplicity in manufacturing, and increases to efficiency for rocket propulsion systems. These benefits aim to provide greater mission capability.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 446476,
+                "firstName": "Steve",
+                "lastName": "Heister",
+                "fullName": "Steve Heister",
+                "fullNameInverted": "Heister, Steve",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 48129,
+                "firstName": "Brandon",
+                "lastName": "Kan",
+                "fullName": "Brandon Kan",
+                "fullNameInverted": "Kan, Brandon",
+                "primaryEmail": "brandon.kan@spacex.com",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Valveless Detonation Concepts for Space Exploration",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1842,
+                    "fileName": "4321-1363268472217",
+                    "fileSize": 194342,
+                    "objectId": 867,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1842,
+                        "fileName": "4321-1363268472217",
+                        "fileSize": 194342,
+                        "objectId": 867,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 867,
+                "title": "4321-1363268472217.jpg",
+                "description": "Project Image   Valveless Detonation Concepts for Space Exploration",
+                "libraryItemTypeId": 1095,
+                "projectId": 4321,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1842,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 867,
+            "description": "Project Image   Valveless Detonation Concepts for Space Exploration",
+            "projectId": 4321,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "West Lafayette",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2582,
+                "organizationName": "Purdue University-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "IN",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Indiana",
+                    "stateTerritoryId": 37
+                },
+                "stateTerritoryId": 37,
+                "murepUnitId": 243780,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "IN",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Indiana",
+                "stateTerritoryId": 37
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

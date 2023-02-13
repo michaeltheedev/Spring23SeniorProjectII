@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4331,
+        "title": "Development of Millimeter Imaging Technologies",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10741,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10740,
+                "level": 3,
+                "code": "TX08.1.1",
+                "title": "Detectors and Focal Planes",
+                "definition": "Detectors, focal planes and readout integrated circuits provide large-format array technologies that require high quantum efficiency (QE); low noise, high resolution, uniform, and stable response; low power and cost; and high reliability. These technologies include low-noise, high-speed, low-power and radiation hardened readout integrated circuit (ROIC) electronics; superconducting sensors; spectral detectors; polarization-sensitive detectors; radiation-hardened detectors; and micro-Kelvin and sub-Kelvin high sensitivity detectors that cover the spectrum from submillimeter wave (Far-IR) to X-ray.",
+                "exampleTechnologies": "Backshort Undergrid bolometer arrays, Mercury Cadmium Telluride and Strained Superlattice Arrays, charge coupled devices, sidecar readout integrated circuits, radiometric calibration and abnormality correction algorithms (e.g. non-uniformity)",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "In recent years, the development of highly-sensitive instrumentation on orbital and ground-based platforms, including WMAP, ACT, and SPT, have allowed for unprecedented measurements and mapping of the Cosmic Microwave Background (CMB), yielding major advances in our understanding of the characteristics and shape of the universe, the nature of the baryonic matter, and the growth of large scale structure. In spite of these advances, however, many further mysteries remain locked within future characterization of the CMB, most notably including direct probes of dark matter and energy.  To address these scientific initiatives, this project engages in high-resolution observations of the CMB, through the development and deployment of a novel, polarization-sensitive receiver for the Atacama Cosmology Telescope (ACTpol).",
+        "description": "One of the most important physical discoveries, and largest surprises, over the past decade has been the discovery of the mysterious, so-called dark energy. This dark energy is responsible for the rapid acceleration of the expansion of the universe, originally inferred through the observations of supernovae. Observations of the cosmic microwave background (CMB) provide a method of constraining the dark energy, in addition to providing a wealth of information about other important cosmological parameters. Specifically, in recent years, the development of highly-sensitive instrumentation on orbital and ground-based platforms, including WMAP, ACT, and SPT, have allowed for unprecedented measurements and mapping of the CMB, yielding major advances in our understanding of the characteristics and shape of the universe, the nature of the baryonic matter, and the growth of large scale structure. In spite of these advances, however, many further mysteries remain locked within future characterization of the CMB, most notably including direct probes of dark matter and energy.  To address these scientific initiatives, I will engage in high-resolution observations of the CMB, through the development and deployment of a novel, polarization-sensitive receiver for the Atacama Cosmology Telescope (ACTpol). In its own right, ACTpol will be a next-generation facility to upgrade current instrumentation on one of the highest altitude, permanent-structure, ground-based observatories in the world, ACT. Specifically, it is this transition from ACT to ACTpol instrumentation development and science to allow for measurement of CMB polarization, directed by a multinational research collaboration, which is the critical focus of my graduate-level research in the group of Mark Devlin, my academic faculty advisor at the University of Pennsylvania (Penn).  That the scope of this work will allow for long-term critical technology development on a ground-based platform is of particular importance to future NASA-supported CMB polarization orbital missions. Much in the same way that the development of suborbital missions such as TOCO and Boomerang led to the ultimate success of orbital missions such as WMAP and Planck, respectively, the instrumentation development of ACTpol will allow for field-tested, systems level technology development, and drive the ultimate scientific objectives of a future satellite CMB polarization mission. As a result, the reach of this program of research will reside within a critical framework of design, implementation, and characterization of ACTpol instrumentation as it will support advances in the technical readiness levels of technologies that will fly on future orbital platforms fielded by NASA. This phase of my research will be conducted in close partnership with personnel at the NASA Goddard Space Flight Center (GSFC) in Greenbelt, MD, under the direct advisement of GSFC astrophysicist, Edward Wollack, who has a strong tradition of partnership with detector development for the ACT collaboration. In particular, the cryogenic, detector, and interface electronics that I will develop on ACTpol will support a myriad of near-term NASA science technology directives. These science area programs include the Technology Development for Physics of the Cosmos Program supporting the Technologies for CMB Polarization Measurements and dark matter detection directives, as well as the Technology Development for the Cosmic Origins Program to strengthen research into mission enabling technologies, including high-sensitivity millimeter wavelength detectors, in this case transition edge sensitive (TES) detectors, and advanced normal incidence optics, with a particular focus on the fielding of dilution refrigerator cooled cryogenic optics with novel anti-reflective coatings. This proposal documents the efforts to support these initiatives through the development of advanced millimeter imaging technologies.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 311197,
+                "firstName": "Mark",
+                "lastName": "Devlin",
+                "fullName": "Mark J Devlin",
+                "fullNameInverted": "Devlin, Mark J",
+                "middleInitial": "J",
+                "primaryEmail": "devlin@physics.upenn.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 41208,
+                "firstName": "Benjamin",
+                "lastName": "Schmitt",
+                "fullName": "Benjamin L Schmitt",
+                "fullNameInverted": "Schmitt, Benjamin L",
+                "middleInitial": "L",
+                "primaryEmail": "bschm@physics.upenn.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Development of Millimeter Imaging Technologies",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1753,
+                    "fileName": "4331-1363179082883",
+                    "fileSize": 194342,
+                    "objectId": 451,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1753,
+                        "fileName": "4331-1363179082883",
+                        "fileSize": 194342,
+                        "objectId": 451,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 451,
+                "title": "4331-1363179082883.jpg",
+                "description": "Project Image   Development of Millimeter Imaging Technologies",
+                "libraryItemTypeId": 1095,
+                "projectId": 4331,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1753,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 451,
+            "description": "Project Image   Development of Millimeter Imaging Technologies",
+            "projectId": 4331,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Philadelphia",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4001,
+                "organizationName": "University of Pennsylvania",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "PA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Pennsylvania",
+                    "stateTerritoryId": 47
+                },
+                "stateTerritoryId": 47,
+                "murepUnitId": 215062,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "PA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Pennsylvania",
+                "stateTerritoryId": 47
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

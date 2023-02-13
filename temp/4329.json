@@ -1,0 +1,253 @@
+{
+    "project": {
+        "projectId": 4329,
+        "title": "Dynamic Stability Characterization of Rigid Deployable Aerodynamic Decelerators",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10765,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10764,
+                "level": 3,
+                "code": "TX09.2.1",
+                "title": "Aerodynamic Decelerators",
+                "definition": "Aerodynamic decelerators are deployable descent system components that generate aerodynamic forces on the spacecraft, principally drag for deceleration, and lift for guidance and control. Parachutes or parafoils are traditionally employed for this purpose, but other deployable or inflatable devices, attached or trailing, may scale more effectively to higher mass missions.",
+                "exampleTechnologies": "Supersonic Inflatable Aerodynamic Decelerator (SIAD); mechanically deployed decelerators and methods of active control; steerable and guided deployable decelerators; dual-mode attached decelerator systems; ballutes",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Rigid deployable aerodynamic decelerators would allow for bridging of the gap between the robotic missions which we have successfully landed on Mars to date and the potential human class missions.  The potential of rigid deployable decelerators and other similar technologies to enable ground breaking advancements in the capability of our nation to explore hinges on the continuous efforts of researches to further understand their behavior. Stability characterization is just one piece of that effort, but is a step that is necessary to increase the technology readiness of the next generation aerodynamic decelerators which will allow for humans to step foot on Mars.  ",
+        "description": "The objective of the proposed research is to identify stable configurations of a rigid deployable aerodynamic decelerator for Mars atmospheric entry which provide increased landed mass capabilities for planetary exploration. Rigid deployable aerodynamic decelerators are a proposed means of augmenting the drag performance of atmospheric entry vehicles without adding significant mass to the system. The development of such a technology would allow for bridging of the gap between the robotic missions which we have successfully landed on Mars to date and the potential human class missions.  This objective will be accomplished by performing a systems level architecture assessment to identify potential candidate configurations with the desired performance, dynamic scaling and estimating the expected stability behavior with quantitative analysis of those identified configurations, developing a matrix of sub-scale models and test conditions to fully characterize the dynamic response of each configuration, and executing stability tests through the use of a ballistic range test facility. The data acquired from the tests will provide crucial insight moving forward regarding the feasibility and relative stability of each of the configurations and guide further development of rigid deployable aerodynamic decelerators.  This proposed research lies directly in line with the call laid out in the technology roadmap for new technologies which aid in aerobraking, aerocapture, and entry of spacecraft. The potential of rigid deployable decelerators and other similar technologies to enable ground breaking advancements in the capability of our nation to explore hinges on the continuous efforts of researches to further understand their behavior. Stability characterization is just one piece of that effort, but is a step that is necessary to increase the technology readiness of the next generation aerodynamic decelerators which will allow for humans to step foot on Mars.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 397708,
+                "firstName": "Robert",
+                "lastName": "Braun",
+                "fullName": "Robert D Braun",
+                "fullNameInverted": "Braun, Robert D",
+                "middleInitial": "D",
+                "primaryEmail": "robert.d.braun@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 86664,
+                "firstName": "Cole",
+                "lastName": "Kazemba",
+                "fullName": "Cole D Kazemba",
+                "fullNameInverted": "Kazemba, Cole D",
+                "middleInitial": "D",
+                "primaryEmail": "cole.d.kazemba@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Dynamic Stability Characterization of Rigid Deployable Aerodynamic Decelerators",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1845,
+                    "fileName": "4329-1363269062944",
+                    "fileSize": 194342,
+                    "objectId": 870,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1845,
+                        "fileName": "4329-1363269062944",
+                        "fileSize": 194342,
+                        "objectId": 870,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 870,
+                "title": "4329-1363269062944.jpg",
+                "description": "Project Image   Dynamic Stability Characterization of Rigid Deployable Aerodynamic Decelerators",
+                "libraryItemTypeId": 1095,
+                "projectId": 4329,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1845,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 870,
+            "description": "Project Image   Dynamic Stability Characterization of Rigid Deployable Aerodynamic Decelerators",
+            "projectId": 4329,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "GA Tech",
+                "canUserEdit": false,
+                "city": "Atlanta",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 5029,
+                "organizationName": "Georgia Institute of Technology-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "GA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Georgia",
+                    "stateTerritoryId": 2
+                },
+                "stateTerritoryId": 2,
+                "murepUnitId": 139755,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "GA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Georgia",
+                "stateTerritoryId": 2
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

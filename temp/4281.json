@@ -1,0 +1,219 @@
+{
+    "project": {
+        "projectId": 4281,
+        "title": "Nano-Engineered Hierarchical Advanced Composite Materials for Space Applications",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10861,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10855,
+                "level": 3,
+                "code": "TX12.1.6",
+                "title": "Materials for Electrical Power Generation, Energy Storage, Power Distribution and Electrical Machines",
+                "definition": "This area covers materials for energy generation, harvesting, storage and distribution with application to fuel cells, batteries, capacitors, energy harvesting devices, motors and generators, and thermal management of power electronics.",
+                "exampleTechnologies": "Solid oxide, advanced anodes, advanced cathodes, polymer electrolyte membranes, graphene sheets, piezoelectric and thermoelectric materials, phase change materials, magnetostrictive materials, high strength magnetic materials, superconducting materials, amorphous and nanocrystalline coatings, diamond-like coatings, thermally sprayed materials, cold sprayed materials, hydrophobic and hydrophilic surfaces, nano-patterned surfaces, coatings that provide sensing",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "By improving the impact toughness and damage tolerance of the current state of the art composite fan case, the engine weight can be further reduced and the technology can be used to toughen other composite aircraft components such as engine blades and possibly provide vibration damping.",
+        "description": "Composites are widely used throughout aerospace engineering and in numerous other applications where structures that possess high strength and toughness properties with the minimum possible weight are required. Aligned advanced fibers (such as glass or carbon fibers) embedded in a matrix (such as epoxy or carbon) are laid or woven at specific angle sequences and bonded together, enabling installation of non-isotropic bulk properties into the resulting laminate while simultaneously taking advantage of the high in-plane stiffness characteristic of advanced fibers. By replacing metal components in aircraft, composites can reduce the structural weight of the aircraft and therefore reduce fuel consumption and increase payload capacity. The interlaminar region perpendicular to the planar direction of the fibers, however, is relatively weak, leading to undesirable performance with regard to both strength and toughness. While z-pinning and other micron-scale reinforcement methods can introduce fiber damage, resin pockets, and loss of in-plane properties, carbon nanotubes (CNTs) can provide nano-scale reinforcement of the interlaminar region without disrupting alignment and volume fraction of fibers in the laminate, thereby preserving in-plane properties while simultaneously addressing through-thickness shortcomings. In my work, I grow aligned carbon nanotubes (CNTs) on advanced fibers to make 'fuzzy fibers', where the extremely stiff and strong CNTs extend between plies and fibers to provide mechanical reinforcement. Preliminary tests of my samples show significant increases in static interlaminar strength and toughness. In this project, I will study whether the demonstrated improvements in interlaminar properties translate into improved impact toughness. Ballistic impact toughness is critical on components such as aircraft engine fan cases for blade containment and the outer surface of air and spacecraft for protection against bird strike, foreign object, and micrometeorite damage. NASA Glenn has been at the forefront of developing composite fan cases to trap loose fan blades while maintaining mechanical integrity. The use of 'fuzzy fibers' will be studied for impact reinforcement of fan cases as well as other dynamic load applications like vibration damping.  In collaboration with NASA colleagues, appropriate impact specimens will be designed and manufactured to isolate impact energy ranges and failure modes that represent expected events such as jet engine blade containment or ballistic meteorite damage, and will be tested at NASA Glenn's Ballistic Impact Laboratory. By improving the impact toughness and damage tolerance of the current state of the art composite fan case, the engine weight can be further reduced and the technology can be used to toughen other composite aircraft components such as engine blades and possibly provide vibration damping. As CNTs have been previously shown to add multifunctionality to composites through enhanced electrical and thermal conductivity, recommendations for addressing thermal load management and structural health monitoring in spacecraft applications will be made. Demonstrated improvements in this advanced fiber-thermoset system will invite extension to thermoplastic matrices, which can be melted and reformed, thereby enabling alternative repair methods such as local heating to heal damage.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 54044,
+                "firstName": "Brian",
+                "lastName": "Wardle",
+                "fullName": "Brian Wardle",
+                "fullNameInverted": "Wardle, Brian",
+                "primaryEmail": "wardle@fixme",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 451682,
+                "firstName": "Sunny",
+                "lastName": "Wicks",
+                "fullName": "Sunny S Wicks",
+                "fullNameInverted": "Wicks, Sunny S",
+                "middleInitial": "S",
+                "primaryEmail": "sunny.s.wicks@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Nano-Engineered Hierarchical Advanced Composite Materials for Space Applications",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1802,
+                    "fileName": "4281-1363197978496",
+                    "fileSize": 194342,
+                    "objectId": 800,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1802,
+                        "fileName": "4281-1363197978496",
+                        "fileSize": 194342,
+                        "objectId": 800,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 800,
+                "title": "4281-1363197978496.jpg",
+                "description": "Project Image   Nano-Engineered Hierarchical Advanced Composite Materials for Space Applications",
+                "libraryItemTypeId": 1095,
+                "projectId": 4281,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1802,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 800,
+            "description": "Project Image   Nano-Engineered Hierarchical Advanced Composite Materials for Space Applications",
+            "projectId": 4281,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

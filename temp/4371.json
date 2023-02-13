@@ -1,0 +1,257 @@
+{
+    "project": {
+        "projectId": 4371,
+        "title": "Steering of Solar Sails Using Optical Lift Force",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10561,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10560,
+                "level": 3,
+                "code": "TX01.4.1",
+                "title": "Solar Sails",
+                "definition": "Sail propulsion uses lightweight structures with a large surface area to produce thrust by reflecting solar photons (solar) or atmospheric molecules (drag), thereby transferring much of their momentum to the sail.",
+                "exampleTechnologies": "Solar sail",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 1,
+        "endTrl": 1,
+        "benefits": "A demonstration of stable control would provide a way for NASA to guide deep space solar sail missions without the need for steering propellants.",
+        "description": "This study seeks to look beyond the use of radiation pressure for thrust, and to explore a means of solar navigation whereby a solar craft would be steered by use of radiation pressure. The idea is based on a recent discovery by the study team. They found that transparent refractive objects may settle into a position where they feel a force that is perpendicular to the incoming light direction. This transverse force is akin to the lift experience by an airplane wing and other airfoils. Thus they call it \"optical lift.\" Objects in their experiments simultaneously thrust forward. The combination of lift and thrust allows for the optical steering of optical wings. In the coming year they will conduct experiments and computer modeling to advance this discovery for future space missions employing solar sails. The long-term goal is to devise a means to allow solar sails to navigate through space using only the power of sunlight. In the short term they will design and fabricate small-scale arrays of optical wings and test them in the laboratory to demonstrate the feasibility of the concept. They will also perform numerical modeling to determine optimal design parameters for optical wings.",
+        "destinations": [
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 172366,
+                "firstName": "Grover",
+                "lastName": "Swartzlander",
+                "fullName": "Grover Swartzlander",
+                "fullNameInverted": "Swartzlander, Grover",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Steering of Solar Sails Using Optical Lift Force",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102316,
+                    "fileName": "15141",
+                    "fileSize": 84748,
+                    "objectId": 126887,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "84.7 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102316,
+                        "fileName": "15141",
+                        "fileSize": 84748,
+                        "objectId": 126887,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "84.7 KB"
+                    }
+                ],
+                "id": 126887,
+                "title": "15141.jpg",
+                "description": "Project Image   Steering of Solar Sails Using Optical Lift Force",
+                "libraryItemTypeId": 1095,
+                "projectId": 4371,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102316,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126887,
+            "description": "Project Image   Steering of Solar Sails Using Optical Lift Force",
+            "projectId": 4371,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "RIT",
+            "canUserEdit": false,
+            "city": "Rochester",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 3018,
+            "organizationName": "Rochester Institute of Technology",
+            "organizationType": "Academia",
+            "stateTerritory": {
+                "abbreviation": "NY",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "New York",
+                "stateTerritoryId": 55
+            },
+            "stateTerritoryId": 55,
+            "murepUnitId": 195003,
+            "naorganization": false,
+            "organizationTypePretty": "Academia"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "NY",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "New York",
+                "stateTerritoryId": 55
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

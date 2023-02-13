@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4249,
+        "title": "Implementation and Assessment of a Time-Accurate Aeroelastic Model for Analysis of Inflatable Aerodynamic Decelerators",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10765,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10764,
+                "level": 3,
+                "code": "TX09.2.1",
+                "title": "Aerodynamic Decelerators",
+                "definition": "Aerodynamic decelerators are deployable descent system components that generate aerodynamic forces on the spacecraft, principally drag for deceleration, and lift for guidance and control. Parachutes or parafoils are traditionally employed for this purpose, but other deployable or inflatable devices, attached or trailing, may scale more effectively to higher mass missions.",
+                "exampleTechnologies": "Supersonic Inflatable Aerodynamic Decelerator (SIAD); mechanically deployed decelerators and methods of active control; steerable and guided deployable decelerators; dual-mode attached decelerator systems; ballutes",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Further development of IADs will provide NASA with a suitable means of attaining the goal of planetary space exploration. The current research furthers this endeavor by investigating the complex problems associated with the interaction between aerodynamics and structural dynamics. Results from this work will be able to provide a greater understanding of this phenomenon, as well as the ability to computationally predict these effects.",
+        "description": "In light of NASA's goal for planetary exploration, the development of new technology is imperative. The aerodynamic deceleration technique used during Entry, Descent, and Landing (EDL) plays a vital role in mission success. The concept of interest in the current research is the inflatable aerodynamic decelerator (IAD). An inflatable aerodynamic decelerator is a gas-pressurized device that is inflated at the time of deployment. This technology was born in the 1960's, followed by minimal research until the mid 1990's. Over the past 15 years there have been many studies that have continued to show feasibility and the necessity of this type of technology. Necessity stems from the fact that the current entry technology is quickly reaching its limits in terms of landing high payload masses on Mars.  It is well known that the complex flowfields during atmospheric entry will strongly interact with the structural dynamics of an IAD. This, in conjunction with the inherent unsteadiness of the flow, leads to many challenges in understanding these interactions. Thus, this research proposes to develop a time-accurate aeroelastic model with application to the analysis of inflatable aerodynamic decelerators. This will be accomplished through the coupling of a computational fluid dynamics (CFD) solver and a computational structural dynamics (CSD) solver. The CFD and CSD solvers ultimately used in this work will be selected through close consultation with research partners at NASA. One approach under consideration for the CFD analysis is the use of NASCART-GT, a solution adaptive, Cartesian, Navier-Stokes code developed at the Georgia Institute of Technology. One of the key difficulties in performing aerodynamic analysis of deforming bodies is the fact that the computational mesh must change with time. Using NASCART-GT will provide an automated grid generation process to begin the computational solution. As the IAD is deformed, new surface information must be computed, and the flow solution may proceed. The computed pressure and thermal load distribution over the geometry are input to the structures solver. There are many solvers that exist, with the most likely candidate being LS-DYNA, based on the previous coupling efforts with NASCART-GT. This previous work demonstrated successful coupling to obtain steady-state aeroelastic solutions. The results to date have not included the effects of temperature and heat flux on the IAD. Using a recently enhanced tool in NASCART-GT, which combines an Euler solution with an integral boundary layer method, will provide these thermal effects. The time-accurate, coupled analysis tool must first be validated against either wind tunnel tests or against other forms of reliable computational results. Following the development and validation of this computational tool, analysis on a series of configurations directly applicable to points along a trajectory of interest will be conducted. The specifics of this task will require collaboration with NASA in order to determine appropriate conditions.  The proposed research falls under multiple Technology Areas (TA) of NASA's Space Technology Roadmap. The primary TA that categorizes the proposed work is TA 9: Entry, Descent, and Landing Systems. Within this category, there are several higher-level areas including the following: 9.1.4 Hypersonic Decelerators, 9.1.6 Entry Modeling and Simulation, 9.2.1 Attached Deployable Decelerators, and 9.2.2 Trailing Deployable Decelerators. Further development of IADs will provide NASA with a suitable means of attaining the goal of planetary space exploration. The current research furthers this endeavor by investigating the complex problems associated with the interaction between aerodynamics and structural dynamics. Results from this work will be able to provide a greater understanding of this phenomenon, as well as the ability to computationally predict these effects.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 445553,
+                "firstName": "Stephen",
+                "lastName": "Ruffin",
+                "fullName": "Stephen Ruffin",
+                "fullNameInverted": "Ruffin, Stephen",
+                "primaryEmail": "stephen.ruffin@ae.gatech.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 320689,
+                "firstName": "Matthew",
+                "lastName": "Bopp",
+                "fullName": "Matthew S Bopp",
+                "fullNameInverted": "Bopp, Matthew S",
+                "middleInitial": "S",
+                "primaryEmail": "mbopp@gatech.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Implementation and Assessment of a Time-Accurate Aeroelastic Model for Analysis of Inflatable Aerodynamic Decelerators",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1778,
+                    "fileName": "4249-1363186176896",
+                    "fileSize": 194342,
+                    "objectId": 1049,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1778,
+                        "fileName": "4249-1363186176896",
+                        "fileSize": 194342,
+                        "objectId": 1049,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 1049,
+                "title": "4249-1363186176896.jpg",
+                "description": "Project Image   Implementation and Assessment of a Time-Accurate Aeroelastic Model for Analysis of Inflatable Aerodynamic Decelerators",
+                "libraryItemTypeId": 1095,
+                "projectId": 4249,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1778,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 1049,
+            "description": "Project Image   Implementation and Assessment of a Time-Accurate Aeroelastic Model for Analysis of Inflatable Aerodynamic Decelerators",
+            "projectId": 4249,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "GA Tech",
+                "canUserEdit": false,
+                "city": "Atlanta",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 5029,
+                "organizationName": "Georgia Institute of Technology-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "GA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Georgia",
+                    "stateTerritoryId": 2
+                },
+                "stateTerritoryId": 2,
+                "murepUnitId": 139755,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "GA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Georgia",
+                "stateTerritoryId": 2
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

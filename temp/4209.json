@@ -1,0 +1,261 @@
+{
+    "project": {
+        "projectId": 4209,
+        "title": "Rapid Design and Navigation Tools to Enable Small-Body Missions",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10979,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10973,
+                "level": 3,
+                "code": "TX17.2.6",
+                "title": "Rendezvous, Proximity Operations, and Capture Trajectory Design and Orbit Determination",
+                "definition": "Spacecraft trajectory design and orbit determination to support rendezvous and proximity operations in several specific orbital regimes. Trajectory design for missions performing rendezvous and proximity operations includes the inertial motion of a spacecraft starting and launch, and continuing to the design of relative motion to achieve rendezvous, proximity operations, capture, and departure from another space object (spacecraft or small body). Orbit determination is the inertial navigation function (ground or onboard) required to allow onboard systems to acquire the relative navigation estimate required to complete the mission.",
+                "exampleTechnologies": "LEO Rendezvous and Proximity Operations (RPO) trajectory design and orbit determination; Geosynchronous Earth Orbit (GEO) RPO trajectory design and orbit determination; Sun-Earth Lagrange Point RPO trajectory design and orbit determination; Lunar Near Rectilinear Halo Orbit (NRHO) RPO trajectory design and orbit determination; Lunar Distant Retrograde Orbit (DRO) RPO trajectory design and orbit determination; Lunar Orbit RPO trajectory design and orbit determination; Highly Elliptical Orbit (HEO) (aka Phasing Orbit) RPO trajectory design and orbit determination",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The proposed tools seek specifically to enable small-body missions: the approach is to combine promising elements of the state-of-the-art in a practical set of tools while also advancing the industry through new theoretical methods and analyses of methods. The end goal is to improve the generation of complex trajectory sequences like those necessary for small-body landings by reducing the required run-time to generate these trajectories and implementing the search on a relatively cheap desktop server instead of a computing cluster.",
+        "description": "Rapid design and navigation tools broaden the number and scope of available missions by making the most of advances in astrodynamics and in computer software and hardware. With increased focus on spacecraft missions to small bodies such as comets and asteroids, the need to better characterize and explore the possibilities associated with such missions also increases. This design space is grounded in navigational capability: the ability to reach a small body and then to operate in its vicinity. However, these capabilities present significant challenges to effective and efficient implementation:  The highly nonlinear and uncertain dynamic environment around small bodies requires sophisticated and time-consuming analyses that can be the pacing item for an operational mission.  The large number of small bodies and the very large design space for reaching them stretches the limits of computational capability and so can limit what missions are considered for implementation.  These challenges come as a result of the design problem and the limitations of the tools available to determine the required trajectories to high fidelity, and they become even more important for a human mission to a small body such as a near-earth object (NEO). The proposed rapid design and navigation tools specifically address these challenges by leveraging dynamical systems theory, adaptive parallel algorithms, and uncertainty analysis to locate navigable paths and then to refine those paths into flyable trajectories.  The proposed tools address these challenges by implementing adaptive, multiple-fidelity-level design space searches and automated transitions between models on modern computer software and hardware, which increases the portion of the design space available to future missions. This is done by an intelligent combination of automation wherever possible and human-in-the-loop whenever beneficial in order to increase the search space and drastically reduce the turnaround time needed to generate navigable trajectories to and around small bodies. These conflicting objectives are realized by using graphics processing units (GPUs) to speed up the time required for a solution and by actively, automatically pruning the design space to mitigate its tendency towards exponential growth. This approach helps to find very complex mission sequences that can include high and low thrust maneuvers and planetary flybys- and not just to find them, but to achieve it quickly enough to be practical. These complex trajectory sequences and their highly parallel implementation also lend themselves to efficiently find trajectories to orbit or land on small bodies.  The proposed tools seek specifically to enable small-body missions: the approach is to combine promising elements of the state-of-the-art in a practical set of tools while also advancing the industry through new theoretical methods and analyses of methods. The end goal is to improve the generation of complex trajectory sequences like those necessary for small-body landings by reducing the required run-time to generate these trajectories and implementing the search on a relatively cheap desktop server instead of a computing cluster.",
+        "startYear": 2011,
+        "startMonth": 5,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 418370,
+                "firstName": "Ryan",
+                "lastName": "Russell",
+                "fullName": "Ryan P Russell",
+                "fullNameInverted": "Russell, Ryan P",
+                "middleInitial": "P",
+                "primaryEmail": "ryan.p.russell@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 117042,
+                "firstName": "Demyan",
+                "lastName": "Lantukh",
+                "fullName": "Demyan V Lantukh",
+                "fullNameInverted": "Lantukh, Demyan V",
+                "middleInitial": "V",
+                "primaryEmail": "demyan.v.lantukh@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Rapid Design and Navigation Tools to Enable Small-Body Missions",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1814,
+                    "fileName": "4209-1363263677414",
+                    "fileSize": 194342,
+                    "objectId": 292,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1814,
+                        "fileName": "4209-1363263677414",
+                        "fileSize": 194342,
+                        "objectId": 292,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 292,
+                "title": "4209-1363263677414.jpg",
+                "description": "Project Image   Rapid Design and Navigation Tools to Enable Small-Body Missions",
+                "libraryItemTypeId": 1095,
+                "projectId": 4209,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1814,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 292,
+            "description": "Project Image   Rapid Design and Navigation Tools to Enable Small-Body Missions",
+            "projectId": 4209,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Austin",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3991,
+                "organizationName": "The University of Texas at Austin",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "TX",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Texas",
+                    "stateTerritoryId": 29
+                },
+                "stateTerritoryId": 29,
+                "msiData": {
+                    "2021": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2022": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 228778,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "TX",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Texas",
+                "stateTerritoryId": 29
+            }
+        ],
+        "lastUpdated": "2019-9-3",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "May 2011"
+    }
+}

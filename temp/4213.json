@@ -1,0 +1,251 @@
+{
+    "project": {
+        "projectId": 4213,
+        "title": "Small Probes for Orbital Return of Experiments Mission Design",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10771,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10770,
+                "level": 3,
+                "code": "TX09.4.1",
+                "title": "Architecture Design and Analysis",
+                "definition": "Architecture analysis provides top-level analysis capabilities enabling informed architecture trades and technology development decisions to reduce analysis cycle time, minimize life cycle cost, maximize performance and reduce risk.",
+                "exampleTechnologies": "High-fidelity, integrated performance models, dynamic behavior modeling, model-based systems engineering",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "SPORE's unique mission concept lends itself to a broad EDL design space and requires the development of a new method to compare different entry architectures and choose the optimal design. This optimization method involves the Georgia Tech Planetary Entry Systems Synthesis Tool (PESST). PESST computes performance sensitivities across wide range of EDL design parameters so that the user can assess risk and performance margins. ",
+        "description": "Currently the Georgia Tech Small Probes for Orbital Return of Experiments (SPORE) team is collaborating with Aurora Flight Sciences to provide a launch, re-entry, and recovery platform for a range of biological, thermal protection system flight characterization, and material science experiments. The platform will accommodate polar low earth orbit (LEO), geosynchronous transfer orbit (GTO), and ISS-return missions to maximize the science potential. In addition to progressing science, a primary goal of the SPORE team is to identify possible commercial payloads in order to increase accessibility to space. Ultimately SPORE provides a testbed to advance technologies and scientific knowledge required for future human and robotic explorations and the opportunity to increase commercialization in space.  With a small design team, each team member is intimately involved in all aspects of the design process. However, my focus concerns the SPORE mission design, specifically modeling the orbital trajectory and maneuvers for the ISS, LEO, and GTO missions. In addition to the orbit trajectory, a re-entry architecture will be designed that meets the requirements set by the range of payloads, orbits, and entry vehicle sizes inherent in the SPORE mission concept. The selected entry, descent, and landing (EDL) architecture will be validated and modeled using 3-DOF and 6-DOF software. Analysis will be completed on this architecture to assess landing footprint and error sources. Results from the landing dispersion analysis will confirm current landing site selections and help establish recovery procedures.  SPORE's unique mission concept lends itself to a broad EDL design space and requires the development of a new method to compare different entry architectures and choose the optimal design. The proposed optimization method involves the Georgia Tech Planetary Entry Systems Synthesis Tool (PESST). PESST computes performance sensitivities across wide range of EDL design parameters so that the user can assess risk and performance margins. Ultimately PESST helps narrow the broad EDL design space to a few architectures that meet mission requirements. Although PESST provides high level entry modeling including down range, velocity, and acceleration approximations, models of higher fidelity such as Program to Optimize Simulated Trajectories II will be used to ensure the strict payload requirements are met as well as validate the results from PESST.  Working with PESST and higher fidelity software to select and model SPORE EDL architecture advances architecture analyses as well as entry simulation and modeling identified in the Space Technology Roadmaps and Technology Area Breakdown Structure.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 111985,
+                "firstName": "David",
+                "lastName": "Spencer",
+                "fullName": "David A Spencer",
+                "fullNameInverted": "Spencer, David A",
+                "middleInitial": "A",
+                "primaryEmail": "david.a.spencer@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 356458,
+                "firstName": "Nicole",
+                "lastName": "Bauer",
+                "fullName": "Nicole Bauer",
+                "fullNameInverted": "Bauer, Nicole",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Small Probes for Orbital Return of Experiments Mission Design",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1844,
+                    "fileName": "4213-1363268945319",
+                    "fileSize": 194342,
+                    "objectId": 869,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1844,
+                        "fileName": "4213-1363268945319",
+                        "fileSize": 194342,
+                        "objectId": 869,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 869,
+                "title": "4213-1363268945319.jpg",
+                "description": "Project Image   Small Probes for Orbital Return of Experiments Mission Design",
+                "libraryItemTypeId": 1095,
+                "projectId": 4213,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1844,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 869,
+            "description": "Project Image   Small Probes for Orbital Return of Experiments Mission Design",
+            "projectId": 4213,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "GA Tech",
+                "canUserEdit": false,
+                "city": "Atlanta",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 5029,
+                "organizationName": "Georgia Institute of Technology-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "GA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Georgia",
+                    "stateTerritoryId": 2
+                },
+                "stateTerritoryId": 2,
+                "murepUnitId": 139755,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "GA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Georgia",
+                "stateTerritoryId": 2
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

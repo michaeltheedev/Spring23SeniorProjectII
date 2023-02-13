@@ -1,0 +1,251 @@
+{
+    "project": {
+        "projectId": 4265,
+        "title": "Human-In-The-Loop Control of a Bipedal Robot with Variable Levels of Autonomy",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10629,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10628,
+                "level": 3,
+                "code": "TX04.4.1",
+                "title": "Multi-Modal and Proximate Interaction",
+                "definition": "Multi-modal interaction allows for humans to interact with robots using multiple modes of communication, e.g. voice, gesture recognition. Proximate interaction allows for humans to interact with a robot side-by-side. Technologies to assist in these can enable humans to safely and efficiently control a larger number of robotic and autonomous assets, reducing overall demands on astronauts\u2019 time for future exploration missions.",
+                "exampleTechnologies": "Virtual environment (VE), multi-modal dialogue, robot-to-suit interfaces, intent recognition and reaction, feedback displays for proximate interaction",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This study aims to design, implement, and test interfaces that will allow human operators to efficiently generate movement patterns for, gather feedback from, and moderate bipedal robots at levels ranging from individual joints to multiple robots. <p> \t&nbsp;</p> <p> \t&nbsp;</p> ",
+        "description": "Bipedal robots have a growing presence in space exploration and industrial applications because they can more easily and safely perform complex tasks in environments designed for human users than their traditional mobile wheeled counterparts. However, the increased number of degrees of actuation and sensing make bipedal robots unwieldy for human operators to directly teleoperate. The objective of this study is to design, implement, and test interfaces that will allow human operators to efficiently generate movement patterns for, gather feedback from, and moderate such robots at levels ranging from individual joints to multiple robots.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 305262,
+                "firstName": "Marcia",
+                "lastName": "O'Malley",
+                "fullName": "Marcia O'malley",
+                "fullNameInverted": "O'Malley, Marcia",
+                "primaryEmail": "omalleym@rice.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 94912,
+                "firstName": "Dane",
+                "lastName": "Powell",
+                "fullName": "Dane T Powell",
+                "fullNameInverted": "Powell, Dane T",
+                "middleInitial": "T",
+                "primaryEmail": "dane.powell@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Human-In-The-Loop Control of a Bipedal Robot with Variable Levels of Autonomy",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1775,
+                    "fileName": "4265-1363185786259",
+                    "fileSize": 194342,
+                    "objectId": 466,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1775,
+                        "fileName": "4265-1363185786259",
+                        "fileSize": 194342,
+                        "objectId": 466,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 466,
+                "title": "4265-1363185786259.jpg",
+                "description": "Project Image   Human-In-The-Loop Control of a Bipedal Robot with Variable Levels of Autonomy",
+                "libraryItemTypeId": 1095,
+                "projectId": 4265,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1775,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 466,
+            "description": "Project Image   Human-In-The-Loop Control of a Bipedal Robot with Variable Levels of Autonomy",
+            "projectId": 4265,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Houston",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2854,
+                "organizationName": "Rice University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "TX",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Texas",
+                    "stateTerritoryId": 29
+                },
+                "stateTerritoryId": 29,
+                "murepUnitId": 227757,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "TX",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Texas",
+                "stateTerritoryId": 29
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

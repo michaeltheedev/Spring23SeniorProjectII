@@ -1,0 +1,305 @@
+{
+    "project": {
+        "projectId": 4365,
+        "title": "Nuclear Propulsion through Direct Conversion of Fusion Energy",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10564,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10560,
+                "level": 3,
+                "code": "TX01.4.4",
+                "title": "Other Advanced Propulsion Approaches",
+                "definition": "Other advanced propulsion technologies include technologies and physics concepts that could result in breakthroughs that enable missions not previously possible.",
+                "exampleTechnologies": "Beamed energy, fusion propulsion, high energy-density materials, antimatter propulsion, advanced fission, breakthrough propulsion",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "<p>The development of this technology can enable a dramatically more efficient propulsion architecture for in-space transportation.</p>",
+        "description": "<p>The future of manned space exploration and development of space depends critically on the creation of a vastly more efficient propulsion architecture for in-space transportation. Nuclear-powered rockets can provide the large energy density gain required. A small scale, low cost path to fusion-based propulsion is to be investigated. It is accomplished by employing the propellant to compress and heat a magnetized plasma to fusion conditions, and thereby channel the fusion energy released into heating only the propellant. Passage of the hot propellant through a magnetic nozzle rapidly converts this thermal energy into both directed (propulsive) energy and electrical energy.</p>",
+        "destinations": [
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1547,
+                "code": "OUTSIDE_SOLAR_SYSTEM",
+                "description": "Outside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 234921,
+                "firstName": "John",
+                "lastName": "Slough",
+                "fullName": "John Slough",
+                "fullNameInverted": "Slough, John",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Nuclear Propulsion through Direct Conversion of Fusion Energy Project",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102141,
+                    "fileName": "15131",
+                    "fileSize": 65692,
+                    "objectId": 126652,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "65.7 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102141,
+                        "fileName": "15131",
+                        "fileSize": 65692,
+                        "objectId": 126652,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "65.7 KB"
+                    }
+                ],
+                "id": 126652,
+                "title": "Project Image Nuclear Propulsion through Direct Conversion of Fusion Energy",
+                "description": "Nuclear Propulsion through Direct Conversion of Fusion Energy Project",
+                "libraryItemTypeId": 1095,
+                "projectId": 4365,
+                "primary": true,
+                "publishedBy": "",
+                "publishedDateString": "",
+                "url": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 6418,
+                "projectId": 4365,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "The future of manned space exploration and development of space depends critically on the creation of a dramatically more proficient propulsion architecture for in-space transportation. A very persuasive reason for investigating the applicability of nuclear power in rockets is the vast energy density gain of nuclear fuel when compared to chemical combustion energy. Current nuclear fusion efforts have focused on the generation of electric grid power and are wholly inappropriate for space transportation as the application of a reactor based fusion-electric system creates a colossal mass and heat rejection problem for space application. The Fusion Driven rocket (FDR) represents a revolutionary approach to fusion propulsion where the power source releases its energy directly into the propellant, not requiring conversion to electricity. It employs a solid lithium propellant that requires no significant tankage mass. The propellant is rapidly heated and accelerated to high exhaust velocity (> 30 km/s), while having no significant physical interaction with the spacecraft thereby avoiding damage to the rocket and limiting both the thermal heat load and radiator mass. In addition, it is believed that the FDR can be realized with little extrapolation from currently existing technology, at high specific power (~ 1 kW/kg), at a reasonable mass scale (<100 mt), and therefore cost. If realized, it would not only enable manned interplanetary space travel, it would allow it to become common place. The key to achieving all this stems from research at MSNW on the magnetically driven implosion of metal foils onto a magnetized plasma target to obtain fusion conditions. A logical extension of this work leads to a method that utilizes these metal shells (or liners) to not only achieve fusion conditions, but to serve as the propellant as well. Several low-mass, magnetically-driven metal liners are inductively driven to converge radially and axially and form a thick blanket surrounding the target plasmoid and compress the plasmoid to fusion conditions. Virtually all of the radiant, neutron and particle energy from the plasma is absorbed by the encapsulating, metal blanket thereby isolating the spacecraft from the fusion process and eliminating the need for large radiator mass. This energy, in addition to the intense Ohmic heating at peak magnetic field compression, is adequate to vaporize and ionize the metal blanket. The expansion of this hot, ionized metal propellant through a magnetically insulated nozzle produces high thrust at the optimal Isp. The energy from the fusion process, is thus utilized at very high efficiency. During phase I the metal foil convergence and compression physics has been analyzed analytically as well as modeled in 3D with the ANSYS Multiphysics code. These results were used to extend modeling to the ongoing 2D resistive Magnetohydrodynamic analysis of the fusion plasma compression. The initial determination of the optimum compression methodology, materials, and fuels to achieve required fusion power and specific mass for various missions has been performed, and a systems-level model along with the initial propulsion system design has been carried out and is presented as well. A range of both manned and unmanned missions was considered for which this fusion propulsion system would be enabling or critical. Manned mission architecture to Mars similar to the NASA Design Reference Mission (DRM) 3.0 was considered as part of a mission analysis for two mission designs - a 90 and 30 day trip to/from Mars with a discussion of the results for various fusion gains for the FDR. Expanding on these results from the phase I, the phase II effort will focus on achieving three key criteria for the Fusion Driven Rocket to move forward for technological development: (1) the physics of the FDR must be fully understood and validated, (2) the design and technology development for the FDR required for its implementation in space must be fully characterized, and (3) an in-depth analysis of the rocket design and spacecraft integration as well as mission architectures enabled by the FDR need to be performed. Fulfilling these three elements form the major tasks to be completed in the Phase II study. A subscale, laboratory liner compression test facility will be assembled with sufficient liner kinetic energy (~ 0.5 MJ) to reach fusion gain conditions. Initial studies of liner convergence will be followed by validation tests of liner compression of a magnetized plasma to fusion conditions. A complete characterization of both the FDR and spacecraft will be performed and will include conceptual descriptions, drawings, costing and TRL assessment of all subsystems. The Mission Design Architecture analysis will examine a wide range of mission architectures and destination for which this fusion propulsion system would be enabling or critical.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102141,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126652,
+            "description": "Nuclear Propulsion through Direct Conversion of Fusion Energy Project",
+            "projectId": 4365,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "Redmond",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 3764,
+            "organizationName": "MSNW, LLC",
+            "organizationType": "Industry",
+            "stateTerritory": {
+                "abbreviation": "WA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Washington",
+                "stateTerritoryId": 11
+            },
+            "stateTerritoryId": 11,
+            "ein": "043570443 ",
+            "dunsNumber": "044381445",
+            "naorganization": false,
+            "organizationTypePretty": "Industry"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Ames",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3995,
+                "organizationName": "Iowa State University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "IA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Iowa",
+                    "stateTerritoryId": 57
+                },
+                "stateTerritoryId": 57,
+                "murepUnitId": 153603,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "WA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Washington",
+                "stateTerritoryId": 11
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

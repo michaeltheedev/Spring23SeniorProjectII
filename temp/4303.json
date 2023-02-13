@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4303,
+        "title": "Development of Nonlinear Phased Array Systems for Non-Destructive Evaluation and Structural Health Monitoring of Aerospace Structures",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10993,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10990,
+                "level": 3,
+                "code": "TX17.5.3",
+                "title": "GN&C Verification & Validation Tools & Techniques",
+                "definition": "This area covers technologies for modern tools (tool sets) that support the testing/checking that a GN&C system meets requirements (verification) and that it fulfills its intended purpose (validation). ",
+                "exampleTechnologies": "Technologies for the verification and validation of highly autonomous systems; in particular, technologies/techniques/methods for modeling non-deterministic systems",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The development of the highly nonlinear phased array fits squarely within the stated goals of NSA's materials and structures research program. The most obvious application of the tool is for its use in structural assessment during manufacture and maintenance, as its ability to create single pulses and its power may allow for the detection of damage types currently below the resolution threshold of current practices. This is particularly pertinent as NASA moves towards greater use of light-weight composite structures for its air and space missions, as the damage modes of composites tend to be difficult to detect with current acoustic imaging technology. Further development of the lens may allow it to be used for monitoring physical condition within a mission, as the ease with which the focal point may be moved may allow a single device integrated within a craft to cover a reasonably large area for damage assessment. These potential improvements in acoustic imaging will play a vital role in NASA's space goals: helping reduce the cost of space access, enabling access to extreme space environments, and ensuring that any future colonies or way stations are best prepared for the rigors of space.",
+        "description": "Acoustic imaging has played an essential role in ensuring that structures and vehicles are in sound condition both during their construction and their operation. Our lab has developed a new sound focusing system: a phased array (colloquially referred to as an \"acoustic lens\") based upon wave transmission through adjustable non-linear media. For my research, I will develop a prototype of this system and explore its potential for imaging.  The lens is built from parallel chains of metallic spheres. These chains support the transmission of compact single wave pulses, and by pre-compressing a chain we can modify the signal speed within it. If the chains are differentially compressed and coupled with a linear medium, it is possible to time the transmission of a pulse so that the response it generates in the linear medium coalesces to a small volume, generating a \"sound bullet.\" This device offers a unique combination of advantages over current techniques for acoustic imaging as it is capable of dynamically changing its focal point, it is able to support the creation of a single transient pulse (simplifying the task of signal analysis and possibly allowing for a more accurate result), and it is capable of supporting a powerful signal.  To develop the lens for practical use, three major issues will be addressed in order to determine the boundaries of its performance. First, the limits of where the signal can be focused will be studied. Second, methods to improve transmission of the signal to the linear system will be explored. And third, the limitations of signal power and the degradation of performance due to plastic deformation of the spheres will be determined.  With these issues addressed, I will construct a prototype of the lens. Once the prototype has been built research will then shift towards applying the lens to imaging. I will first test the ability of the lens to image features within bulk media and then move on to applying the lens to imaging within plate arrangements (where the acoustic response is more complex). This work will culminate with the imaging of space-craft structures.  Investigation into both the basic science behind the lens and the imaging capability of the lens will require a combination of computational modeling and experimental work. The computational modeling will be primarily carried out using the finite element method, a powerful modeling technique capable of accurately measuring physical behavior over a wide range of scales. Experimental characterization of the formation of sound bullets will be carried out with the use of hydrophones (for bulk systems) and laser vibrometers and strain gages (for plate systems).  The development of the highly nonlinear phased array fits squarely within the stated goals of NSA's materials and structures research program. The most obvious application of the tool is for its use in structural assessment during manufacture and maintenance, as its ability to create single pulses and its power may allow for the detection of damage types currently below the resolution threshold of current practices. This is particularly pertinent as NASA moves towards greater use of light-weight composite structures for its air and space missions, as the damage modes of composites tend to be difficult to detect with current acoustic imaging technology. Further development of the lens may allow it to be used for monitoring physical condition within a mission, as the ease with which the focal point may be moved may allow a single device integrated within a craft to cover a reasonably large area for damage assessment. These potential improvements in acoustic imaging will play a vital role in NASA's space goals: helping reduce the cost of space access, enabling access to extreme space environments, and ensuring that any future colonies or way stations are best prepared for the rigors of space.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 73690,
+                "firstName": "Chiara",
+                "lastName": "Daraio",
+                "fullName": "Chiara Daraio",
+                "fullNameInverted": "Daraio, Chiara",
+                "primaryEmail": "daraio@caltech.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 367632,
+                "firstName": "Paul",
+                "lastName": "Anzel",
+                "fullName": "Paul W Anzel",
+                "fullNameInverted": "Anzel, Paul W",
+                "middleInitial": "W",
+                "primaryEmail": "paul.w.anzel@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Development of Nonlinear Phased Array Systems for Non-Destructive Evaluation and Structural Health Monitoring of Aerospace Structures",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1756,
+                    "fileName": "4303-1363182973897",
+                    "fileSize": 194342,
+                    "objectId": 454,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1756,
+                        "fileName": "4303-1363182973897",
+                        "fileSize": 194342,
+                        "objectId": 454,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 454,
+                "title": "4303-1363182973897.jpg",
+                "description": "Project Image   Development of Nonlinear Phased Array Systems for Non-Destructive Evaluation and Structural Health Monitoring of Aerospace Structures",
+                "libraryItemTypeId": 1095,
+                "projectId": 4303,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1756,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 454,
+            "description": "Project Image   Development of Nonlinear Phased Array Systems for Non-Destructive Evaluation and Structural Health Monitoring of Aerospace Structures",
+            "projectId": 4303,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "CalTech",
+                "canUserEdit": false,
+                "city": "Pasadena",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3115,
+                "organizationName": "California Institute of Technology",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "CA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "California",
+                    "stateTerritoryId": 59
+                },
+                "stateTerritoryId": 59,
+                "murepUnitId": 110404,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

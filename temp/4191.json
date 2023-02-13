@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4191,
+        "title": "Two-Stage, 20 K Pulse Tube Cryocooler for Space Studies",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10926,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10923,
+                "level": 3,
+                "code": "TX14.1.3",
+                "title": "Thermal Conditioning for Sensors, Instruments, and High Efficiency Electric Motors",
+                "definition": "This area includes cost-effective, high-efficiency, low-weight/vibration cryocoolers and advanced sub-Kelvin cooling technology; technologies for thermal management for cryogenic applications to unique flight science sensors and instrumentation; and technologies to integrate cryocoolers into superconduction machines and power electronics for electrified aircraft. This area also includes technologies relevant to NASA\u2019s unique wide-ranging science mission and research activities as well.",
+                "exampleTechnologies": "Integrated thermal control/parasitics; cryocooler refrigeration below 10 K; cryocooler refrigeration above 10 K; magnetic refrigeration, dilution coolers, multi-stage mechanical coolers, multi-stage passive coolers and Turbo-Brayton cryocoolers; Joule-Thomson effect; solid cryogens heat sink; liquid hydrogen spacecraft dewars; vapor cooling for instruments and storage hardware; solar shields/baffles for spacecraft cryogenic systems; coatings to limit thermal load on spacecraft cryogenic systems; heat rejection; thermal switches; thermal parasitics for cryogenic fluids/ cryocooler systems; emerging applications for cryogenic environments such as low-temperature mechanisms (e.g. planetary exploration); integrated cryocoolers for superconducting motors",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The impacts and scientific strides resulting from this project would be multifold and will result in innovative advanced space technology for scientific exploration and discovery. These include (a) the comprehensive design, optimization, theoretical characterization, and fabrication of a high capacity 20K regenerator with rare Earth material packing to be integrated with a light-weight two-stage cryocooler; (b) component-level and pore-scale direct simulation of periodic flow in porous structures representative of the rare Earth-based regenerator, which will be employed for the extraction of instantaneous and time-averaged solid-fluid transport parameters that in turn will be used for the development of correlations for the constitutive and closure relations for use in CFD simulations of periodic flow of cryogens in porous media; and (c) conducting regenerator experiments to confirm the theoretical findings and obtain regenerator performance characteristics. The proposed 20K two-stage cryocooler and its low temperature regenerator will represent innovative space technology advancements, directly useful for propellant preservation for solar system exploration, LH2 or other cryopropellant storage, and science applications for space studies. These outcomes address the thermal management needs of NASA`s Grand Challenges and would improve the future capabilities of NASA and the aerospace industry, make space exploration and science missions more capable, and infuse innovative and high-priority new technology for the nation`s space objectives.",
+        "description": "American competitiveness and success are directly correlated with technological innovation and scientific research. NASA is known for its advanced concepts and technology development for space science research. Vital to space exploration and research are regenerative cryogenic cooling systems. Within these cryocoolers, the regenerator is generally considered the most important component of the entire cooling system.  Currently, space cryocooling limitations exist due to the lack of high capacity, low temperature, rare Earth packaged regenerators. Therefore, the goals of this project are to (a) thoroughly design, theoretically demonstrate, and parametrically study a complete two-stage pulse tube cryocooler with a 5W or larger cooling capacity at 20K; (b) perform an in-depth investigation of the low temperature stage regenerator employing rare Earths (Er_0.5-Pr_0.5) packaging material of the aforementioned cryocooler; and (c) design test loops for parametric experimental study and optimization of the second-stage regenerator.  The impacts and scientific strides resulting from this project would be multifold and will result in innovative advanced space technology for scientific exploration and discovery. These include (a) the comprehensive design, optimization, theoretical characterization, and fabrication of a high capacity 20K regenerator with rare Earth material packing to be integrated with a light-weight two-stage cryocooler; (b) component-level and pore-scale direct simulation of periodic flow in porous structures representative of the rare Earth-based regenerator, which will be employed for the extraction of instantaneous and time-averaged solid-fluid transport parameters that in turn will be used for the development of correlations for the constitutive and closure relations for use in CFD simulations of periodic flow of cryogens in porous media; and (c) conducting regenerator experiments to confirm the theoretical findings and obtain regenerator performance characteristics.  The proposed 20K two-stage cryocooler and its low temperature regenerator will represent innovative space technology advancements, directly useful for propellant preservation for solar system exploration, LH2 or other cryopropellant storage, and science applications for space studies. These outcomes address the thermal management needs of NASA`s Grand Challenges and would improve the future capabilities of NASA and the aerospace industry, make space exploration and science missions more capable, and infuse innovative and high-priority new technology for the nation`s space objectives.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 431206,
+                "firstName": "Seyed",
+                "lastName": "Ghiaasiaan",
+                "fullName": "Seyed Ghiaasiaan",
+                "fullNameInverted": "Ghiaasiaan, Seyed",
+                "primaryEmail": "mghiaasiaan@gatech.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 343731,
+                "firstName": "Mihir",
+                "lastName": "Pathak",
+                "fullName": "Mihir G Pathak",
+                "fullNameInverted": "Pathak, Mihir G",
+                "middleInitial": "G",
+                "primaryEmail": "mihir.g.pathak@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Two-Stage, 20 K Pulse Tube Cryocooler for Space Studies",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1837,
+                    "fileName": "4191-1363267543555",
+                    "fileSize": 194342,
+                    "objectId": 951,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1837,
+                        "fileName": "4191-1363267543555",
+                        "fileSize": 194342,
+                        "objectId": 951,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 951,
+                "title": "4191-1363267543555.jpg",
+                "description": "Project Image   Two-Stage, 20 K Pulse Tube Cryocooler for Space Studies",
+                "libraryItemTypeId": 1095,
+                "projectId": 4191,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1837,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 951,
+            "description": "Project Image   Two-Stage, 20 K Pulse Tube Cryocooler for Space Studies",
+            "projectId": 4191,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "GA Tech",
+                "canUserEdit": false,
+                "city": "Atlanta",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 5029,
+                "organizationName": "Georgia Institute of Technology-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "GA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Georgia",
+                    "stateTerritoryId": 2
+                },
+                "stateTerritoryId": 2,
+                "murepUnitId": 139755,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "GA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Georgia",
+                "stateTerritoryId": 2
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

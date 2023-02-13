@@ -1,0 +1,261 @@
+{
+    "project": {
+        "projectId": 4263,
+        "title": "Automatic Parallelization of Serial Programs for NASA Space\u2010Based Computing Systems",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10809,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10808,
+                "level": 3,
+                "code": "TX11.1.1",
+                "title": "Tools and Methodologies for Software Design and Development",
+                "definition": "Tools and methodologies for software design and development provides frameworks, languages, tools, processes, and standards that will enable the management of both short- and long-term complexity in the development and test of flight, ground, and model software.",
+                "exampleTechnologies": "Software Development Model Based and Auto Code Generation Techniques; Metrics useful for engineering and management for determining software quality, safety, and security; formal methods verification of software requirements and design; compiler directive languages for portable high-performance and hybrid computing; static code analyzers; System Level Modeling",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "We are developing the automatically parallelizing AESOP compiler which advances the state of the art in two ways: (i) we have designed a goal-directed transformation decision algorithm that is far more effective at finding the sequence of program transformations leading to lowest run-time specific to each loop; and (ii) we use extensive system characterization to automatically learn about the underlying hardware, and apply compiler transformations in a customized way to extract the maximum performance on the specific target computing platform.  <p> \t&nbsp;</p> <p> \t&nbsp;</p> ",
+        "description": "Since improvements in clock speed in computing processors have ceased, but silicon density continues to grow, a natural result has been that multi-core processors have become the mainstays of computing. Unfortunately although most of the world's computers are parallel, most of the world's software remains serial. Running multiple tasks in parallel is easy; however improving the run-time of single tasks via parallelism remains one of the greatest challenges in computing today. Serial programs can be rewritten in an explicitly parallel manner to take advantage of multiple cores. However rewriting programs by hand is extraordinarily time-intensive and expensive, especially considering the vast repository of serial code worldwide, developed at enormous expense over the last several decades.  Parallelization in a compiler is an alternative to rewriting code by hand. Such a compiler automatically transforms input serial code into output parallel code. Its advantage -- avoiding the need to rewrite programs -- is so compelling that if a practical, robust, and efficient parallelizer were available, it would undoubtedly be widely used. However there are no production-quality parallelizing compilers today. Although much research has been done, existing research prototypes of parallelizing compilers have proven inadequate. Even when parallel code is generated, the increasing complexity of modern computing systems makes it difficult to achieve even a reasonable fraction of a system's peak performance.  We are developing the automatically parallelizing AESOP compiler which advances the state of the art in two ways: (i) we have designed a goal-directed transformation decision algorithm that is far more effective at finding the sequence of program transformations leading to lowest run-time specific to each loop; and (ii) we use extensive system characterization to automatically learn about the underlying hardware, and apply compiler transformations in a customized way to extract the maximum performance on the specific target computing platform. AESOP is built on top of the production-quality open-source LLVM serial compiler.  The problem of obtaining parallel software, important everywhere, is even more acute for NASA. NASA disproportionately uses time-intensive performance-critical scientific code in both terrestrial and flight computing, but which are mostly serial today. An increasing number of sophisticated sensors in space probes generate huge amounts of digital data at a faster rate than ever before. Since communication bandwidth to earth is growing much more slowly, on-board flight processing of data has become necessary to reduce raw data to a much smaller set of processed results that are more feasible to transmit to earth. Demands for high-performance parallel code abound in NASA's terrestrial computing as well.  We have recently started extensive discussions with NASA officials at the Goddard Space Flight Center (GSFC). After exchanging visits between UMD and GSFC, specific teams at GSFC (identified inside) have expressed an interest in adapting AESOP for their needs. NASA has recently started using parallel computing platforms, in particular the Tilera and SpaceCube radiation-hardened processors, but most of their existing programs are serial. One group at GSFC is interested in us applying the AESOP compiler to parallelize their serial code for both platforms. Another group at NASA has expressed an interest in us using AESOP to enhance the parallelism of the weather-forecasting code that runs on the 8000-core Linux cluster at GSFC. If funded via NSTRF, I plan to explore as many such projects as possible by dividing my time every week between UMD and GSFC over the next several years -- possible because they are only 4 miles apart. Regardless of the funding, I been offered a summer 2011 internship at GSFC by three different NASA groups. I will accept one of the offers soon, and look forward to a productive collaboration.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 381259,
+                "firstName": "Rajeev",
+                "lastName": "Barua",
+                "fullName": "Rajeev Barua",
+                "fullNameInverted": "Barua, Rajeev",
+                "primaryEmail": "barua@umd.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 468688,
+                "firstName": "Timothy",
+                "lastName": "Creech",
+                "fullName": "Timothy M Creech",
+                "fullNameInverted": "Creech, Timothy M",
+                "middleInitial": "M",
+                "primaryEmail": "tim.creech@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Automatic Parallelization of Serial Programs for NASA Space-Based Computing Systems",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1718,
+                    "fileName": "4263-1363114289461",
+                    "fileSize": 194342,
+                    "objectId": 1032,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1718,
+                        "fileName": "4263-1363114289461",
+                        "fileSize": 194342,
+                        "objectId": 1032,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 1032,
+                "title": "4263-1363114289461.jpg",
+                "description": "Project Image   Automatic Parallelization of Serial Programs for NASA Space-Based Computing Systems",
+                "libraryItemTypeId": 1095,
+                "projectId": 4263,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1718,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 1032,
+            "description": "Project Image   Automatic Parallelization of Serial Programs for NASA Space-Based Computing Systems",
+            "projectId": 4263,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "UMCP",
+                "canUserEdit": false,
+                "city": "College Park",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3111,
+                "organizationName": "University of Maryland-College Park",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MD",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Maryland",
+                    "stateTerritoryId": 3
+                },
+                "stateTerritoryId": 3,
+                "msiData": {
+                    "2017": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2018": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 163286,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "MD",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Maryland",
+                "stateTerritoryId": 3
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

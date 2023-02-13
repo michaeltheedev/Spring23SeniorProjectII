@@ -1,0 +1,251 @@
+{
+    "project": {
+        "projectId": 4239,
+        "title": "Performance Quantification of Solar Sail Heliogyros for Planetary and Interplanetary Missions Using Multi-Scale Dynamics and Control Analysis",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10561,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10560,
+                "level": 3,
+                "code": "TX01.4.1",
+                "title": "Solar Sails",
+                "definition": "Sail propulsion uses lightweight structures with a large surface area to produce thrust by reflecting solar photons (solar) or atmospheric molecules (drag), thereby transferring much of their momentum to the sail.",
+                "exampleTechnologies": "Solar sail",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The goal is to provide engineers with the tools required to design and plan a heliogyro sail-craft mission so that someday soon we may begin to realize the vast potential solar sails have to offer.",
+        "description": "The focus of this proposal is the guidance and control of a particular type of solar sail and supports NASA's exploration goals as outlined in TABS element 2.2.2: Solar Sail Propulsion. Solar sails are large, extremely thin sheets of reflective material that use sunlight to provide continuous thrust. To provide meaningful thrust levels, the sails must be lightweight, gossamer structures with several hundred square meters or more of reflective area. The primary advantage of sails is that they do not use propellant for thrust or attitude control allowing for theoretically infinite mission duration and infinite impulse. It is this elegance and limitless potential that make sails so attractive.  Research into this cutting-edge propulsion system has extraordinary promise for a wide variety of applications. Solar sails could make many prohibitively expensive missions cost-effective and enable many more that are impossible without sail power. For example, a sail-craft placed between the Earth and the Sun could enhance solar storm early-warning and help protect the nation's space assets. Also, a sail-craft could attack the growing threat of space debris by capturing defunct satellites, shuttling them to a super-GEO graveyard, and repeating indefinitely. Further down the road, sails offer the prospect of inexpensive, reusable cargo transport to Mars and beyond. These are just a few of the many applications of this technology. Nevertheless, much work remains before government and commercial agencies will commit to a large-scale sail-craft mission.  This research aims to further develop guidance and control for a specific type of solar sail: the heliogyro. In this case, the sail is divided into long blades supported by the centripetal acceleration of the spacecraft's spin alone. The heliogyro's attitude, and therefore thrust vector, is controlled by changing the cyclic and collective blade pitch similar to a helicopter. One advantage of this design over a more traditional square sail is the lack of blade support structure. This cuts mass and increases acceleration or payload capacity. Additionally, sail deployment is much simplified; simply spin the spacecraft up, and allow the blades to unspool.  The inability to effectively ground test such large, delicate structures makes a deeper analytical understanding essential. This research will attempt to show that heliogyros are a viable method of both attitude control and main propulsion. The objective is to answer three essential questions about heliogyro controllability:  How much can heliogyros improve mission performance?  What are the feasible attitude control methods to achieve that performance?  How can we control the pitch of highly-flexible blades to attain the desired attitude?  NASA, especially JPL and Marshall Space Flight Center, have been developing this technology intermittently for decades. As early as the sixties, JPL conducted preliminary design work on a heliogyro for a Halley's Comet rendezvous mission. More recently, they developed the S5 (Solar Sail Spaceflight Simulation Software) toolkit. Marshall launched a solar sail proof-of-concept, NanoSail-D, only weeks ago and is developing its successor, FeatherSail. This research will combine an analytical exploration of the fundamental concepts, simulations of the orbital and attitude mechanics, and finite element analysis of the sail structural dynamics to develop a comprehensive theory of the factors involved in solar sail control. The goal is to provide engineers with the tools required to design and plan a heliogyro sail-craft mission so that someday soon we may begin to realize the vast potential solar sails have to offer.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 93432,
+                "firstName": "Dale",
+                "lastName": "Lawrence",
+                "fullName": "Dale Lawrence",
+                "fullNameInverted": "Lawrence, Dale",
+                "primaryEmail": "dale.lawrence@colorado.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 96759,
+                "firstName": "Daniel",
+                "lastName": "Guerrant",
+                "fullName": "Daniel V Guerrant",
+                "fullNameInverted": "Guerrant, Daniel V",
+                "middleInitial": "V",
+                "primaryEmail": "daniel.v.guerrant@lmco.com",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Performance Quantification of Solar Sail Heliogyros for Planetary and Interplanetary Missions Using Multi-Scale Dynamics and Control Analysis",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1810,
+                    "fileName": "4239-1363263180844",
+                    "fileSize": 194342,
+                    "objectId": 937,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1810,
+                        "fileName": "4239-1363263180844",
+                        "fileSize": 194342,
+                        "objectId": 937,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 937,
+                "title": "4239-1363263180844.jpg",
+                "description": "Project Image   Performance Quantification of Solar Sail Heliogyros for Planetary and Interplanetary Missions Using Multi-Scale Dynamics and Control Analysis",
+                "libraryItemTypeId": 1095,
+                "projectId": 4239,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1810,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 937,
+            "description": "Project Image   Performance Quantification of Solar Sail Heliogyros for Planetary and Interplanetary Missions Using Multi-Scale Dynamics and Control Analysis",
+            "projectId": 4239,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Boulder",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4423,
+                "organizationName": "University of Colorado Boulder",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "CO",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Colorado",
+                    "stateTerritoryId": 15
+                },
+                "stateTerritoryId": 15,
+                "murepUnitId": 126614,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CO",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Colorado",
+                "stateTerritoryId": 15
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

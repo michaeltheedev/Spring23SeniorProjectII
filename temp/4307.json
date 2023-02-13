@@ -1,0 +1,251 @@
+{
+    "project": {
+        "projectId": 4307,
+        "title": "Incorporation of GNSS Multipath to Improve Autonomous Rendezvous, Docking and Proximity Operations in Space",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10974,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10973,
+                "level": 3,
+                "code": "TX17.2.1",
+                "title": "Onboard Navigation Algorithms",
+                "definition": "This area covers algorithms (and their associated flight software) for autonomous onboard estimation of flight path/orbit/trajectory parameters and associated uncertainties from navigation sensor measurements.",
+                "exampleTechnologies": "Algorithms for optical navigation, terrain relative navigation, autonomous rendezvous and docking, autonomous hazard detection and avoidance, autonomous space-based navigation (optical or Global Positioning System (GPS) Cislunar), X-ray navigation, Simultaneous Localization and Mapping (SLAM), light detection and ranging (LIDAR)-based navigation, inertial navigation (translation) filter, inertial attitude estimation filter, ascent vehicle filter, Earth-independent deep space navigation, celestial navigation, landmark navigation, X-ray pulsar navigation, vehicle-relative navigation (translation) filter, vehicle-relative attitude filter, swarm navigation, angles-only navigation, double line of sight navigation, small body prox ops and landing filter",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The results of the proposed research will enable the long-term objectives outlined in the NASA Communication and Navigation Systems Roadmap, in particular those in Technology Area Breakdown Structure (TABS) 5.4; Position, Navigation and Timing (PNT).  ",
+        "description": "Autonomous rendezvous and docking (AR&D) operations depend critically on accurate, real-time knowledge of the relative position and velocity between two space vehicles. Presently, Global Navigation Satellite System (GNSS) techniques have evolved to become a source of high-integrity positioning, velocity and time (PVT) information in nearly all regimes of Earth orbit, from LEO to GEO. Unfortunately, GNSS capabilities remain severely limited in close proximity to large space structures due to significant multipath effects and signal blockage. The proposed research will investigate techniques to improve GNSS navigation in the close proximity of large space structures through the incorporation of multipath as a potential source of new range information, rather than an interference to be mitigated. This analysis is made possible by the newly acquired, full-spectrum GNSS measurements collected on the STS-125 Hubble Servicing Mission 4 (HSM4). This unique data set makes development of these advanced methods for space navigation possible for the first time.  The 195 GB of GNSS data from STS-125 will be processed to generate waveforms for all visible satellites. Then a model of the HST-Shuttle geometry will be constructed, employing the Geometric Theory of Diffraction, producing amplitude, delay and phase for each ray path to generate model correlation waveforms. These waveforms will be compared to those extracted from the raw data. The Multipath Estimating Delay Lock Loop (MEDLL) will be applied to the STS-125 data to separate the contributions from each ray path. A simplified geometry model will then be used to define the relationship between the multipath and line of sight rays. The individual delays from the MEDLL will be used to invert this geometry, estimating the relative position vector and attitude.  The results of the proposed research will enable the long-term objectives outlined in the NASA Communication and Navigation Systems Roadmap, in particular those in Technology Area Breakdown Structure (TABS) 5.4; Position, Navigation and Timing (PNT).",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 194874,
+                "firstName": "James",
+                "lastName": "Garrison",
+                "fullName": "James Garrison",
+                "fullNameInverted": "Garrison, James",
+                "primaryEmail": "brian.g.miller@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 39968,
+                "firstName": "Benjamin",
+                "lastName": "Ashman",
+                "fullName": "Benjamin W Ashman",
+                "fullNameInverted": "Ashman, Benjamin W",
+                "middleInitial": "W",
+                "primaryEmail": "benjamin.w.ashman@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Incorporation of GNSS Multipath to Improve Autonomous Rendezvous, Docking and Proximity Operations in Space",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1782,
+                    "fileName": "4307-1363186704546",
+                    "fileSize": 194342,
+                    "objectId": 470,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1782,
+                        "fileName": "4307-1363186704546",
+                        "fileSize": 194342,
+                        "objectId": 470,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 470,
+                "title": "4307-1363186704546.jpg",
+                "description": "Project Image   Incorporation of GNSS Multipath to Improve Autonomous Rendezvous, Docking and Proximity Operations in Space",
+                "libraryItemTypeId": 1095,
+                "projectId": 4307,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1782,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 470,
+            "description": "Project Image   Incorporation of GNSS Multipath to Improve Autonomous Rendezvous, Docking and Proximity Operations in Space",
+            "projectId": 4307,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "West Lafayette",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2582,
+                "organizationName": "Purdue University-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "IN",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Indiana",
+                    "stateTerritoryId": 37
+                },
+                "stateTerritoryId": 37,
+                "murepUnitId": 243780,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "IN",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Indiana",
+                "stateTerritoryId": 37
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

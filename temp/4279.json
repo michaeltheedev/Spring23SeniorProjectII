@@ -1,0 +1,220 @@
+{
+    "project": {
+        "projectId": 4279,
+        "title": "Small Satellite Attitude Determination and Control",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10639,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10632,
+                "level": 3,
+                "code": "TX04.5.7",
+                "title": "Modeling, Simulation, Analysis, and Test of Rendezvous, Proximity Operations, and Capture",
+                "definition": "Technologies/techniques for the development of advanced software tools to model, simulate and analyze the dynamic response of space vehicles, robotic manipulators, and other capture systems to forces exerted by actuators (e.g. thrusters, wheels, motors), the environment, or an active spacecraft on a nearby object (contact dynamics, thruster plume impingement). Also included are technologies for the development of modern ground-based guidance navigation and control (GN&C), robotic, and capture motion simulation testbeds.",
+                "exampleTechnologies": "Multi-vehicle closed loop hi-fidelity attitude and orbit simulation; capture contact dynamics; flexible modes analysis; finite element modeling (FEM) analysis; proximity operations thruster plume impingement modeling and analysis; robotic manipulator kinematic simulation (reach and access, etc.); robotic manipulator high fidelity dynamics simulation of capture and berthing; relative navigation sensor hardware-in-the-loop (HWIL) testing of vehicle and small body proximity operations; grapple, berthing, docking, and small body contact (Touch-and-Go (TAG)/landing) HWIL testing with high fidelity 6DOF motion and contact dynamics; high fidelity synthetic image generation for testing of vehicle- and terrain-relative pose/nav estimation systems",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This proposed effort directly supports the NASA space technology goal to create \"innovative new space technologies for our nation's science, exploration, and economic future.\" High-precision pointing in small satellites is also one of NASA's goals for Game Changing Technology. ",
+        "description": "The proposed effort aims to develop technologies for high-precision pointing in small satellites to enable detection of Earth-sized exoplanets transiting nearby, Sun-like stars. This overall goal of precision pointing is broken down into two distinct research objectives. The first is to develop staged control algorithms with narrowband disturbance rejection to combine the benefits of systematic staged control synthesis with high attenuation of tonal disturbances arising from sources such as reaction wheels. While both topics have been developed independently, they have not been combined in a single control system. The second research objective is to develop estimation techniques to develop improved estimation techniques for staged control that estimates high-frequency disturbances with the use of low-cost sensors.  These research objectives will be carried out by first developing a simulation, based on hardware component testing. The developed algorithms can be tested and tuned rapidly in this simulation. In addition, trade studies will be performed with this simulation to inform the final design of the satellite. To demonstrate the algorithms and validate the simulation results, hardware-in-the-loop testbeds will be fabricated. To streamline this process, embeddable code will be generated directly from the simulation. The hardware tests will culminate in a full three-degree-of-freedom test of the staged control system.  This proposed effort directly supports the NASA space technology goal to create \"innovative new space technologies for our nation's science, exploration, and economic future.\" High-precision pointing in small satellites is also one of NASA's goals for Game Changing Technology. In addition, the mission of finding Earth-like planets is aligned one of NASA's goals in the 2006-2016 Strategic Plan.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 109545,
+                "firstName": "David",
+                "lastName": "Miller",
+                "fullName": "David N Miller",
+                "fullNameInverted": "Miller, David N",
+                "middleInitial": "N",
+                "primaryEmail": "david.n.miller@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 81404,
+                "firstName": "Christopher",
+                "lastName": "Pong",
+                "fullName": "Christopher M Pong",
+                "fullNameInverted": "Pong, Christopher M",
+                "middleInitial": "M",
+                "primaryEmail": "christopher.m.pong@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Small Satellite Attitude Determination and Control",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1824,
+                    "fileName": "4279-1363265593899",
+                    "fileSize": 194342,
+                    "objectId": 942,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1824,
+                        "fileName": "4279-1363265593899",
+                        "fileSize": 194342,
+                        "objectId": 942,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 942,
+                "title": "4279-1363265593899.jpg",
+                "description": "Project Image   Small Satellite Attitude Determination and Control",
+                "libraryItemTypeId": 1095,
+                "projectId": 4279,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1824,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 942,
+            "description": "Project Image   Small Satellite Attitude Determination and Control",
+            "projectId": 4279,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

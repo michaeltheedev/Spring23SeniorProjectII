@@ -1,0 +1,250 @@
+{
+    "project": {
+        "projectId": 4235,
+        "title": "Prediction of Regolith Ejection During Extraterrestrial Landings",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10775,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10770,
+                "level": 3,
+                "code": "TX09.4.5",
+                "title": "Modeling and Simulation for EDL",
+                "definition": "Modeling and simulation for EDL refers to the computer codes, underlying physical models, and processes that enable configuration definition and design verification and validation for systems that\u2014short of a full scale flight test\u2014cannot be tested exactly in the configuration and environment for which it is intended to operate. The models cover both the environmental response to the presence of the system in operation, and the operational performance of the system in the environment. A key concern is understanding and modeling of interactions between rocket plumes and the ground.",
+                "exampleTechnologies": "Multi-disciplinary coupled analysis tools, aerothermodynamics modeling, ablative material response models, non-ablative material response models, TPS quantification models and processes, numerical methodologies and techniques, autonomous aerobraking, orbital debris entry and breakup modeling, meteor entry and breakup modeling, Fluid Structure Interaction (FSI) tools, SRP modeling tools, aerodynamic modeling tools, plume-surface interaction, multi-scale simulation tools",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This model will then be transferred to NASA engineers for use as a practical predictive tool in a variety of scenarios to assist in the design of systems to mitigate the effects of regolith ejection. Such a predictive tool is crucial for the safety and future of space exploration.",
+        "description": "The overall objective of the proposed work is to provide a better understanding of the transport of ejected lunar regolith during spacecraft landing on extraterrestrial bodies (Moon, Mars, asteroids, etc.) and to incorporate this knowledge into a first-principles model for wide particle size distributions. In order to develop this model, computer simulations using both the discrete element method and continuum theory, along with experimental data, will be used. This model will then be transferred to NASA engineers for use as a practical predictive tool in a variety of scenarios to assist in the design of systems to mitigate the effects of regolith ejection. Such a predictive tool is crucial for the safety and future of space exploration.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 76519,
+                "firstName": "Christine",
+                "lastName": "Hrenya",
+                "fullName": "Christine Hrenya",
+                "fullNameInverted": "Hrenya, Christine",
+                "primaryEmail": "hrenya@colorado.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 280939,
+                "firstName": "Kyle",
+                "lastName": "Berger",
+                "fullName": "Kyle Berger",
+                "fullNameInverted": "Berger, Kyle",
+                "primaryEmail": "kyle.berger@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Prediction of Regolith Ejection During Extraterrestrial Landings",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1811,
+                    "fileName": "4235-1363263302065",
+                    "fileSize": 194342,
+                    "objectId": 291,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1811,
+                        "fileName": "4235-1363263302065",
+                        "fileSize": 194342,
+                        "objectId": 291,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 291,
+                "title": "4235-1363263302065.jpg",
+                "description": "Project Image   Prediction of Regolith Ejection During Extraterrestrial Landings",
+                "libraryItemTypeId": 1095,
+                "projectId": 4235,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1811,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 291,
+            "description": "Project Image   Prediction of Regolith Ejection During Extraterrestrial Landings",
+            "projectId": 4235,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Boulder",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4423,
+                "organizationName": "University of Colorado Boulder",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "CO",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Colorado",
+                    "stateTerritoryId": 15
+                },
+                "stateTerritoryId": 15,
+                "murepUnitId": 126614,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CO",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Colorado",
+                "stateTerritoryId": 15
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

@@ -1,0 +1,283 @@
+{
+    "project": {
+        "projectId": 4377,
+        "title": "Radiation Protection and Architecture Utilizing High Temperature Superconducting Magnets",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10709,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10706,
+                "level": 3,
+                "code": "TX06.5.3",
+                "title": "Protection Systems",
+                "definition": "Integrated radiation protection shielding technologies provide passive or active shielding through design advances, advanced materials, lightweight structures, and in-situ resources.",
+                "exampleTechnologies": "Radiation protective materials and material systems for primary and secondary structures, in-situ passive shielding from and in the spacecraft, in-situ passive shielding from planetary surface materials, high-temperature superconductor technology and performance for active shielding systems, lightweight structural materials for magnet fixtures for active shielding systems, cooling systems for active shielding, integrated design tool, uncertainty models for thick shielding, active shielding modeling tool set",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 3,
+        "currentTrl": 4,
+        "endTrl": 4,
+        "benefits": "Potential to improve in space crew protection from exposure to Solar Proton Events and Galactic Cosmic Radiation.",
+        "description": "Human space exploration exposes astronauts to particularly hazardous environments unique from Earth-based hazards. A substantial risk for exploration beyond the confines of the Earth's geomagnetic field is radiation exposure from energetic solar protons and Galactic Cosmic Radiation. The concept of shielding astronauts with magnetic/electric fields has been studied for over 40 years and has remained an intractable engineering problem. Superconducting magnet technology has made great strides in the last decade. Coupling maturing technology with potential innovative magnet configurations, this proposal aims to revisit the concept of active magnetic shielding. The focus of the proposed work is to analyze new coil configurations with current technology and compare shielding performance and design mass with alternate passive shielding methods.",
+        "destinations": [
+            {
+                "lkuCodeId": 1543,
+                "code": "EARTH",
+                "description": "Earth",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1544,
+                "code": "THE_MOON",
+                "description": "The Moon",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 434776,
+                "firstName": "Shayne",
+                "lastName": "Westover",
+                "fullName": "Shayne C Westover",
+                "fullNameInverted": "Westover, Shayne C",
+                "middleInitial": "C",
+                "primaryEmail": "shayne.c.westover@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [],
+        "transitions": [
+            {
+                "transitionId": 6422,
+                "projectId": 4377,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "The NIAC one year study evaluated multiple coil geometries including the Double Helix from AML and toroid designs. The Double Helix and other toroid concepts have a constant, no gap transverse field for turning ionized radiation, however significant loads on the habitat and between the coils result in significant structural design architecture and mass. Most toroid configurations result in a large field within the habitat requiring complex shielding from the magnetic field for the crew and electronics. The down-selected 6+1 solenoid coil array and compensator coil configuration minimizes both mass and in the cabin fringe field technical issues. The concept of coil expansion using the Lorentz force with high temperature superconductors enables very large coil diameters to increase the integral BdL of the system for improved dose efficiency while keeping to a reasonable launch mass and simplified assembly. Not only does the compensator coil tune to minimize fringe fields entering the habitat, but also simplifies the coil thermal management system by capturing the radiant heat from the habitat with cryocoolers. As a protection from SPE, analysis was completed for a 6m diameter by 10m length cylindrical habitat that resulted in 141 metric tons of 75 cm thick polyethylene providing similar protection as that from a 6+1 expanding coil array at 8 Tm with a simulated mass of 36 metric tons. The Blood Forming Organ (BFO) dose was ~50 mSv for a 180 hour SPE from October of 1989. This comparison maintained a constant habitable volume vice filling the volume with polyethylene for individual crew protection such as a storm shelter. Dose equivalent results for the 8 Tm configuration are comparable with annual dose equivalents for a spacecraft in LEO with barrel-only BFO results at 309 mSv and total results with nearly naked end caps with an empty habitable volume at 451 mSv. For comparison with the 150 mSv career limit, the body dose equivalent is 232 mSv for the 8 Tm barrel region only and up to 363 mSv if one includes the dose received through the end caps with missing architectural mass. Real GCR reduction has been achieved however, the reduction is not significant enough to provide significantly greater mission duration so more work is needed. Phase 2 intends to refine the vehicle configuration with added spacecraft architecture such as the propulsion system, logistics module, and a crew transfer capsule on the end caps of the habitat, all which is expected to contribute to the overall shielding efficiency of the 8 Tm 6+1 coil configuration. The technology will be considered along with the potential scalability of the 8 Tm coils. External fringe fields will be evaluated and the compensator coil integration with the solenoid array loads analyzed. The magnetic loads and structural design concept will also be considered for engineering feasibility and refinement of the system shielding mass.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "JSC",
+            "canUserEdit": false,
+            "city": "Houston",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4853,
+            "organizationName": "Johnson Space Center",
+            "organizationType": "NASA_Center",
+            "stateTerritory": {
+                "abbreviation": "TX",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Texas",
+                "stateTerritoryId": 29
+            },
+            "stateTerritoryId": 29,
+            "naorganization": false,
+            "organizationTypePretty": "NASA Center"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "",
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 879,
+                "organizationName": "Advanced Magnet Lab, Inc.",
+                "organizationType": "Industry",
+                "dunsNumber": "943748681",
+                "naorganization": false,
+                "organizationTypePretty": "Industry"
+            },
+            {
+                "acronym": "LaRC",
+                "canUserEdit": false,
+                "city": "Hampton",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4852,
+                "organizationName": "Langley Research Center",
+                "organizationType": "NASA_Center",
+                "stateTerritory": {
+                    "abbreviation": "VA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Virginia",
+                    "stateTerritoryId": 7
+                },
+                "stateTerritoryId": 7,
+                "naorganization": false,
+                "organizationTypePretty": "NASA Center"
+            },
+            {
+                "canUserEdit": false,
+                "city": "Perugia",
+                "country": {
+                    "abbreviation": "IT",
+                    "countryId": 110,
+                    "name": "Italy"
+                },
+                "countryId": 110,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 301,
+                "organizationName": "Universit\u00e0 di Perugia",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "",
+                    "country": {
+                        "abbreviation": "IT",
+                        "countryId": 110,
+                        "name": "Italy"
+                    },
+                    "countryId": 110,
+                    "name": "Outside the United States",
+                    "stateTerritoryId": 60
+                },
+                "stateTerritoryId": 60,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "TX",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Texas",
+                "stateTerritoryId": 29
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

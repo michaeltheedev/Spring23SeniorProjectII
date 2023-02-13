@@ -1,0 +1,218 @@
+{
+    "project": {
+        "projectId": 4277,
+        "title": "Lifecycle Reusable Functional Digital Materials",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10885,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10879,
+                "level": 3,
+                "code": "TX12.4.6",
+                "title": "Repurpose Processes",
+                "definition": "Repurpose processes support the recycling and reuse of spent material and structures at destinations, for repair or new application.",
+                "exampleTechnologies": "Reuse vehicle tanks for habitats and storage, packaging for building material, metals components as additive manufacturing feedstock",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The identified topic will extend into the field of Materials Science and Fabrication Technology, with the goal of synthesizing current advances in packaging technologies, joining processes, welding, adhesive bonding, soldering and brazing, electric arcs, to new technologies such as 3d printing, machining processes, laser and electron beams and waste reduction in additive manufacturing. <p> \t&nbsp;</p> <p> \t&nbsp;</p> ",
+        "description": "Significant improvements need to be made in recovery and reuse of valuable flight hardware, in order to lower costs per mission. Strategies need to focus on avoiding complete loss of hardware by creating a workflow that uses in-situ repair processes to restore and reuse parts. In addition, ISRU technologies need to be created to recover useful construction metals such as aluminum, iron, and titanium, and to fabricate tools and parts using minerals and elements processed in surface plants. Digital materials have the potential to create a precise, multi-material manufacturing process that allows for recyclability of all types of functional components. Digital materials replace analog materials as a new paradigm addressing multi-material use, function, and reuse during the fabrication process of a product. It can be treated as a universal building material, referring to pre-fabricated building blocks that are repeatable over infinite generations, with the ability to increase precision and ease of assembly and disassembly of three dimensional objects. Voxels can be composed of dissimilar materials, to give each added functionality based on variable material properties. Polymer, metallic, semi-conductor or ceramic voxels can be created in bulk and assembled identically since parts are designed to self-align. Like a digital signal, which is represented as a series of logical ones and zeros, three dimensional objects can be represented by the presence or absence of a block within a larger structure. The objective of the research is twofold: to create a digital assembler that can process and recycle multiple materials, and to develop a workflow that would allow the assembler to assemble and reuse functional digital discrete materials for space exploration. The research will propose a system and method that would achieve complete material recyclability. The identified topic will extend into the field of Materials Science and Fabrication Technology, with the goal of synthesizing current advances in packaging technologies, joining processes, welding, adhesive bonding, soldering and brazing, electric arcs, to new technologies such as 3d printing, machining processes, laser and electron beams and waste reduction in additive manufacturing. This proposal will develop an emerging technology that will meet NASA's long-term strategic challenges, and one that would achieve needed performance as identified by increased capabilities demanded by future planned missions. Of the 14 Space Technology Roadmaps that comprise top technical challenges part of NSTRF, Human Exploration Destination Systems(HEDS)-Tab 07, Section 2.2.1.4-Manufacturing and Infrastructure Emplacement will be considered. This section is comprised of three subcategories including: In-Situ Infrastructure, In-Situ Manufacturing and In-Situ Derived Structures. The combination of assembly and reuse of parts will result in mini-mobile factories that would work on lunar surface conditions with applications including fabrication of large space structures, support for long term human exploration missions, and to allow for autonomous structural monitoring and repair for in-flight missions. The research proposes digital materials as a starting point for the design of systems that will be easily reconfigured for scavenging and reuse at the component level in in-situ repair and fabrication. The goal is to develop reuse and recyclability whereby components can be applied to a broad array of applications for support strategies.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 353056,
+                "firstName": "Neil",
+                "lastName": "Gershenfeld",
+                "fullName": "Neil Gershenfeld",
+                "fullNameInverted": "Gershenfeld, Neil",
+                "primaryEmail": "gersh@cba.mit.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 424433,
+                "firstName": "Sarah",
+                "lastName": "Hovsepian",
+                "fullName": "Sarah Hovsepian",
+                "fullNameInverted": "Hovsepian, Sarah",
+                "primaryEmail": "sarah.hovsepian@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Lifecycle Reusable Functional Digital Materials",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1846,
+                    "fileName": "4277-1363269187277",
+                    "fileSize": 194342,
+                    "objectId": 871,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1846,
+                        "fileName": "4277-1363269187277",
+                        "fileSize": 194342,
+                        "objectId": 871,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 871,
+                "title": "4277-1363269187277.jpg",
+                "description": "Project Image   Lifecycle Reusable Functional Digital Materials",
+                "libraryItemTypeId": 1095,
+                "projectId": 4277,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1846,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 871,
+            "description": "Project Image   Lifecycle Reusable Functional Digital Materials",
+            "projectId": 4277,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

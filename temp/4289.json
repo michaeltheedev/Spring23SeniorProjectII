@@ -1,0 +1,218 @@
+{
+    "project": {
+        "projectId": 4289,
+        "title": "Hierarchical Oxide Nanostructures for High Performance Energy Storage",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10601,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10600,
+                "level": 3,
+                "code": "TX03.2.1",
+                "title": "Electrochemical: Batteries",
+                "definition": "Batteries store and convert chemical energy to electricity.",
+                "exampleTechnologies": "High-specific-energy, human-rated advanced secondary chemistries beyond lithium-ion, nanoelectronics, super/ultracapacitors, extreme environment energy storage, flow batteries",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This project aims to develop hierarchical oxide nanostructures for high performance lithium ion batteries.  Energy storage is a major concern for space technology. Many functions on spacecraft and on the International Space Station run solely on electrical energy to power its lights, run life-support systems, energize its computers, and conduct scientific studies. Therefore, secondary batteries that can be reliably charged and discharged for many cycles are an important aspect of space technology.",
+        "description": "Energy storage is a major concern for space technology. Many functions on spacecraft and on the International Space Station run solely on electrical energy to power its lights, run life-support systems, energize its computers, and conduct scientific studies. Therefore, secondary batteries that can be reliably charged and discharged for many cycles are an important aspect of space technology. Among all the electrical energy storage devices, lithium-ion batteries have the highest energy density and excellent cycling stability, and are likely to play a dominant role in the next generation portable power market. A crucial requirement for space travel is that materials are lightweight and compact. The use of nanotechnology is a potential solution for reducing material weight while achieving superior results. Nanoparticles are often used as electrode materials for lithium ion batteries, and have additional advantages because they modify the chemical potentials of Li-ions and electrons, thereby enhancing performance. The nanoparticulate layers should have high surface areas to ensure high Li-ion flux, yet the distance Li-ions need to travel within nanoparticles should be short to increase the rate of charge and discharge. To meet both of these goals, structures should contain interconnected mesoscopic pores, which would allow for a fast intercalation rate while maintaining a structured path for electron flow. My proposed research project is to develop hierarchical oxide nanostructures for high performance lithium ion batteries. This includes utilizing electrospinning and electrospray techniques in conjunction with sol-gel and hydrothermal processing to fabricate 1D nanofibers and 3D nanospheres which contain fine nanocrystalline particles with sizes in the range of 10-20 nm, and then use these as a basis for further development of hierarchical nanostructures. The nanoparticles within nanofibers and nanospheres increase surface area and interface area, shorten the diffusion path, and enhance surface chemistry while the 1D fibrous geometry forms a preferred direct transport path for electron movement. Hierarchical oxide nanostructures have the additional advantage of being able to accommodate strains that result from reversible intercalation of Li-ions in the crystalline lattices of electrodes. The strains are often associated with structural damage to the electrode material, which are the primary factors leading to battery failure. In order to analyze the ability of materials to reversibly intercalate Li-ions, the electromechanical response of a battery electrode can be tested using scanning probe microscopy. Using the scanning probe microscope tip to apply a bias to the surface of the electrode, the motion of lithium ions can be correlated with changes in the topography of the material. In addition, such studies could measure the local diffusion rates of lithium ions as they relate to crystalline structure and grain boundaries. Such studies would lead to an increased understanding of the role of material and microstructure on Li-ion motion in batteries, and could be correlated to energy capacity and cycling stability.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 222077,
+                "firstName": "Jiangyu",
+                "lastName": "Li",
+                "fullName": "Jiangyu Li",
+                "fullNameInverted": "Li, Jiangyu",
+                "primaryEmail": "jjli@uw.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 379042,
+                "firstName": "Qian",
+                "lastName": "Chen",
+                "fullName": "Qian Chen",
+                "fullNameInverted": "Chen, Qian",
+                "primaryEmail": "qian.chen@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Hierarchical Oxide Nanostructures for High Performance Energy Storage",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1770,
+                    "fileName": "4289-1363185151006",
+                    "fileSize": 194342,
+                    "objectId": 462,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1770,
+                        "fileName": "4289-1363185151006",
+                        "fileSize": 194342,
+                        "objectId": 462,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 462,
+                "title": "4289-1363185151006.jpg",
+                "description": "Project Image   Hierarchical Oxide Nanostructures for High Performance Energy Storage",
+                "libraryItemTypeId": 1095,
+                "projectId": 4289,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1770,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 462,
+            "description": "Project Image   Hierarchical Oxide Nanostructures for High Performance Energy Storage",
+            "projectId": 4289,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "WA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Washington",
+                "stateTerritoryId": 11
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

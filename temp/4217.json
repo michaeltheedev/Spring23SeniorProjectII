@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4217,
+        "title": "Silicon-Germanium Front-End Electronics for Space-Based Radar Applications",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10588,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10586,
+                "level": 3,
+                "code": "TX02.3.2",
+                "title": "Space Radiation Analysis and Modeling",
+                "definition": "Space radiation analysis and modeling tools include models of the radiation environments, radiation transport codes for estimating particle fluxes/doses for sensitive components, SEE rate estimation packages, databases of historical radiation test data, and physics-based codes to simulate device radiation response and other tools/techniques needed to ensure correct operation in mission environments.",
+                "exampleTechnologies": "IRENE, ESP and PSYCHIC environment models; CR\u00c8ME-96 and CR\u00c8ME-MC SEE rate estimation software packages; MULASSIS, Monte Carlo N-Particle/ Monte Carlo N-Particle eXtended (MCNP/MCNPX), NOVICE transport codes; DAVINCI, SPICE part and circuit simulation routines, model-based system engineering and mission assurance approaches",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The front-end electronics developed from my research will increase the capabilities of space radar. This radar will enable high-resolution imaging of moons and other celestial bodies without the need for a warm box.",
+        "description": "Over the past two decades, Silicon-Germanium (SiGe) heterojunction bipolar transistor (HBT) technology has emerged as a strong platform for high-frequency applications. The high performance of SiGe and its compatibility with mature silicon fabrication processes allow for highly integrated mixed-signal systems for a relatively low cost. A lesser-known benefit of SiGe is its great potential for extreme environment electronics. Extreme environments are environments outside the realm of typical design specifications. The performance of electronics can drastically change in such environments. Space-borne synthetic aperture radars in orbit endure temperatures up to 120\u221e C while facing the sun and down to -110\u221e C during the night, the whole time being bombarded by intense radiation. Commercial radar systems on Earth are not exposed to these extreme environment conditions. Electronics in space are typically contained in temperature-controlled \"warm boxes,\" which are bulky, expensive, and consume large amounts of power. Radar systems perform best when the front-end electronics are as close as possible to the antenna, and electronics that need to be contained in a warm box limit the capabilities of the radar. It would be beneficial from both a performance and a cost standpoint to have radar electronics that can function in space without the need for a warm box.  During my graduate studies, I plan to research SiGe front-end radar electronics for low-temperature and radiation-intensive environments like space. I will particularly focus on the design and operation of SiGe power amplifiers (PAs) in these environments. PAs are the critical elements in the transmit path of transmit/receive (T/R) modules, and their performance in extreme environments has only begun to be explored. In Year 1 I will characterize the performance of SiGe devices and power cells over temperature and calibrate compact models to fit the measured data. Some cryogenic measurement challenges will need to be overcome before these devices can be characterized. I will begin exploring the effects of prolonged radiation exposure on PA performance as well. Based on studies of other front-end circuit blocks, it is presumed that radiation will have little impact on PA performance. In Year 2 I will investigate the effects of DC biasing on the performance of PAs over temperature. Studies have shown that PA performance at a single bias point changes drastically with temperature. Adjusting the biasing with temperature may be the key to achieving temperature-invariant performance. I will continue studying the effects of radiation on PA performance, with a focus on single event upsets caused by individual heavy ion strikes. Also, I will characterize devices at mmWave frequencies and develop models so I can begin designing a mmWave PA. In Year 3 I will aim to design a PA with invariant performance from room temperature down to cryogenic temperatures. If radiation exposure significantly degrades PA performance, I will explore radiation hardening techniques for PAs. The mmWave PA will be designed in Year 3 as well. In Year 4 I will aim to design a temperature-invariant, radiation-hardened mmWave PA. I will investigate the design of a mmWave SiGe T/R module for these conditions as well. I will explore the integration of these electronics on the organic packaging material liquid crystal polymer (LCP) as well.  The front-end electronics developed from my research will increase the capabilities of space radar. This radar will enable high-resolution imaging of moons and other celestial bodies without the need for a warm box. An internship experience with NASA would give me a better top-to-bottom understanding of radar systems and would make me a better designer at both the circuit and the system levels.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 228495,
+                "firstName": "John",
+                "lastName": "Cressler",
+                "fullName": "John Cressler",
+                "fullNameInverted": "Cressler, John",
+                "primaryEmail": "cressler@ece.gatech.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 78149,
+                "firstName": "Christopher",
+                "lastName": "Coen",
+                "fullName": "Christopher T Coen",
+                "fullNameInverted": "Coen, Christopher T",
+                "middleInitial": "T",
+                "primaryEmail": "chris.coen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Silicon-Germanium Front-End Electronics for Space-Based Radar Applications",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1823,
+                    "fileName": "4217-1363265420621",
+                    "fileSize": 194342,
+                    "objectId": 860,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1823,
+                        "fileName": "4217-1363265420621",
+                        "fileSize": 194342,
+                        "objectId": 860,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 860,
+                "title": "4217-1363265420621.jpg",
+                "description": "Project Image   Silicon-Germanium Front-End Electronics for Space-Based Radar Applications",
+                "libraryItemTypeId": 1095,
+                "projectId": 4217,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1823,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 860,
+            "description": "Project Image   Silicon-Germanium Front-End Electronics for Space-Based Radar Applications",
+            "projectId": 4217,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "GA Tech",
+                "canUserEdit": false,
+                "city": "Atlanta",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 5029,
+                "organizationName": "Georgia Institute of Technology-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "GA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Georgia",
+                    "stateTerritoryId": 2
+                },
+                "stateTerritoryId": 2,
+                "murepUnitId": 139755,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "GA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Georgia",
+                "stateTerritoryId": 2
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

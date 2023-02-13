@@ -1,0 +1,218 @@
+{
+    "project": {
+        "projectId": 4317,
+        "title": "Development of Magnetic-Plasmonic Nanoparticle Sensors for the Apprehension, Removal and Treatment (ART) of Microbial Contamination in Water",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10684,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10682,
+                "level": 3,
+                "code": "TX06.1.2",
+                "title": "Water Recovery and Management",
+                "definition": "Water recovery and management provides a safe and reliable supply of potable water to meet crew consumption and operational needs, including supply and storage, recycling, and management through dormant mission periods.",
+                "exampleTechnologies": "Wastewater collection, wastewater processing, brine processing, potable water microbial control",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The monitoring of microbial contamination of water is both important for terrestrial usage of water supplies and a vital aspect of securing the success of NASA space missions.  Of all the different sensor systems that are being explored, magnetic-plasmonic nanoparticle sensors remain to be very promising owing to the combined optical sensitivity of the plasmon band that is integrated with the ease of magnetic guided removal and heat generation brought about by the presence of the magnetic nanoparticle component.",
+        "description": "Despite existing government regulations designed to prevent and control the spread of pathogens in the public water systems, waterborne disease outbreaks remain to be a chronic problem that leads to mortality throughout the world. The staggering number of fatalities brought about by the ingestion of microbe-contaminated water reflects the severity of this problem and necessitates the need to develop highly efficient microbial monitoring and treatment methods. The monitoring of microbial contamination of water is not only important for the terrestrial usage of water supplies, but is also a vital aspect of securing the success of NASA space missions. Although some in-flight monitoring systems are already in place to continuously monitor the quality of the spacecraft water supply, there remains a great need to develop an all-in-one smart microbe-sensing system that will simultaneously facilitate the detection, removal and treatment of pathogenic contaminants at lower cost and on a smaller footprint. Of all the different sensor systems that are being explored, magnetic-plasmonic nanoparticle sensors remain to be very promising owing to the combined optical sensitivity of the plasmon band that is integrated with the ease of magnetic guided removal and heat generation brought about by the presence of the magnetic nanoparticle component. Along this line, the proposed educational research area will focus on the systematic study of different magnetic-plasmonic nanostructured motifs for the combined apprehension, removal and treatment (ART) of test microbial contaminants in water. By utilizing bioconjugated antibodies that are specific to the target bacterial cell contaminants, the specific adsorption onto the synthesized magnetic-plasmonic nanoparticles will be promoted, which will give rise to optical shifts in the measured plasmon band that can be used to effectively monitor the presence of the microbes in water. Moreover, using an external magnet the captured microbes can be readily separated from the water supply and subsequently treated with magnetically generated heat. As such, the proposed multifunctional nanoparticle sensors will not only benefit space explorations, but will also have a great impact on ground applications.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 26460,
+                "firstName": "Anna",
+                "lastName": "Samia",
+                "fullName": "Anna Samia",
+                "fullNameInverted": "Samia, Anna",
+                "primaryEmail": "anna.samia@case.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 4442,
+                "firstName": "Adriana",
+                "lastName": "Popa",
+                "fullName": "Adriana Popa",
+                "fullNameInverted": "Popa, Adriana",
+                "primaryEmail": "anp29@case.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Development of Magnetic-Plasmonic Nanoparticle Sensors for the Apprehension, Removal and Treatment (ART) of Microbial Contamination in Water",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1752,
+                    "fileName": "4317-1363178975700",
+                    "fileSize": 194342,
+                    "objectId": 552,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1752,
+                        "fileName": "4317-1363178975700",
+                        "fileSize": 194342,
+                        "objectId": 552,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 552,
+                "title": "4317-1363178975700.jpg",
+                "description": "Project Image   Development of Magnetic-Plasmonic Nanoparticle Sensors for the Apprehension, Removal and Treatment (ART) of Microbial Contamination in Water",
+                "libraryItemTypeId": 1095,
+                "projectId": 4317,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1752,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 552,
+            "description": "Project Image   Development of Magnetic-Plasmonic Nanoparticle Sensors for the Apprehension, Removal and Treatment (ART) of Microbial Contamination in Water",
+            "projectId": 4317,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "OH",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Ohio",
+                "stateTerritoryId": 23
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "project": {
+        "projectId": 4253,
+        "title": "Autonomous Assembly of Structures in Space",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10730,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10726,
+                "level": 3,
+                "code": "TX07.2.4",
+                "title": "Micro-Gravity Construction and Assembly",
+                "definition": "Micro-gravity construction and assembly technologies transform the way we manufacture, assemble, disassemble, reverse assemble, and repair large structures in space, providing a robust space infrastructure freed from launch window scheduling, launch vehicle mass limitations, and astronaut safety concerns.",
+                "exampleTechnologies": "On-orbit three dimensional (3D) manufacturing, robotic arms/manipulators, in-space truss manufacturing, low-latency telerobotics",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Self-assembly is an exciting and relatively new subset of robotics that holds enormous promise.  In-orbit assembly of structures is a task that must be performed by space-walking humans, and yet it is costly, time-consuming, and potentially dangerous. Assembly is well-suited to robots, but to date, robots have been seldom used for this purpose.",
+        "description": "In-orbit assembly of structures is a task that must be performed by space-walking humans, and yet it is costly, time-consuming, and potentially dangerous. Assembly is well-suited to robots, but to date, robots have been seldom used for this purpose. Concerns for their practicality include questions about locomotion, localization, reusability, and robustness. I would like to research an assembly method that answers those concerns.  I propose to research a technique whereby assembly robots can adhere to, and crawl along, the surface of an incomplete structure in order to guide and attach structure elements. Through this process, a structure can be built without the assembly robots detaching until the structure is complete. I call this technique \"Intelligent Scaffolding\".  Intelligent scaffolds will be robots that can move themselves by grasping the structure, and can carry and attach structure elements. Because scaffold robots are always attached to the structure, advanced localization and locomotion are not needed, and therefore the cost and capabilities can be reduced. One single scaffold robot may build a structure, or a fleet of scaffold robots may coordinate.  My specific goals are to develop an algorithm that can compute an intelligent scaffolding assembly sequence for a structure composed of modular parts, and to validate this algorithm with robotic prototypes.  The development of the assembly algorithm began in September 2010. To date, I have only considered cubic structural elements and cubic scaffolds as a sandbox in which to test my algorithm. My early research shows that any connected structure composed of cubic elements must have a valid assembly sequence. The algorithm currently can design a path by which intelligent scaffold robots can assemble any finite structure.  I intend to build upon my initial algorithmic results: by expanding the assembly space to include arbitrary and heterogeneous shapes, and by handling geometric constraints. Constraints will include the size of the scaffold robots, the planning of paths to avoid collisions between objects, and preventing the scaffold robots from becoming trapped. I will consider scenarios in which delivery robots provide parts to the scaffolds, and scenarios in which the scaffold robots retrieve the parts from a pool. I believe that distributing grasping locations regularly along a structure decreases the need for a scaffold robot to see its surroundings.  The second phase of the proposed research is the testing of the intelligent scaffolding paradigm. This phase will see the construction of a number of capable intelligent scaffolding robots with graspers and servos, and the construction of dockable structure elements with grasping locations. I expect risks to include the challenge of designing a suitable docking device that can be operated by the robot, a robust connection and movement capability that ensures that the scaffold robot does not accidentally detach, and the time and monetary cost of building several prototypes.  Intelligent scaffolding may be an improvement to human construction for many reasons. The cost of operating a small number of scaffold robots is cheaper and safer than employing space-walking humans. They are less likely to enter their own orbit if they are always attached to the in-progress structure. Scaffold robots only require knowledge of their position on the structure, which can be discretized to grasping locations. They do not require jet propulsion, only servos and manipulators. Scaffold robots can be reused indefinitely.  I believe that self-assembly is an exciting and relatively new subset of robotics that holds enormous promise. I intend to make research in self-assembly my thesis topic, and together with my advisor, we believe intelligent scaffolding is a novel approach to self-assembly that can have wide-ranging benefits, from orbital and surface construction to micro-scale and smaller constructions.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 357474,
+                "firstName": "Nikolaus",
+                "lastName": "Correll",
+                "fullName": "Nikolaus Correll",
+                "fullNameInverted": "Correll, Nikolaus",
+                "primaryEmail": "nikolaus.correll@colorado.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 145166,
+                "firstName": "Erik",
+                "lastName": "Komendera",
+                "fullName": "Erik E Komendera",
+                "fullNameInverted": "Komendera, Erik E",
+                "middleInitial": "E",
+                "primaryEmail": "komendera@vt.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Autonomous Assembly of Structures in Space",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1719,
+                    "fileName": "4253-1363114694720",
+                    "fileSize": 194342,
+                    "objectId": 854,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1719,
+                        "fileName": "4253-1363114694720",
+                        "fileSize": 194342,
+                        "objectId": 854,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 854,
+                "title": "4253-1363114694720.jpg",
+                "description": "Project Image   Autonomous Assembly of Structures in Space",
+                "libraryItemTypeId": 1095,
+                "projectId": 4253,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1719,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 854,
+            "description": "Project Image   Autonomous Assembly of Structures in Space",
+            "projectId": 4253,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Boulder",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4423,
+                "organizationName": "University of Colorado Boulder",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "CO",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Colorado",
+                    "stateTerritoryId": 15
+                },
+                "stateTerritoryId": 15,
+                "murepUnitId": 126614,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CO",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Colorado",
+                "stateTerritoryId": 15
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

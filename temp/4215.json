@@ -1,0 +1,253 @@
+{
+    "project": {
+        "projectId": 4215,
+        "title": "Lightweight, Damage-Tolerant Radiator for In-Space Power and Propulsion",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10562,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10560,
+                "level": 3,
+                "code": "TX01.4.2",
+                "title": "Electromagnetic Tethers",
+                "definition": "Electromagnetic tethers are long, lightweight cables that produce thrust through the Lorentz force by carrying electrical current and interacting with a planetary magnetosphere.",
+                "exampleTechnologies": "Electromagnetic Tethers",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This project leverages preliminary work as the basis for designing a more refined implementation of lightweight, damage-tolerant thermal radiator for nuclear-electric propulsion.",
+        "description": "Nuclear-electric propulsion promises numerous advantages over other in-space propulsion technologies. However, one serious limitation is the mass of the radiator needed for the energy conversion system; the radiator can approach 40% of the vehicle's mass. A novel concept for a lightweight, damage-tolerant thermal radiator was developed at the University of Massachusetts. Preliminary models showed that this concept has the potential to meet or exceed the targets for radiated power per unit mass and per unit area that have been established by NASA for nuclear-electric spacecraft, significantly exceeding the performance of current radiators. It is proposed to use that preliminary work as the basis for designing a more refined implementation, constructing a laboratory model employing the novel architecture, testing it in vacuum chambers at NASA MSFC, and validating the modeled performance.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 400803,
+                "firstName": "Robert",
+                "lastName": "Hyers",
+                "fullName": "Robert W Hyers",
+                "fullNameInverted": "Hyers, Robert W",
+                "middleInitial": "W",
+                "primaryEmail": "robert.w.hyers@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 54310,
+                "firstName": "Briana",
+                "lastName": "Tomboulian",
+                "fullName": "Briana N Tomboulian",
+                "fullNameInverted": "Tomboulian, Briana N",
+                "middleInitial": "N",
+                "primaryEmail": "briana.n.tomboulian@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Lightweight, Damage-Tolerant Radiator for In-Space Power and Propulsion",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1787,
+                    "fileName": "4215-1363187820329",
+                    "fileSize": 194342,
+                    "objectId": 564,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1787,
+                        "fileName": "4215-1363187820329",
+                        "fileSize": 194342,
+                        "objectId": 564,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 564,
+                "title": "4215-1363187820329.jpg",
+                "description": "Project Image   Lightweight, Damage-Tolerant Radiator for In-Space Power and Propulsion",
+                "libraryItemTypeId": 1095,
+                "projectId": 4215,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1787,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 564,
+            "description": "Project Image   Lightweight, Damage-Tolerant Radiator for In-Space Power and Propulsion",
+            "projectId": 4215,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "UMASS",
+                "canUserEdit": false,
+                "city": "Amherst",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4000,
+                "organizationName": "University of Massachusetts-Amherst",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Massachusetts",
+                    "stateTerritoryId": 30
+                },
+                "stateTerritoryId": 30,
+                "murepUnitId": 166629,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "MA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Massachusetts",
+                "stateTerritoryId": 30
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

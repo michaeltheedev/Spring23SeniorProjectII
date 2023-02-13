@@ -1,0 +1,275 @@
+{
+    "project": {
+        "acronym": "SpaDE",
+        "projectId": 4347,
+        "title": "Space Debris Elimination",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10677,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10674,
+                "level": 3,
+                "code": "TX05.6.3",
+                "title": "Orbital Debris Mitigation",
+                "definition": "Orbital debris monitoring and collision avoidance limits collision activities, mitigates mission-ending risks to operational payloads, and mitigates risks to human space activities.",
+                "exampleTechnologies": "Robotics, sensors for high performance navigation architectures, space tubs, conductive or momentum-exchange tethers, drag augmentation devices, solid rocket moor de-orbit devices, solar sails, sensor systems that feed Light Detection and Ranging (LIDAR) and optical feature recognition data to guidance system including autonomous systems, mitigation and remediation technologies and characterization, lasers",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "SpaDE represents an unusual concept of operations in that it would be capable of addressing the problem of debris too small to be tracked by ground-based radar and yet large enough to damage or destroy space craft. SpaDE also would have the capability to address debris fields, acting to clear a volume of space without the possibility of the fratricidal generation of debris belts.",
+        "description": "The amount of debris in low Earth orbit (LEO) has increased rapidly over the last twenty years. This prevalence of debris increases the likelihood of cascading collisions that cause the debris generation rate to outstrip the rate at which debris deorbits, falling into the atmosphere and burning up. This accumulation creates debris belts that render many orbits unusable. Current strategies emphasize debris mitigation, as there is no practical method for debris removal. Raytheon BBN Technologies (BBN) and the University of Michigan will study the Space Debris Elimination (SpaDE) system to remove debris from orbit by firing focused pulses of atmospheric gases into the path of targeted debris. These pulses will increase drag sufficiently to cause the deorbit rate to exceed the debris generation rate. The pulses themselves will fall back into the atmosphere, leaving no residual trace in orbit to interfere with LEO satellites. In contrast to other proposed methods, SpaDE is failsafe, in that it places no solid material in orbit where a malfunction could create new debris. This project will conduct technology risk reduction analyses and modeling. The research will produce an academic paper and presentation describing the technical results and providing the foundation for future work, to include prototyping, field experiments and ultimately deployment of a SpaDE system.",
+        "destinations": [
+            {
+                "lkuCodeId": 1543,
+                "code": "EARTH",
+                "description": "Earth",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 2,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 96727,
+                "firstName": "Daniel",
+                "lastName": "Gregory",
+                "fullName": "Daniel Gregory",
+                "fullNameInverted": "Gregory, Daniel",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Space Debris Elimination (SpaDE)",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102291,
+                    "fileName": "15138",
+                    "fileSize": 121286,
+                    "objectId": 126853,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "121.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102291,
+                        "fileName": "15138",
+                        "fileSize": 121286,
+                        "objectId": 126853,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "121.3 KB"
+                    }
+                ],
+                "id": 126853,
+                "title": "15138.jpg",
+                "description": "Project Image   Space Debris Elimination (SpaDE)",
+                "libraryItemTypeId": 1095,
+                "projectId": 4347,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 7079,
+                "projectId": 4347,
+                "partner": "Other",
+                "transitionDate": "2015-02-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "In summary, SpaDE phase I has shown: 1. Perturbations at altitudes of approximately 80km can reach orbital debris at 600km 2. Expansion of the gas cloud propagates in the horizontal directions while keeping a compact vertical profile creating a disk 3. There is a leading shock wave the proceeds the pressure wave 4. Vertical velocity is required to move the mass to altitude 5. The sheer winds at 150km did not significantly affect the perturbation SpaDE phase I showed that a compressed mass of atmosphere would stay coherent for altitudes up to 600km. The model shows that the gas dynamics allow for the perturbation to reach altitude with sufficient density to affect debris. Higher altitudes should be possible but were not tested in this study. Being able to heat and accelerate a large mass of atmosphere at 80km would take a large amount of energy. The targeting aspect of space debris is reduced because of the large surface area that SpaDE is capable of producing. This surface area allows for lax timing in firing the perturbation and for compensating for the error of uncertainty in the debris position. These advantages are ideal for smaller debris (<10cm) targeting as well as fields of debris (i.e. multiple debris in close orbital proximity). SpaDE could be used for clearing a debris field after a satellite collision. There is a leading shock wave that precedes the main propagation of mass. This shock wave could be used to steer debris around hazards or potentially changing the apogee and perigee of the debris. Changing the apogee and perigee of the debris could be used for hazard avoidance or it could be used to deorbit the debris sooner. Studies need to be done to determine the vertical component required to affect debris. The initial vertical velocity of the perturbation follows ballistic trajectory. The GITM model is highly dependent on gravity and the effects of particles in the upper atmosphere that are affected by the gravitation force of the earth. SpaDE demonstrates that there is a relationship between the initial velocity and height of the perturbation. The SpaDE concept appears to be a viable concept that could help eliminating debris in the lower parts of LEO. Although the energy requirements are high, they are not impractical. More work should be done to make the system more efficient and effective. To advance SpaDE to TRL 3, we need to determine if the energy requirements can be reduced. Other modalities may help lower the energy requirements of the system and may provide additional performance benefits. Vortex rings, laminar flow, and simultaneous gravity waves appear to be promising modalities. Another area for future study would be to estimate the effects of the shock wave that propagates ahead of the main pressure wave. This shock wave could be used to change the trajectory of the debris without changing the debris velocity. For objects in near circular orbits, this would have the effect of increasing their perigees and lowering their apogees. Lowering apogee will increase drag because the object is moving faster through denser air for that part of its orbit. However, such action could have side effects, the most important being that the new ephemeris could interfere with operational satellites. Another possible side effect of the SpaDE concept is that debris could skip off the perturbation. This could deorbit the debris faster, but it might create risks to operational satellites. And finally, we would like to determine the extent to which we could control the effects of the perturbation; for example, whether it would be possible to consistently place debris over the Pacific Ocean during their final descent into atmosphere.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "February 2015"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102291,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126853,
+            "description": "Project Image   Space Debris Elimination (SpaDE)",
+            "projectId": 4347,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "canUserEdit": false,
+            "city": "",
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 2235,
+            "organizationName": "Raytheon Company",
+            "organizationType": "Industry",
+            "dunsNumber": "117455216",
+            "naorganization": false,
+            "organizationTypePretty": "Industry"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Ann Arbor",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2900,
+                "organizationName": "University of Michigan-Ann Arbor",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MI",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Michigan",
+                    "stateTerritoryId": 34
+                },
+                "stateTerritoryId": 34,
+                "murepUnitId": 170976,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "VA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Virginia",
+                "stateTerritoryId": 7
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Feb 2015",
+        "startDateString": "Sep 2011"
+    }
+}

@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4207,
+        "title": "Guidance and Control for Entry Vehicles with Deployable Hypersonic Decelerators",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10762,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10760,
+                "level": 3,
+                "code": "TX09.1.2",
+                "title": "Hypersonic Decelerators",
+                "definition": "Hypersonic decelerators are entry system components that generate and manage aerodynamic forces on the transiting spacecraft during AAE, principally drag for deceleration and lift for guidance and control. Traditionally, the decelerator is an enveloping rigid aeroshell that surrounds the payload. Other concepts include inflatable or mechanically deployed aerosurfaces either on the fore-facing spacecraft or trailing tethered devices. Hypersonic decelerators may be largely passive or actively controlled to achieve a desired trajectory while maintaining operational constraints on heating, deceleration rate, or other parameters.",
+                "exampleTechnologies": "Sample return capsules, entry vehicles with lift/drag (l/d) 0.4 to < 2.0, enhanced aerodynamics for slender vehicles, entry vehicles with lift/drag (l/d) > 2.0, aerodynamics modulation hardware, control modulation software, entry guidance software",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Numeric simulation, uncertainty analysis, and trade studies will be conducted in both areas in parallel to answer fundamental questions about the feasibility of DHD entry systems. Specifically, this research effort is expected to characterize the impact of DHDs on guidance and control subsystem design, develop preliminary DHD guidance and control system options and algorithms, determine realistic expectations for DHD vehicle performance, and identify additional applications for DHD vehicles beyond high-mass Mars missions.",
+        "description": "Entry, descent, and landing (EDL) missions to date have mostly relied on technology developed in the 1960s and 70s. Future EDL missions of interest at Earth, Mars, Venus, Titan, and the outer planets will require a significant increase in the performance capabilities of EDL systems. This increase in capability can only be achieved through the development of new EDL technologies, such as deployable hypersonic decelerators. As stated in NASA's draft Space Technology Roadmap, deployable hypersonic decelerators (DHDs) have the potential to revolutionize EDL systems, enabling NASA's next generation of exploration missions. However, significant feasibility questions remain about guidance and control systems for DHD vehicles. While NASA has embarked on a substantial inflatable DHD technology maturation effort over the past several years, very little development work has been completed for rigid deployable systems, and only limited work has been completed to date in the area of guidance and control for DHDs. Open guidance and control questions center around whether DHD vehicles possess adequate trajectory control authority to achieve mission objectives, such as precision landing, when high-altitude atmospheric variability, realistic flight control actuation systems, and FSI effects are included. At the EDL system level, realistic DHD vehicle performance capability has not yet been clearly determined. The proposed research revolves around two coupled areas of design and analysis: system-level mission design and performance analysis and subsystem-level guidance and control design and analysis. Numeric simulation, uncertainty analysis, and trade studies will be conducted in both areas in parallel to answer fundamental questions about the feasibility of DHD entry systems. Specifically, this research effort is expected to characterize the impact of DHDs on guidance and control subsystem design, develop preliminary DHD guidance and control system options and algorithms, determine realistic expectations for DHD vehicle performance, and identify additional applications for DHD vehicles beyond high-mass Mars missions.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 397708,
+                "firstName": "Robert",
+                "lastName": "Braun",
+                "fullName": "Robert D Braun",
+                "fullNameInverted": "Braun, Robert D",
+                "middleInitial": "D",
+                "primaryEmail": "robert.d.braun@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 503904,
+                "firstName": "Zachary",
+                "lastName": "Putnam",
+                "fullName": "Zachary R Putnam",
+                "fullNameInverted": "Putnam, Zachary R",
+                "middleInitial": "R",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Guidance and Control for Entry Vehicles with Deployable Hypersonic Decelerators",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1768,
+                    "fileName": "4207-1363184897644",
+                    "fileSize": 194342,
+                    "objectId": 460,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1768,
+                        "fileName": "4207-1363184897644",
+                        "fileSize": 194342,
+                        "objectId": 460,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 460,
+                "title": "4207-1363184897644.jpg",
+                "description": "Project Image   Guidance and Control for Entry Vehicles with Deployable Hypersonic Decelerators",
+                "libraryItemTypeId": 1095,
+                "projectId": 4207,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1768,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 460,
+            "description": "Project Image   Guidance and Control for Entry Vehicles with Deployable Hypersonic Decelerators",
+            "projectId": 4207,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "GA Tech",
+                "canUserEdit": false,
+                "city": "Atlanta",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 5029,
+                "organizationName": "Georgia Institute of Technology-Main Campus",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "GA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Georgia",
+                    "stateTerritoryId": 2
+                },
+                "stateTerritoryId": 2,
+                "murepUnitId": 139755,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "GA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Georgia",
+                "stateTerritoryId": 2
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

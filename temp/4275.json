@@ -1,0 +1,250 @@
+{
+    "project": {
+        "projectId": 4275,
+        "title": "Synthetic Biology for Extraterrestrial in Situ Resource Utilization (2)",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10723,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10721,
+                "level": 3,
+                "code": "TX07.1.2",
+                "title": "Resource Acquisition, Isolation, and Preparation",
+                "definition": "Resource acquisition, isolation, and preparation technologies access, extract, isolate, concentrate, modify, and purify resource-bearing materials in preparation for further processing. Resource-bearing materials include locally acquired materials and byproducts of mission operations that become available for recycling.",
+                "exampleTechnologies": "Instruments and devices functioning in the relevant gravity environment to: penetrate, cut, drill, extract, or excavate surface and subsurface regolith that is either resource-bearing or inert overburden; prepare granular regolith through grinding, crushing, sorting, and mixing; collect, filter, isolate, and accumulate resource-bearing atmospheric gases; collect, separate, and purify recyclable water and organic and inorganic by-products of mission operations; convey resource-bearing granular surface materials or atmospheric gases from the point of extraction to resource processing assets; separate target resources from extraterrestrial materials and gases including beneficiation and atmospheric gas separation; models and simulations to identify and quantify opportunities for systemic power reduction, durability, and reliability enhancements for resource acquisition systems",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The design of a cellular system suitable for resource utilization on extraterrestrial planetary surfaces using synthetic biology.  ",
+        "description": "Proposal to fund research into the design of a cellular system suitable for resource utilization on extraterrestrial planetary surfaces using synthetic biology.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 213880,
+                "firstName": "Jeffrey",
+                "lastName": "Tabor",
+                "fullName": "Jeffrey T Tabor",
+                "fullNameInverted": "Tabor, Jeffrey T",
+                "middleInitial": "T",
+                "primaryEmail": "jeffrey.t.tabor@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 298708,
+                "firstName": "Lucas",
+                "lastName": "Hartsough",
+                "fullName": "Lucas Hartsough",
+                "fullNameInverted": "Hartsough, Lucas",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Synthetic Biology for Extraterrestrial in Situ Resource Utilization (2)",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1831,
+                    "fileName": "4275-1363266547470",
+                    "fileSize": 194342,
+                    "objectId": 945,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1831,
+                        "fileName": "4275-1363266547470",
+                        "fileSize": 194342,
+                        "objectId": 945,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 945,
+                "title": "4275-1363266547470.jpg",
+                "description": "Project Image   Synthetic Biology for Extraterrestrial in Situ Resource Utilization (2)",
+                "libraryItemTypeId": 1095,
+                "projectId": 4275,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1831,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 945,
+            "description": "Project Image   Synthetic Biology for Extraterrestrial in Situ Resource Utilization (2)",
+            "projectId": 4275,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Houston",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 2854,
+                "organizationName": "Rice University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "TX",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Texas",
+                    "stateTerritoryId": 29
+                },
+                "stateTerritoryId": 29,
+                "murepUnitId": 227757,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "TX",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Texas",
+                "stateTerritoryId": 29
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

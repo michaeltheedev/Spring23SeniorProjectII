@@ -1,0 +1,252 @@
+{
+    "project": {
+        "projectId": 4291,
+        "title": "Control of Resident Space Objects through Eddy-Current Actuation",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10619,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10616,
+                "level": 3,
+                "code": "TX04.2.3",
+                "title": "Small-Body and Microgravity Mobility",
+                "definition": "Small-body and microgravity mobility provides surface coverage and in-situ access to designated targets on small bodies with low gravity, as well as in-space mobility inside and around the International Space Station (ISS) or other space assets. Major challenges include fine control of mobility platforms, power, communication, thermal cycling, and mobility in shadowed regions.",
+                "exampleTechnologies": "Free-floating robots, hopping/tumbling surface robots, anchoring robots, wheeled/tracked/hybrid robots",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This project aims to develop the physical and algorithmic bases for an actuator capable of providing six degrees of contactless actuation through the control of eddy currents.  Essentially all common methods of accurately manipulating macroscopic objects in space require direct physical contact, whether through linkages, wires or simple grapplers. The contact between an actuator and an object not specifically designed to accept the actuation can be dangerous: a grappler may apply excessive force and damage the object, or unanticipated movement of the target may result in a catastrophic collision. Current technology does not allow for actuation with multiple degrees of freedom without direct physical contact or receptors on both objects and closed loop control.",
+        "description": "Essentially all common methods of accurately manipulating macroscopic objects in space require direct physical contact, whether through linkages, wires or simple grapplers. The contact between an actuator and an object not specifically designed to accept the actuation can be dangerous: a grappler may apply excessive force and damage the object, or unanticipated movement of the target may result in a catastrophic collision. Current technology does not allow for actuation with multiple degrees of freedom without direct physical contact or receptors on both objects and closed loop control. Time-varying magnetic flux through a conductor can induce a current opposing the change in the magnetic flux, also known as an \"eddy current.\" The resulting force from the interaction between the eddy current and the changing magnetic field acts not only radially but also in three spatial directions. Additionally, eddy currents can be formed in any conductor, making them very useful in a space environment, where virtually all man-made objects, and a number of natural ones are composed of conductors. While eddy currents have been modeled for use in other applications, such as vibration damping , no previous work has attempted to model or implement them for use as an actuator. In order to solve the problem presented by a lack of accurate, contactless actuation, this work would use eddy currents in conductive materials to create six degree of freedom actuation. Key Objectives  The primary objective: to develop the physical and algorithmic bases for an actuator capable of providing six degrees of contactless actuation through the control of eddy currents.  This goal comprises several smaller key objectives:  Identify the most efficient system for generating magnetic fields with controllable rates of change  Develop a model of eddy current dynamics and the resulting forces on a conductor in a space environment  Design a control system for the eddy current actuator  Implement a prototype control system and actuator",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 319695,
+                "firstName": "Mason",
+                "lastName": "Peck",
+                "fullName": "Mason A Peck",
+                "fullNameInverted": "Peck, Mason A",
+                "middleInitial": "A",
+                "primaryEmail": "mason.a.peck@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 41115,
+                "firstName": "Benjamin",
+                "lastName": "Reinhardt",
+                "fullName": "Benjamin Z Reinhardt",
+                "fullNameInverted": "Reinhardt, Benjamin Z",
+                "middleInitial": "Z",
+                "primaryEmail": "bzr3@cornell.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Control of Resident Space Objects through Eddy-Current Actuation",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1735,
+                    "fileName": "4291-1363119338776",
+                    "fileSize": 194342,
+                    "objectId": 634,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1735,
+                        "fileName": "4291-1363119338776",
+                        "fileSize": 194342,
+                        "objectId": 634,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 634,
+                "title": "4291-1363119338776.jpg",
+                "description": "Project Image   Control of Resident Space Objects through Eddy-Current Actuation",
+                "libraryItemTypeId": 1095,
+                "projectId": 4291,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1735,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 634,
+            "description": "Project Image   Control of Resident Space Objects through Eddy-Current Actuation",
+            "projectId": 4291,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Ithaca",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3009,
+                "organizationName": "Cornell University",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "NY",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "New York",
+                    "stateTerritoryId": 55
+                },
+                "stateTerritoryId": 55,
+                "murepUnitId": 190415,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "NY",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "New York",
+                "stateTerritoryId": 55
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

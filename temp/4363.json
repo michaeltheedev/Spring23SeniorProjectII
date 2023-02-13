@@ -1,0 +1,262 @@
+{
+    "project": {
+        "projectId": 4363,
+        "title": "Printable Spacecraft: Flexible Electronic Platforms for NASA Missions",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10744,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10740,
+                "level": 3,
+                "code": "TX08.1.4",
+                "title": "Microwave, Millimeter-, and Submillimeter-Waves",
+                "definition": "Microwave and radio transmitter and receiver component technologies for the 30 kHz to 10 THz range include integrated radar transmitter/ receiver (T/R) modules and integrated radiometer receivers, active microwave instruments (radar), passive radiometers (microwave and infrared), and crosscutting technologies such as radiation-hardened electronics.",
+                "exampleTechnologies": "Laser heterodyne and gas correlation radiometers, low noise receivers, transmit/receive modules, couplers/combiners, isolators, amplifiers, filters, antennas, waveguide components",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "<p>This innovative architecture offers the potential of tremendous benefits such as shortened design and development schedules, significantly reduced cost, mass and volume and true mass production. These benefits and the novel design approach can be translated directly into mission level advantages such as increased density for network missions, surface systems that land themselves, and multifunctional integrated surfaces. With this revolutionary capability, NASA would be able to dramatically improve performance, flexibility, weight, cost, schedule, reliability and operational simplicity for many scientific missions and support for human exploration.</p>",
+        "description": "<p>Imagine editing a design file on your laptop, uploading it to a specialty printer and collecting your spacecraft in the output tray later in the day. Flexible printed electronics have revolutionized consumer products such as cellular phones and PDAs, allowing greater functionality with decreasing size and weight. Perhaps the same can be done for NASA spacecraft. This study will explore the concept of designing and fabricating a spacecraft based entirely on flexible substrate printed electronics. The study will consider mission requirements, manufacturing compatibility and advanced technology from both industry and academia.</p>",
+        "destinations": [
+            {
+                "lkuCodeId": 1548,
+                "code": "FOUNDATIONAL_KNOWLEDGE",
+                "description": "Foundational Knowledge",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 267803,
+                "firstName": "Kendra",
+                "lastName": "Short",
+                "fullName": "Kendra L Short",
+                "fullNameInverted": "Short, Kendra L",
+                "middleInitial": "L",
+                "primaryEmail": "kendra.l.short@jpl.nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image Printable Spacecraft",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102120,
+                    "fileName": "15132",
+                    "fileSize": 24314,
+                    "objectId": 126628,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "24.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102120,
+                        "fileName": "15132",
+                        "fileSize": 24314,
+                        "objectId": 126628,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "24.3 KB"
+                    }
+                ],
+                "id": 126628,
+                "title": "15132.jpg",
+                "description": "Project Image Printable Spacecraft",
+                "libraryItemTypeId": 1095,
+                "projectId": 4363,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 7053,
+                "projectId": 4363,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "In this report, we have documented the findings of the Phase One task entitled Printable Spacecraft. We met the goals set forth in the task proposal and plan to extend the activities further in the recently awarded Phase Two task. In this report we provided a general overview of the industry and the commercial applications of printed electronics. We assessed the potential applications to scientific missions and engineering applications. We provided a brief evaluation of the state of the art in industry for the functional areas required on a printed spacecraft. We considered key technology advancements that are critical for NASA applications and offered areas where NASA may play a vital role. Finally, we candidly acknowledged the potential limitations and risks of a printed spacecraft. Several critical conclusions were reached that were speculative at the start of the project. These have been revealed through the material in this report but are summarized below. 1. The idea of designing and manufacturing an end to end spacecraft from printed electronics is within reach for the industry. A spacecraft represents the high end of integrated systems being considered today, and near term platforms would need to be architected in a way compatible with the existing state of the art. But within a ten year horizon, increased functionality is guaranteed. 2. Materials development is the most critical aspect in this field. It impacts the performance of devices, survivability in environments and manufacturability. NASA should stay aware of new developments and invest in NASA unique or critical developments as the cornerstone of new spacecraft capabilities. 3. Product development by industry is driven by commercial viability. Investment in certain key technologies may be delayed, stymied or even dropped due to the inability to be cost effective. NASA would need to provide sufficiently strong product pull to continue development by industry and academia in the technologies that may prove most valuable for NASA applications. 4. Much like in industry, the application of printed electronics to science missions must compete on its value proposition. What can it do cheaper, better, uniquely? Mission architecting and programmatic trades have to be part of the decision making process for when and how to apply printed systems to a science mission. Up until that point, opportunities abound for lab developments and low risk/low cost flight demonstrations of printed platforms. 5. NASA's must focus critical attention on the three things that will likely never be inherited from the printed electronics industry: spacecraft system design, space environments compatibility, and scientifically valuable instruments and sensors.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102120,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126628,
+            "description": "Project Image Printable Spacecraft",
+            "projectId": 4363,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "JPL",
+            "canUserEdit": false,
+            "city": "Pasadena",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4946,
+            "organizationName": "Jet Propulsion Laboratory",
+            "organizationType": "NASA_Center",
+            "stateTerritory": {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            },
+            "stateTerritoryId": 59,
+            "naorganization": false,
+            "organizationTypePretty": "NASA Center"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

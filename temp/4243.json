@@ -1,0 +1,305 @@
+{
+    "project": {
+        "projectId": 4243,
+        "title": "Automated Trajectory Design Using Resonant Dynamics",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10995,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10990,
+                "level": 3,
+                "code": "TX17.5.5",
+                "title": "Vehicle Flight Dynamics and Mission Design Tools/Techniques\t",
+                "definition": "This area covers technologies for the design and optimization of space vehicle and air vehicle trajectories, including technologies for new mission design tools and associated mission design techniques that optimize mission/vehicle performance. ",
+                "exampleTechnologies": "Computationally efficient trajectory and attitude optimization tools for onboard use, improved trajectory and mission design tools and visualization methods for faster trajectory, vehicle, and mission design cycles",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "This will enable automated, on-board trajectory redesigns to allow for autonomous and safer missions. In particular, this will benefit high priority NASA missions such as a Europa and Outer Planet Moon orbiters as well as Manned Missions to small bodies as a stepping stone to Mars.",
+        "description": "The goal of this project is to map spacecraft transit routes through resonances. This will enable automated, on-board trajectory redesigns to allow for autonomous and safer missions. In particular, this will benefit high priority NASA missions such as a Europa and Outer Planet Moon orbiters as well as Manned Missions to small bodies as a stepping stone to Mars.  Current missions and future mission concepts such as Dawn and the various Europa orbiter proposals have indicated that resonant regions near small bodies and planetary moons exhibit fast acting orbital instabilities. This may prevent mission designers on Earth from having time to issue new commands. The availability of autonomous targeting methods related to these dynamics would provide a systematic means for taking advantage of resonant regions and mitigate the associated risk.  While spacecraft will not have the time or computational power to completely plan new trajectories from scratch, there is another method. We propose to create a database of key routes that will be organized using the language of symbolic dynamics. Advances in libration point dynamics have shown that transit orbits can be classified in this way and our intent is to extend this to other resonant regions. Finite automata and fast search techniques will be used to select a seed trajectory that accomplishes the necessary goal. This will then be differentially corrected to the exact conditions to yield an accurate path that will direct the spacecraft.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 269628,
+                "firstName": "Kenneth",
+                "lastName": "Mease",
+                "fullName": "Kenneth Mease",
+                "fullNameInverted": "Mease, Kenneth",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 144249,
+                "firstName": "Eric",
+                "lastName": "Trumbauer",
+                "fullName": "Eric Trumbauer",
+                "fullNameInverted": "Trumbauer, Eric",
+                "primaryEmail": "etrumbau@uci.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Automated Trajectory Design Using Resonant Dynamics",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1717,
+                    "fileName": "4243-1363114106810",
+                    "fileSize": 194342,
+                    "objectId": 895,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1717,
+                        "fileName": "4243-1363114106810",
+                        "fileSize": 194342,
+                        "objectId": 895,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 895,
+                "title": "4243-1363114106810.jpg",
+                "description": "Project Image   Automated Trajectory Design Using Resonant Dynamics",
+                "libraryItemTypeId": 1095,
+                "projectId": 4243,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1717,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 895,
+            "description": "Project Image   Automated Trajectory Design Using Resonant Dynamics",
+            "projectId": 4243,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "acronym": "Berkeley",
+                "canUserEdit": false,
+                "city": "Berkeley",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4340,
+                "organizationName": "University of California-Berkeley",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "CA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "California",
+                    "stateTerritoryId": 59
+                },
+                "stateTerritoryId": 59,
+                "murepUnitId": 110635,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            },
+            {
+                "canUserEdit": false,
+                "city": "Irvine",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4344,
+                "organizationName": "University of California-Irvine",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "CA",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "California",
+                    "stateTerritoryId": 59
+                },
+                "stateTerritoryId": 59,
+                "msiData": {
+                    "2017": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2018": [
+                        "Hispanic Serving Institutions (HSI)",
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2019": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2020": [
+                        "Asian American Native American Pacific Islander (AANAPISI)",
+                        "Hispanic Serving Institutions (HSI)"
+                    ],
+                    "2021": [
+                        "Asian American Native American Pacific Islander (AANAPISI)",
+                        "Hispanic Serving Institutions (HSI)"
+                    ],
+                    "2022": [
+                        "Asian American Native American Pacific Islander (AANAPISI)",
+                        "Hispanic Serving Institutions (HSI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 110653,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

@@ -1,0 +1,299 @@
+{
+    "project": {
+        "projectId": 4355,
+        "title": "Contour Crafting Simulation Plan for Lunar Settlement Infrastructure Build-Up",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10729,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10726,
+                "level": 3,
+                "code": "TX07.2.3",
+                "title": "Surface Construction and Assembly",
+                "definition": "Surface construction and assembly covers technologies for construction, assembly, disassembly, and reverse assembly of surface structures, including both traditional construction, assembly, and disassembly concepts and advanced systems.",
+                "exampleTechnologies": "Instruments and devices functioning in the relevant gravity environment, including consolidation and stabilization of regolith on large scales, including microwave and concentrated solar irradiation and the addition of physical or chemical additives; manufacturing of structural elements using feedstock derived from locally-produced and recycled materials; assembly of structural and environmental barrier systems from terrestrially-delivered and/or locally-derived elements; quality assurance and mission suitability of structural elements and environmental barrier systems constructed and assembled in-situ. Also includes design tools configured to accommodate broad-specification feedstock properties into design safety factors and manufacturing tolerances for construction and assembly systems, human-robotics (e.g. low-latency telerobotics), autonomous robotic systems",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 1,
+        "currentTrl": 2,
+        "endTrl": 2,
+        "benefits": "This project hopes to enable economically viable and reliable building systems and tool sets for extraterrestrial infrastructure buildup.",
+        "description": "Economically viable and reliable building systems and tool sets are being sought, examined, and tested for extraterrestrial habitat and infrastructure buildup. This proposal uses a unique architecture weaving an automated building technology called Contour Crafting (CC) with designs for assisting rapid buildup of an initial operational capability lunar base. Using CC technology, this proposal intends to draw up a detailed plan for a high-fidelity simulation at NASA's Desert Research and Technology Studies (D-RATS) facility, to construct certain crucial infrastructure elements in order to evaluate the merits, limitations, and feasibility of adapting and using the CC technology for extraterrestrial application. Elements suggested to be built and tested include roads, landing pads and aprons, shade walls, dust barriers, thermal and mm protection shields and dust-free platforms as well as other built-up structures utilizing the well known in-situ resource utilization (ISRU) strategy. Several unique systems including the Lunar Electric Rover, the unpressurized Chariot rover, the versatile light-weight crane, and Tri-Athlete cargo transporter as well as the habitat module mockups and a new generation of spacesuits are undergoing coordinated tests at NASA's D-RATS. This proposal intends to draw up a detailed synergetic plan to utilize these maturing systems coupled with the CC fabrication technology, tailored for swift and reliable lunar infrastructure development. This proposal intends to increase astronaut safety, improve buildup performance, ameliorate lunar dust interference and concerns, and attempts to reduce time-to-commission, all in an economic manner. As part of this proposal, a figure-of-merit methodology will be created and employed to gain some quantitative insight into the efficiency of using the CC technology to augment these other systems already in place.",
+        "destinations": [
+            {
+                "lkuCodeId": 1544,
+                "code": "THE_MOON",
+                "description": "The Moon",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 39450,
+                "firstName": "Behrokh",
+                "lastName": "Khoshnevis",
+                "fullName": "Behrokh Khoshnevis",
+                "fullNameInverted": "Khoshnevis, Behrokh",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Contour Crafting Simulation Plan for Lunar Settlement Infrastructure Build-Up",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102085,
+                    "fileName": "15118",
+                    "fileSize": 155598,
+                    "objectId": 126589,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "155.6 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102085,
+                        "fileName": "15118",
+                        "fileSize": 155598,
+                        "objectId": 126589,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "155.6 KB"
+                    }
+                ],
+                "id": 126589,
+                "title": "15118.jpg",
+                "description": "Project Image   Contour Crafting Simulation Plan for Lunar Settlement Infrastructure Build-Up",
+                "libraryItemTypeId": 1095,
+                "projectId": 4355,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 7052,
+                "projectId": 4355,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "We feel fortunate to have received the NIAC Phase-II grant which has given us the opportunity to continue to work on this exciting and rewarding project. We have numerous new ideas that we would like to attempt and implement in the course of our current NIAC project. In addition to research that will advance the maturity of the proposed architecture, we anticipate other divisions of NASA to be interested in expanding the robotic construction methods that we will develop to build other types of ISRU basedmcomponents beyond basic infrastructure. Robotic construction technologies could build tools, other robots, scientific equipment and many other objects that can be formed from excavated and processedmextraterrestrial materials. We also anticipate major contributions by robotics and co-robotics researchersmat NASA divisions to integrate our proven fabrication technologies with space-worthy advanced class of NASA robotics hardware and intelligent software. Once such integration materializes excitingdemonstrations at D-RATS will be performed and following successful demonstration and refinement the ultimate dream of actual Lunar settlement construction will be realized. A robotic construction system can also provide tremendous benefits for human habitation on Earth. Construction is the last frontier of human endeavor to be automated. Automated building technologies will revolutionize the way structures are built on Earth, in dense urban environments, in difficult-to-buildand difficult-to-service sites, or in remote and hostile regions of the globe. The technologies under development by our group have the potential to simplify construction logistics, reduce the need for hard physical labor by assigning humans to a strictly supervisory role, eliminate issues relating to human safety, and produce intricate and aesthetically refined designs and structures at significantly reduced construction cost. Space architecture in general and Lunar and Martian structures in particular will also provide a rich new aesthetic vocabulary for architects to employ in the design and creation of buildings that employ high technology and building information modeling that is vital for optimizing use of materials and energy that is critical to building economics. We anticipate this NIAC initiated endeavor to ultimately lead to revolutionizing construction on our planet and significantly impacting the quality of life for billions of people and improving the state of the earth environment. The recently published Roadmap for US Robotics has identified several key areas and related enabling technologies for co-robotics which will result in US economic expansion. Robotic construction falls into two categories of manufacturing and professional services identified in that Roadmap. The economics of the proposed approach will enable the construction of durable, low-cost housing in the US and worldwide, and can enable much faster disaster recovery. Replacing human workers with robots on construction sites will reduce the injuries and fatalities of construction, which has long been recognized as the most hazardous occupation. Some of the specific proposed research modules will also have broad impacts. For example, construction using sand and without the use of water would be extremely useful for dry climates, and the work on radiation shielding may lead to terrestrial benefits such as improved and more economical shielding at nuclear power plants and nuclear waste storage sites. Student involvement will develop uniquely experienced future US construction robotic engineers and researchers.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102085,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126589,
+            "description": "Project Image   Contour Crafting Simulation Plan for Lunar Settlement Infrastructure Build-Up",
+            "projectId": 4355,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "USC",
+            "canUserEdit": false,
+            "city": "Los Angeles",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": true,
+            "linkCount": 0,
+            "organizationId": 816,
+            "organizationName": "University of Southern California",
+            "organizationType": "Academia",
+            "stateTerritory": {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            },
+            "stateTerritoryId": 59,
+            "msiData": {
+                "2017": [
+                    "Asian American Native American Pacific Islander (AANAPISI)"
+                ]
+            },
+            "setAsideData": [],
+            "murepUnitId": 123961,
+            "naorganization": false,
+            "organizationTypePretty": "Academia"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Urbana",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3999,
+                "organizationName": "University of Illinois at Urbana-Champaign",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "IL",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Illinois",
+                    "stateTerritoryId": 39
+                },
+                "stateTerritoryId": 39,
+                "murepUnitId": 145637,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CA",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "California",
+                "stateTerritoryId": 59
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

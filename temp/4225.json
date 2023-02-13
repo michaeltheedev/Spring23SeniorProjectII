@@ -1,0 +1,266 @@
+{
+    "project": {
+        "projectId": 4225,
+        "title": "Consistent Particle-Continuum Modeling and Simulation of Flows in Strong Thermochemical Nonequilibrium",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10775,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10770,
+                "level": 3,
+                "code": "TX09.4.5",
+                "title": "Modeling and Simulation for EDL",
+                "definition": "Modeling and simulation for EDL refers to the computer codes, underlying physical models, and processes that enable configuration definition and design verification and validation for systems that\u2014short of a full scale flight test\u2014cannot be tested exactly in the configuration and environment for which it is intended to operate. The models cover both the environmental response to the presence of the system in operation, and the operational performance of the system in the environment. A key concern is understanding and modeling of interactions between rocket plumes and the ground.",
+                "exampleTechnologies": "Multi-disciplinary coupled analysis tools, aerothermodynamics modeling, ablative material response models, non-ablative material response models, TPS quantification models and processes, numerical methodologies and techniques, autonomous aerobraking, orbital debris entry and breakup modeling, meteor entry and breakup modeling, Fluid Structure Interaction (FSI) tools, SRP modeling tools, aerodynamic modeling tools, plume-surface interaction, multi-scale simulation tools",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The result of this project will be a fully capable hybrid CFD-DSMC code that can be applied to a wide range of actual NASA engineering applications. This new technology will constitute an accurate but general tool for solving a wide range of hypersonic flow problems spanning free-molecular to continuum.",
+        "description": "During hypersonic entry into a planetary atmosphere, a spacecraft transitions from free-molecular flow conditions to fully continuum conditions. When modeling and predicting the aerothermal environment encompassing the vehicle, the direct simulation Monte Carlo (DSMC) particle method is used for the rarefied regime, whereas computational fluid dynamics (CFD) methods are used in the continuum regime. However, even within a mainly continuum flow, there may be local regions of nonequilibrium (rarefied flow) where the DSMC method is required for accuracy. Such regions include sharp leading edges, backshells of capsules, shock interactions, and possibly boundary layers. Similarly, in space, rocket plume flows transition from continuum inside the nozzle to rarefied in the plume. When rocket plumes resulting from on-orbit maneuvers impinge on other spacecraft surfaces, or when landing on a planetary (or asteroid) surface that has little atmosphere, the plume can become continuum again. For accurate simulation of such flows, a hybrid CFD-DSMC technique is required. This situation also arises in retro-rocket deceleration and aero-assist maneuvers high in a planetary atmosphere. Substantial progress has been made on such a coupled algorithm over the past decade, to the point where 2D/axi-symmetric flows with thermal nonequilibrium can be solved accurately. However, the applications for which a hybrid method is practically useful are flows where pure DSMC simulation is intractable. This inherently involves complex 3D flows at high speeds where chemical reactions occur. Currently, chemical models used in DSMC and CFD do not seem to agree in the continuum (overlap) regime as required for a robust hybrid method. This project will investigate consistent particle-continuum chemistry models and then implement these models within a hybrid method. This will involve developing methods for averaging over trace species in DSMC in order to provide low-scatter averaged values for CFD regions of the flow. The project will also seek to maintain particle and continuum simulation meshes completely decoupled which will be required for tackling 3D complex geometry flows. This will involve investigation of mesh interpolation strategies that conserve mass, momentum, and energy. The result of this project will be a fully capable hybrid CFD-DSMC code that can be applied to a wide range of actual NASA engineering applications. This new technology will constitute an accurate but general tool for solving a wide range of hypersonic flow problems spanning free-molecular to continuum.",
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 465895,
+                "firstName": "Thomas",
+                "lastName": "Schwartzentruber",
+                "fullName": "Thomas Schwartzentruber",
+                "fullNameInverted": "Schwartzentruber, Thomas",
+                "primaryEmail": "schwartz@aem.umn.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 58038,
+                "firstName": "Byron",
+                "lastName": "Edgar",
+                "fullName": "Byron T Edgar",
+                "fullNameInverted": "Edgar, Byron T",
+                "middleInitial": "T",
+                "primaryEmail": "byron.t.edgar@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Consistent Particle-Continuum Modeling and Simulation of Flows in Strong Thermochemical Nonequilibrium",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1734,
+                    "fileName": "4225-1363119186518",
+                    "fileSize": 194342,
+                    "objectId": 443,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1734,
+                        "fileName": "4225-1363119186518",
+                        "fileSize": 194342,
+                        "objectId": 443,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 443,
+                "title": "4225-1363119186518.jpg",
+                "description": "Project Image   Consistent Particle-Continuum Modeling and Simulation of Flows in Strong Thermochemical Nonequilibrium",
+                "libraryItemTypeId": 1095,
+                "projectId": 4225,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1734,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 443,
+            "description": "Project Image   Consistent Particle-Continuum Modeling and Simulation of Flows in Strong Thermochemical Nonequilibrium",
+            "projectId": 4225,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Minneapolis",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3213,
+                "organizationName": "University of Minnesota-Twin Cities",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "MN",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Minnesota",
+                    "stateTerritoryId": 25
+                },
+                "stateTerritoryId": 25,
+                "msiData": {
+                    "2019": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2020": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2021": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ],
+                    "2022": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 174066,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "MN",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Minnesota",
+                "stateTerritoryId": 25
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Sep 2011"
+    }
+}

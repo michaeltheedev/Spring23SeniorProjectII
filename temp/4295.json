@@ -1,0 +1,250 @@
+{
+    "project": {
+        "projectId": 4295,
+        "title": "Reduced Order Electrostatic Force Field Modeling of 3D Spacecraft Shapes",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10639,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10632,
+                "level": 3,
+                "code": "TX04.5.7",
+                "title": "Modeling, Simulation, Analysis, and Test of Rendezvous, Proximity Operations, and Capture",
+                "definition": "Technologies/techniques for the development of advanced software tools to model, simulate and analyze the dynamic response of space vehicles, robotic manipulators, and other capture systems to forces exerted by actuators (e.g. thrusters, wheels, motors), the environment, or an active spacecraft on a nearby object (contact dynamics, thruster plume impingement). Also included are technologies for the development of modern ground-based guidance navigation and control (GN&C), robotic, and capture motion simulation testbeds.",
+                "exampleTechnologies": "Multi-vehicle closed loop hi-fidelity attitude and orbit simulation; capture contact dynamics; flexible modes analysis; finite element modeling (FEM) analysis; proximity operations thruster plume impingement modeling and analysis; robotic manipulator kinematic simulation (reach and access, etc.); robotic manipulator high fidelity dynamics simulation of capture and berthing; relative navigation sensor hardware-in-the-loop (HWIL) testing of vehicle and small body proximity operations; grapple, berthing, docking, and small body contact (Touch-and-Go (TAG)/landing) HWIL testing with high fidelity 6DOF motion and contact dynamics; high fidelity synthetic image generation for testing of vehicle- and terrain-relative pose/nav estimation systems",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "Certain spaceflight applications lend themselves very logically to the close proximity charge control problem. As large space missions progress beyond Earth orbit and require more and more propellant to reach their destination, rendezvous with permanent refueling stations may become necessary for mission success, and Coulomb charging is one option to achieve accurate docking. Moreover, to ensure external integrity, spacecraft may wish to deploy small cameras or other robotic devices that can optimally be controlled with Coulomb charging, but are too close to ignore 3D charge effects. Lastly, spacecraft can use electrostatic forces to deorbit space debris in an ever cluttered space environment and achieve improved Space Situational Awareness. Current and future formation flight missions that could benefit from Coulomb force control include PRISMA, NASA's proposed terrestrial planet finder and stellar imager concepts, and ESA's Darwin mission.",
+        "description": "The Autonomous Vehicles Systems (AVS) Lab at CU Boulder has been pursuing research in Coulomb charge control of spacecraft for several years. The electrostatic potential of a craft can be controlled very accurately and near instantaneously by the continuous emission of positively or negatively charged particles. For spacecraft in a geosynchronous orbit or beyond, where the resulting electric fields are large enough to overcome the Debye shielding from the relatively low plasma environment, the interaction forces between multiple charged bodies can be used to significantly alter their relative motion. We are currently verifying these theories with a custom test bed that allows for positional control of a charged conductor suspended on a frictionless track. As of yet, all the models and experiments treat the spacecraft as perfectly conducting spheres, an assumption that will break down when non-spherical charged bodies interact with separation distances on the order of spacecraft dimensions, as is the case for many of the practical applications of this technology.  Full analytical solutions for the 3D electrostatic fields and forces from interacting non-uniform charged bodies are not available. Near exact solutions can be determined using finite element methods, but these numerical methods are too computationally expensive to employ within a control loop for constantly moving physical bodies. There are two suggested approaches that have the potential to provide useable reduced order models for the electrostatic force fields from 3D spacecraft shapes. The first relies on a theory that the total force on a conductor can be established from the surface charge distribution or adjacent electric fields alone. Measuring one or the other will allow for full force determination. The proposed research will require characterization of the necessary sensor specifications and feasibility of utilizing any suggested hardware. The second approach involves approximating a full 3D charged object with a collection of spherical conductors, whose parameters are chosen to match the full numerical solution. Since the parameters of the reduced order model have a non-linear relation to the electrostatic forces, a differential correction method will need to be implemented for proper curve fitting. The current AVS test bed is to be expanded to conduct experiments that verify the dynamics and control theory derived from these models.  Certain spaceflight applications lend themselves very logically to the close proximity charge control problem. As large space missions progress beyond Earth orbit and require more and more propellant to reach their destination, rendezvous with permanent refueling stations may become necessary for mission success, and Coulomb charging is one option to achieve accurate docking. Moreover, to ensure external integrity, spacecraft may wish to deploy small cameras or other robotic devices that can optimally be controlled with Coulomb charging, but are too close to ignore 3D charge effects. Lastly, spacecraft can use electrostatic forces to deorbit space debris in an ever cluttered space environment and achieve improved Space Situational Awareness. Current and future formation flight missions that could benefit from Coulomb force control include PRISMA, NASA's proposed terrestrial planet finder and stellar imager concepts, and ESA's Darwin mission.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 175012,
+                "firstName": "Hanspeter",
+                "lastName": "Schaub",
+                "fullName": "Hanspeter Schaub",
+                "fullNameInverted": "Schaub, Hanspeter",
+                "primaryEmail": "hanspeter.schaub@colorado.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 92786,
+                "firstName": "Daan",
+                "lastName": "Stevenson",
+                "fullName": "Daan Stevenson",
+                "fullNameInverted": "Stevenson, Daan",
+                "primaryEmail": "daan.stevenson@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Reduced Order Electrostatic Force Field Modeling of 3D Spacecraft Shapes",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1815,
+                    "fileName": "4295-1363263836193",
+                    "fileSize": 194342,
+                    "objectId": 857,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1815,
+                        "fileName": "4295-1363263836193",
+                        "fileSize": 194342,
+                        "objectId": 857,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 857,
+                "title": "4295-1363263836193.jpg",
+                "description": "Project Image   Reduced Order Electrostatic Force Field Modeling of 3D Spacecraft Shapes",
+                "libraryItemTypeId": 1095,
+                "projectId": 4295,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1815,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 857,
+            "description": "Project Image   Reduced Order Electrostatic Force Field Modeling of 3D Spacecraft Shapes",
+            "projectId": 4295,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Boulder",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 4423,
+                "organizationName": "University of Colorado Boulder",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "CO",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Colorado",
+                    "stateTerritoryId": 15
+                },
+                "stateTerritoryId": 15,
+                "murepUnitId": 126614,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "CO",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Colorado",
+                "stateTerritoryId": 15
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}

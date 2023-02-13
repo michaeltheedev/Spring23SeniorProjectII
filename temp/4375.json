@@ -1,0 +1,272 @@
+{
+    "project": {
+        "projectId": 4375,
+        "title": "Proposal for a Concept Assessment of a Fission Fragment Rocket Engine (FFRE) Propelled Spacecraft",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10669,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10667,
+                "level": 3,
+                "code": "TX05.4.2",
+                "title": "Revolutionary Position, Navigation, and Timing Technologies",
+                "definition": "Revolutionary PNT technologies are navigational concepts and technologies that have the potential to enable \u201cgame changing\u201d capabilities for future mission architectures.",
+                "exampleTechnologies": "X-Ray navigation, neutrino-based navigation and tracking technologies",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The Fission Fragment Rocket Engine (FFRE), has the potential to free interplanetary space travel from the demands placed on system design and operation by chemical, electric, or nuclear thermal propupulsion technology by requiring small amounts of readily available, energy dense, long lasting fuel, significant thrust at specific impulse of a million seconds, and increasing safety by charging the reactor after arrival in LEO. To bring this technology into consideration requires studies of FFRE design and integration into a host vehicle. This proposal details an initial study. If this study shows the FFRE potential, the return could be immense through savings in travel time, payload fraction, launch vehicle support and safety for deep space exploration.",
+        "description": "A new technology, the Fission Fragment Rocket Engine (FFRE), requires small amounts of readily available, energy dense, long lasting fuel, significant thrust at specific impulse of a million seconds, and increases safety by charging the reactor after arrival in LEO. If this study shows the FFRE potential, the return could be immense through savings in travel time, payload fraction, launch vehicle support and safety for deep space exploration.",
+        "destinations": [
+            {
+                "lkuCodeId": 1546,
+                "code": "INSIDE_SOLAR_SYSTEM",
+                "description": "Others Inside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            },
+            {
+                "lkuCodeId": 1547,
+                "code": "OUTSIDE_SOLAR_SYSTEM",
+                "description": "Outside the Solar System",
+                "lkuCodeTypeId": 526,
+                "lkuCodeType": {
+                    "codeType": "DESTINATION_TYPE",
+                    "description": "Destination Type"
+                }
+            }
+        ],
+        "startYear": 2011,
+        "startMonth": 9,
+        "endYear": 2012,
+        "endMonth": 9,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 405894,
+                "firstName": "Robert",
+                "lastName": "Werka",
+                "fullName": "Robert O Werka",
+                "fullNameInverted": "Werka, Robert O",
+                "middleInitial": "O",
+                "primaryEmail": "robert.o.werka@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 205653,
+                "firstName": "Jason",
+                "lastName": "Derleth",
+                "fullName": "Jason E Derleth",
+                "fullNameInverted": "Derleth, Jason E",
+                "middleInitial": "E",
+                "primaryEmail": "jason.e.derleth@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 142364,
+                "firstName": "Eric",
+                "lastName": "Eberly",
+                "fullName": "Eric A Eberly",
+                "fullNameInverted": "Eberly, Eric A",
+                "middleInitial": "A",
+                "primaryEmail": "eric.eberly@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "libraryItems": [
+            {
+                "caption": "Project Image   Proposal for a Concept Assessment of a Fission Fragment Rocket Engine (FFRE) Propelled Spacecraft",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 102272,
+                    "fileName": "5133",
+                    "fileSize": 55541,
+                    "objectId": 126833,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "55.5 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 102272,
+                        "fileName": "5133",
+                        "fileSize": 55541,
+                        "objectId": 126833,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "55.5 KB"
+                    }
+                ],
+                "id": 126833,
+                "title": "5133.jpg",
+                "description": "Project Image   Proposal for a Concept Assessment of a Fission Fragment Rocket Engine (FFRE) Propelled Spacecraft",
+                "libraryItemTypeId": 1095,
+                "projectId": 4375,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [
+            {
+                "transitionId": 7076,
+                "projectId": 4375,
+                "partner": "Other",
+                "transitionDate": "2012-09-01",
+                "infusion": "Other",
+                "path": "Closed Out",
+                "details": "The March, 2012 issue of Aerospace America stated that the near-to-medium prospects for applying advanced propulsion' to create a new era of space exploration are not very good. In the current world, we operate to the Moon by climbing aboard a Carnival Cruise Lines vessel (Saturn 5), sail from the harbor (liftoff) shedding whole decks of the ship (staging) along the way and, having reached the return leg of the journey, sink the ship (burnout) and return home in a lifeboat (Apollo capsule). Clearly this is an illogical way to travel, but forced on Explorers by today's propulsion technology. However, the article neglected to consider the one propulsion technology, using today's physical principles that offer continuous, substantial thrust at a theoretical specific impulse of 1,000,000 sec. This engine unequivocally can create a new era of space exploration that changes the way spacecraft operate. Today's space Explorers could travel in Cruise Liner fashion using the technology not considered by Aerospace America, the novel Dusty Plasma Fission Fragment Rocket Engine (FFRE). This NIAC study addresses the FFRE as well as its impact on Exploration Spacecraft design and operation. It uses common physics of the relativistic speed of fission fragments to produce thrust. It radiatively cools the fissioning dusty core and magnetically controls the fragments direction to practically implement previously patented, but unworkable designs. The spacecraft hosting this engine is no more complex nor more massive than the International Space Station (ISS) and would employ the successful ISS technology for assembly and check-out. The elements can be lifted in chunks by a Heavy Lift Launcher. This Exploration Spacecraft would require the resupply of small amounts of nuclear fuel for each journey and would be an in-space asset for decades just as any Cruise Liner on Earth. This study has synthesized versions of the FFRE, integrated one concept onto a host spacecraft designed for manned travel to Jupiter's moon, Callisto, and assessed that round trip journey. This engine, although unoptimized, produced 10 lbf of thrust at a delivered specific impulse of 527,000 sec for the entire 15 year mission while providing enormous amounts of electrical power to the spacecraft. A payload of 60 mT, included in the 300 mT vehicle, was carried to Callisto and back; the propellant tanks holding the 4 mT of fuel were not jettisoned in the process. The study concluded that the engine and spacecraft are within today's technology, could be built, tested, launched on several SLS (or similar) launchers, integrated, checked out, moved to an inspace base such as at a Lagrange point and operated for decades.",
+                "rationale": "Other",
+                "infoText": "Closed out",
+                "infoTextExtra": "",
+                "dateText": "September 2012"
+            }
+        ],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 102272,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 126833,
+            "description": "Project Image   Proposal for a Concept Assessment of a Fission Fragment Rocket Engine (FFRE) Propelled Spacecraft",
+            "projectId": 4375,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "NIAC",
+            "active": true,
+            "description": "The NASA Innovative Advanced Concepts (NIAC) Program nurtures visionary ideas that could transform future NASA missions with the creation of breakthroughs - radically better or entirely new aerospace concepts - while engaging America's innovators and entrepreneurs as partners in the journey. NIAC projects study innovative, technically credible, advanced concepts that could one day \"Change the Possible\" in aerospace. The program is run from NASA Headquarters, Space Technology Mission Directorate.",
+            "programId": 68,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36657,
+            "title": "NASA Innovative Advanced Concepts"
+        },
+        "leadOrganization": {
+            "acronym": "MSFC",
+            "canUserEdit": false,
+            "city": "Huntsville",
+            "country": {
+                "abbreviation": "US",
+                "countryId": 236,
+                "name": "United States"
+            },
+            "countryId": 236,
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4854,
+            "organizationName": "Marshall Space Flight Center",
+            "organizationType": "NASA_Center",
+            "stateTerritory": {
+                "abbreviation": "AL",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Alabama",
+                "stateTerritoryId": 18
+            },
+            "stateTerritoryId": 18,
+            "naorganization": false,
+            "organizationTypePretty": "NASA Center"
+        },
+        "statesWithWork": [
+            {
+                "abbreviation": "AL",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Alabama",
+                "stateTerritoryId": 18
+            }
+        ],
+        "lastUpdated": "2022-8-22",
+        "releaseStatusString": "Released",
+        "endDateString": "Sep 2012",
+        "startDateString": "Sep 2011"
+    }
+}

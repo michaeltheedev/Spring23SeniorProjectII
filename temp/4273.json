@@ -1,0 +1,257 @@
+{
+    "project": {
+        "projectId": 4273,
+        "title": "Design of Electrostatic Directional Dry Adhesives for Robotic Attachment Mechanisms",
+        "primaryTaxonomyNodes": [
+            {
+                "taxonomyNodeId": 10637,
+                "taxonomyRootId": 8816,
+                "parentNodeId": 10632,
+                "level": 3,
+                "code": "TX04.5.5",
+                "title": "Capture Mechanisms and Fixtures",
+                "definition": "Technologies that enable a spacecraft to affect capture and release of another spacecraft or natural space object (small body) include robotic manipulators and tools for grapple, small body sampling systems, orbiting sample collection systems, orbit debris capture systems, and any other system used to affect capture of an object. Additionally, these technologies can include those that are specifically designed to facilitate capture, such as passive grappling. Note: The docking and berthing aspect of mechanism fixtures is captured in TX12.3.8 Docking and berthing mechanisms and fixtures.",
+                "exampleTechnologies": "Dexterous / long reach robotics, grapple tools (cooperative, Marman Ring, Rock, Sample Canister), other grippers, touch and go sampling mechanism, sample canister retrieval mechanism, orbiting sample capture mechanism, harpoon, net, passive grapple",
+                "hasChildren": false,
+                "hasInteriorContent": true
+            }
+        ],
+        "startTrl": 2,
+        "currentTrl": 3,
+        "endTrl": 3,
+        "benefits": "The electrostatic directional dry adhesion technology developed by this proposed work applies to multiple TABS elements and will have a direct impact on NASA operations. Pertaining to TABS element 4.3, electrostatic directional dry adhesion will provide greater versatility for robotic manipulator end effectors. The technology is applicable to any material and space environments. Furthermore, due to the generated adhesive force, grippers would not have to generate a normal force by clamping the target object. This allows it to be gripped locally with little to no applied pressure. These aspects would be useful for situations ranging from object manipulation for planetary rovers to satellite rendezvous and docking operations to collection of space debris. Relating to TABS element 4.2.9, attachment mechanisms capable of providing adhesive force on a multitude of different surface types and roughness with little engagement pressure would be very attractive for use in micro-g environments. Autonomous vehicles utilizing compliant electrostatic adhesion pads could remain attached to a non-magnetic surface such as an asteroid or other celestial body for an extended period of time. Last, this work relates to TABS element 10.1.4. Although the focus of this research is the use of micro-scale directional stalks for integration with electrostatic adhesion, it can provide a foundation for further research in nano-scale directional dry adhesives that utilize very small and stiff fibers.",
+        "description": "Attachment mechanisms that are effective over a wide range of material types and surface conditions can be used for a variety of applications including manipulator end-effectors, feet for legged robots, and grippers for docking and rendezvous missions. This research will focus on the development and hybridization two techniques: electrostatic adhesion and directional dry adhesion. Electrostatic adhesion works by generating an electrostatic field which charges or polarizes the substrate material creating an adhesive force. Directional dry adhesion operates by the use of intermolecular van der Waals forces by placing many small \"stalks\" in contact with the substrate. These mechanisms can provide key advantages over conventional methods, especially in the unique environments encountered by NASA.   This research will develop fabrication methods for electrostatic and directional dry adhesive pads using conventional CNC machining techniques and shape deposition manufacturing (SDM). Multiple electrostatic adhesion pads with a consistent pattern topology but varying number of electrodes and electrode width to spacing ratios will be constructed and tested. A test bed will be developed to automatically cycle a pad through a set of loading conditions to evaluate the generated adhesive pressure. The acquired data will allow for conclusions to be drawn on optimal electrode density and spacing. Based on these conclusions more advanced electrode configurations such as spiral, fractal, and discretized patterns will be evaluated and optimized. The proposed research will also develop manufacturing techniques for integrating conductive electrodes with directional dry adhesives. The electrodes will be imbedded into polymer stalks on the order of a few hundred micrometers in size. Additionally, the configuration of the polarity of the individual polymer stalks will be varied and evaluated through experimental testing. Conclusions drawn on the optimal polarity configuration will be used to increase the generated adhesive pressures and overall robustness.   The electrostatic directional dry adhesion technology developed by this proposed work applies to multiple TABS elements and will have a direct impact on NASA operations. Pertaining to TABS element 4.3, electrostatic directional dry adhesion will provide greater versatility for robotic manipulator end effectors. The technology is applicable to any material and space environments. Furthermore, due to the generated adhesive force, grippers would not have to generate a normal force by clamping the target object. This allows it to be gripped locally with little to no applied pressure. These aspects would be useful for situations ranging from object manipulation for planetary rovers to satellite rendezvous and docking operations to collection of space debris. Relating to TABS element 4.2.9, attachment mechanisms capable of providing adhesive force on a multitude of different surface types and roughness with little engagement pressure would be very attractive for use in micro-g environments. Autonomous vehicles utilizing compliant electrostatic adhesion pads could remain attached to a non-magnetic surface such as an asteroid or other celestial body for an extended period of time. Last, this work relates to TABS element 10.1.4. Although the focus of this research is the use of micro-scale directional stalks for integration with electrostatic adhesion, it can provide a foundation for further research in nano-scale directional dry adhesives that utilize very small and stiff fibers.   The electrostatic directional dry adhesive technology proposed here is a unique attachment mechanism that is functional in zero atmosphere, applicable to all surface materials and roughness, consumes little power, and possesses controllable adhesion. This unique combination of proprieties is applicable to multiple TABS elements and will have a significant impact on NASA missions.",
+        "startYear": 2011,
+        "startMonth": 8,
+        "endYear": 2015,
+        "endMonth": 8,
+        "statusDescription": "Completed",
+        "principalInvestigators": [
+            {
+                "contactId": 323709,
+                "firstName": "Matthew",
+                "lastName": "Spenko",
+                "fullName": "Matthew Spenko",
+                "fullNameInverted": "Spenko, Matthew",
+                "primaryEmail": "mspenko@iit.edu",
+                "publicEmail": false,
+                "nacontact": false
+            }
+        ],
+        "programDirectors": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programExecutives": [
+            {
+                "contactId": 84634,
+                "firstName": "Claudia",
+                "lastName": "Meyer",
+                "fullName": "Claudia M Meyer",
+                "fullNameInverted": "Meyer, Claudia M",
+                "middleInitial": "M",
+                "primaryEmail": "claudia.m.meyer@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "programManagers": [
+            {
+                "contactId": 183514,
+                "firstName": "Hung",
+                "lastName": "Nguyen",
+                "fullName": "Hung D Nguyen",
+                "fullNameInverted": "Nguyen, Hung D",
+                "middleInitial": "D",
+                "primaryEmail": "hung.d.nguyen@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "coInvestigators": [
+            {
+                "contactId": 125822,
+                "firstName": "Donald",
+                "lastName": "Ruffatto",
+                "fullName": "Donald F Ruffatto",
+                "fullNameInverted": "Ruffatto, Donald F",
+                "middleInitial": "F",
+                "primaryEmail": "donald.f.ruffatto@nasa.gov",
+                "publicEmail": true,
+                "nacontact": false
+            }
+        ],
+        "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+        "libraryItems": [
+            {
+                "caption": "Project Image   Design of Electrostatic Directional Dry Adhesives for Robotic Attachment Mechanisms",
+                "file": {
+                    "fileExtension": "jpg",
+                    "fileId": 1739,
+                    "fileName": "4273-1363176585565",
+                    "fileSize": 194342,
+                    "objectId": 637,
+                    "objectType": {
+                        "lkuCodeId": 889,
+                        "code": "LIBRARY_ITEMS",
+                        "description": "Library Items",
+                        "lkuCodeTypeId": 182,
+                        "lkuCodeType": {
+                            "codeType": "OBJECT_TYPE",
+                            "description": "Object Type"
+                        }
+                    },
+                    "objectTypeId": 889,
+                    "fileSizeString": "194.3 KB"
+                },
+                "files": [
+                    {
+                        "fileExtension": "jpg",
+                        "fileId": 1739,
+                        "fileName": "4273-1363176585565",
+                        "fileSize": 194342,
+                        "objectId": 637,
+                        "objectType": {
+                            "lkuCodeId": 889,
+                            "code": "LIBRARY_ITEMS",
+                            "description": "Library Items",
+                            "lkuCodeTypeId": 182,
+                            "lkuCodeType": {
+                                "codeType": "OBJECT_TYPE",
+                                "description": "Object Type"
+                            }
+                        },
+                        "objectTypeId": 889,
+                        "fileSizeString": "194.3 KB"
+                    }
+                ],
+                "id": 637,
+                "title": "4273-1363176585565.jpg",
+                "description": "Project Image   Design of Electrostatic Directional Dry Adhesives for Robotic Attachment Mechanisms",
+                "libraryItemTypeId": 1095,
+                "projectId": 4273,
+                "primary": true,
+                "publishedDateString": "",
+                "contentType": {
+                    "lkuCodeId": 1095,
+                    "code": "IMAGE",
+                    "description": "Image",
+                    "lkuCodeTypeId": 341,
+                    "lkuCodeType": {
+                        "codeType": "LIBRARY_ITEM_TYPE",
+                        "description": "Library Item Type"
+                    }
+                }
+            }
+        ],
+        "transitions": [],
+        "primaryImage": {
+            "file": {
+                "fileExtension": "jpg",
+                "fileId": 1739,
+                "fileSizeString": "0 Byte"
+            },
+            "id": 637,
+            "description": "Project Image   Design of Electrostatic Directional Dry Adhesives for Robotic Attachment Mechanisms",
+            "projectId": 4273,
+            "publishedDateString": ""
+        },
+        "responsibleMd": {
+            "acronym": "STMD",
+            "canUserEdit": false,
+            "city": "",
+            "external": false,
+            "linkCount": 0,
+            "organizationId": 4875,
+            "organizationName": "Space Technology Mission Directorate",
+            "organizationType": "NASA_Mission_Directorate",
+            "naorganization": false,
+            "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "program": {
+            "acronym": "STRG",
+            "active": true,
+            "description": "<p> \tThe Space Technology Research Grants Program will accelerate the development of &quot;push&quot; technologies to support the future space science and exploration needs of NASA, other government agencies and the commercial space sector. Innovative efforts with high risk and high payoff will be encouraged. The program is composed of two competitively awarded components.</p> ",
+            "programId": 69,
+            "responsibleMd": {
+                "acronym": "STMD",
+                "canUserEdit": false,
+                "city": "",
+                "external": false,
+                "linkCount": 0,
+                "organizationId": 4875,
+                "organizationName": "Space Technology Mission Directorate",
+                "organizationType": "NASA_Mission_Directorate",
+                "naorganization": false,
+                "organizationTypePretty": "NASA Mission Directorate"
+            },
+            "responsibleMdId": 4875,
+            "stockImageFileId": 36658,
+            "title": "Space Technology Research Grants"
+        },
+        "supportingOrganizations": [
+            {
+                "canUserEdit": false,
+                "city": "Chicago",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "external": true,
+                "linkCount": 0,
+                "organizationId": 3994,
+                "organizationName": "Illinois Institute of Technology",
+                "organizationType": "Academia",
+                "stateTerritory": {
+                    "abbreviation": "IL",
+                    "country": {
+                        "abbreviation": "US",
+                        "countryId": 236,
+                        "name": "United States"
+                    },
+                    "countryId": 236,
+                    "name": "Illinois",
+                    "stateTerritoryId": 39
+                },
+                "stateTerritoryId": 39,
+                "msiData": {
+                    "2017": [
+                        "Asian American Native American Pacific Islander (AANAPISI)"
+                    ]
+                },
+                "setAsideData": [],
+                "murepUnitId": 145725,
+                "naorganization": false,
+                "organizationTypePretty": "Academia"
+            }
+        ],
+        "statesWithWork": [
+            {
+                "abbreviation": "IL",
+                "country": {
+                    "abbreviation": "US",
+                    "countryId": 236,
+                    "name": "United States"
+                },
+                "countryId": 236,
+                "name": "Illinois",
+                "stateTerritoryId": 39
+            }
+        ],
+        "lastUpdated": "2018-10-10",
+        "releaseStatusString": "Released",
+        "endDateString": "Aug 2015",
+        "startDateString": "Aug 2011"
+    }
+}
